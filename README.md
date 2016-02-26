@@ -14,6 +14,13 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 
 ####Ethylbenzene Dehydrogenase
 
+ Name | Description |
+ :--- | :---------- |
+| [Putative ethylbenzene dehydrogenase, subunit A ]() | Molybdopterin oxidoredutase |
+| [Putative ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase |
+| [Putative ethylbenzene dehydrogenase, subunit C ]() | Heme-binding |
+| [Putative ethylbenzene dehydrogenase, subunit D ]() | Chaperone |
+
 ###Alkanes
 
 ####Alkylsucciante Synthase (ASS) / (methyl)alkylsucciante Synthase (MAS)
