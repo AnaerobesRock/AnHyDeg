@@ -14,16 +14,28 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 
 ####Ethylbenzene Dehydrogenase
 
-A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. 
+A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A 
 
  Name | Description |
- :--- | :---------- |:--- |:--- |
-| [Ethylbenzene dehydrogenase, subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | [NT fasta](fasta_files/EbdA_AA.faa) | [AA fasta](fasta_files/nucleotide/ebdA_NT.fna) |
-| [Ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | [NT fasta]() | [AA fasta]() |
-| [Ethylbenzene dehydrogenase, subunit C ]() | Heme-binding | [NT fasta]() | [AA fasta]() |
-| [Ethylbenzene dehydrogenase, subunit D ]() | Chaperone | [NT fasta]() | [AA fasta]() |
+ :--- | :---------- |
+| [Ethylbenzene dehydrogenase, subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | 
+| [Ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | 
+| [Ethylbenzene dehydrogenase, subunit C ]() | Heme-binding | 
+| [Ethylbenzene dehydrogenase, subunit D ]() | Chaperone | 
+
+####p-cymene dehydrogenase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
 
 
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
 
 ###Alkanes
 
