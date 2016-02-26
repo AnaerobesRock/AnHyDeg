@@ -10,7 +10,7 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 
 ## Hdrocarbon Degradation Pathways
 
-###BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) 
+###BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Releated Compounds
 
 ####Ethylbenzene Dehydrogenase
 
@@ -23,19 +23,69 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [Ethylbenzene dehydrogenase, subunit C ]() | Heme-binding | 
 | [Ethylbenzene dehydrogenase, subunit D ]() | Chaperone | 
 
-####p-cymene dehydrogenase
+####p-Cymene Dehydrogenase
 
  Name | Description |
  :--- | :---------- |
 | []() |  |
 | []() |  |
 
-
+#### Phehylethanol Dehydrogenase
 
  Name | Description |
  :--- | :---------- |
 | []() |  |
 | []() |  |
+
+#### Acetophenone Carboxylase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
+#### Phenylphosphate Synthase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
+#### Phenylphosphate Carbonxylase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
+#### Putative Benzene Carboxylase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
+#### Benzylsuccinate Synthase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
+####(4-Isopropylbenzyl)succinate Synthase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
+####Hydroxybenzylsyccinate Synthase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
 
 ###Alkanes
 
@@ -48,3 +98,11 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | []() |  |
 
 ### Polyaromatic Hydrocarbons
+
+#### 2-Napthylmethylsuccinate Synthase
+
+ Name | Description |
+ :--- | :---------- |
+| []() |  |
+| []() |  |
+
