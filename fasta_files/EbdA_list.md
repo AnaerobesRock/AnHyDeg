@@ -11,4 +11,4 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [EbdA_AA.faa](amino_acid/EbdA_AA.faa) |
-| Nucleotide | []() |
+| Nucleotide | [ebdA_NT.fna](nucleotide/ebdA_NT.fna) |
