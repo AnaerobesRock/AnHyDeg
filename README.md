@@ -17,7 +17,7 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A 
 
  Name | Description |
- :--- | :---------- |
+ :--- | :--- |
 | [Ethylbenzene dehydrogenase, subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | 
 | [Ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | 
 | [Ethylbenzene dehydrogenase, subunit C ]() | Heme-binding | 
