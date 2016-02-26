@@ -8,6 +8,16 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-impacted environments. Curr Opin Biotech 24, 506-515.
 
+### Hdrocarbon Degradation Pathways
+
+##BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) 
+
+#Ethylbenzene Dehydrogenase
+
+##Alkanes
+
+#Alkylsucciante Synthase (ASS) / (methyl)alkylsucciante Synthase (MAS)
+
  Name | Description |
  :--- | :---------- |
 | [Alkylsuccinate Synthase Alpha Subunit](assA.md) | Genes/Proteins for the catalytic subunit of alkylsucciante synthase  |
