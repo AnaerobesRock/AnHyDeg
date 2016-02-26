@@ -19,9 +19,9 @@ A descirption with referneces goes here. A descirption with referneces goes here
  Name | Description |
  :--- | :--- |
 | [Ethylbenzene dehydrogenase, subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | 
-| [Ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | 
-| [Ethylbenzene dehydrogenase, subunit C ]() | Heme-binding | 
-| [Ethylbenzene dehydrogenase, subunit D ]() | Chaperone | 
+| [Ethylbenzene dehydrogenase, subunit B ](fasta_files/EbdB_list.md) | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | 
+| [Ethylbenzene dehydrogenase, subunit C ](fasta_files/EbdC_list.md) | Heme-binding | 
+| [Ethylbenzene dehydrogenase, subunit D ](fasta_files/EbdD_list.md) | Chaperone | 
 
 ####p-Cymene Dehydrogenase
 
