@@ -17,11 +17,13 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. 
 
  Name | Description |
- :--- | :---------- |
-| [Putative ethylbenzene dehydrogenase, subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | [NT fasta]() | [AA fasta]() |
-| [Putative ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | [NT fasta]() | [AA fasta]() |
-| [Putative ethylbenzene dehydrogenase, subunit C ]() | Heme-binding | [NT fasta]() | [AA fasta]() |
-| [Putative ethylbenzene dehydrogenase, subunit D ]() | Chaperone | [NT fasta]() | [AA fasta]() |
+ :--- | :---------- |:--- |:--- |
+| [Ethylbenzene dehydrogenase, subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | [NT fasta](fasta_files/EbdA_AA.faa) | [AA fasta](fasta_files/nucleotide/ebdA_NT.fna) |
+| [Ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | [NT fasta]() | [AA fasta]() |
+| [Ethylbenzene dehydrogenase, subunit C ]() | Heme-binding | [NT fasta]() | [AA fasta]() |
+| [Ethylbenzene dehydrogenase, subunit D ]() | Chaperone | [NT fasta]() | [AA fasta]() |
+
+
 
 ###Alkanes
 
