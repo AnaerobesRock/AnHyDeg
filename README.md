@@ -17,7 +17,7 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
  Name | Description |
  :--- | :---------- |
 | [Putative ethylbenzene dehydrogenase, subunit A ]() | Molybdopterin oxidoredutase |
-| [Putative ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase |
+| [Putative ethylbenzene dehydrogenase, subunit B ]() | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein |
 | [Putative ethylbenzene dehydrogenase, subunit C ]() | Heme-binding |
 | [Putative ethylbenzene dehydrogenase, subunit D ]() | Chaperone |
 
@@ -27,6 +27,6 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 
  Name | Description |
  :--- | :---------- |
-| [Alkylsuccinate Synthase Alpha Subunit](assA.md) | Genes/Proteins for the catalytic subunit of alkylsucciante synthase  |
-| [Alkylsuccinate Synthase Activating Enzyme](assD.md) | Genes/Proteins for the glycyl radical enzyme activase of alkylsucciante synthase|
+| [Alkylsuccinate Synthase Alpha Subunit](assA.md) | Catalytic subunit of alkylsucciante synthase  |
+| [Alkylsuccinate Synthase Activating Enzyme](assD.md) | Glycyl radical enzyme activase of alkylsucciante synthase|
 | []() |  |
