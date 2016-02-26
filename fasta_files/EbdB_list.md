@@ -9,5 +9,5 @@
 
  File type | Download Link |
  :--- | :---------- | 
-| Amino Acid | [EbdA_AA.faa](amino_acid/EbdB_AA.faa) |
-| Nucleotide | [ebdA_NT.fna](nucleotide/ebdB_NT.fna) |
+| Amino Acid | [EbdB_AA.faa](amino_acid/EbdB_AA.faa) |
+| Nucleotide | [ebdB_NT.fna](nucleotide/ebdB_NT.fna) |
