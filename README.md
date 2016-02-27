@@ -18,17 +18,19 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description |
  :--- | :--- |
-| [Ethylbenzene dehydrogenase, subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | 
-| [Ethylbenzene dehydrogenase, subunit B ](fasta_files/EbdB_list.md) | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | 
-| [Ethylbenzene dehydrogenase, subunit C ](fasta_files/EbdC_list.md) | Heme-binding | 
-| [Ethylbenzene dehydrogenase, subunit D ](fasta_files/EbdD_list.md) | Chaperone | 
+| [Ethylbenzene dehydrogenase subunit A ](fasta_files/EbdA_list.md) | Molybdopterin oxidoredutase | 
+| [Ethylbenzene dehydrogenase subunit B ](fasta_files/EbdB_list.md) | Respiratory nitrate reductase /4Fe-4S ferredoxin iron-sulfur binding domain protein | 
+| [Ethylbenzene dehydrogenase subunit C ](fasta_files/EbdC_list.md) | Heme-binding | 
+| [Ethylbenzene dehydrogenase subunit D ](fasta_files/EbdD_list.md) | Chaperone | 
 
 ####p-Cymene Dehydrogenase
 
  Name | Description |
  :--- | :---------- |
-| []() |  |
-| []() |  |
+| [p-cymene dehydrogenase subunit alpha](fasta_files/CmdA_list.md) |DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479  |
+| [p-cymene dehydrogenase subunit beta](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
+| [p-cymene dehydrogenase subunit gamma](fasta_files/CmdC_list.md) | Domon-like ligand-binding domains; cl14783 |  
+| [p-cymene dehydrogenase assembly chaperone protein ](fasta_files/CmdD_list.md) | Nitrate reductase delta subunit; cl00958 |
 
 #### Phehylethanol Dehydrogenase
 
