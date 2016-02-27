@@ -8,9 +8,9 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-impacted environments. Curr Opin Biotech 24, 506-515.
 
-## Hdrocarbon Degradation Pathways
+## Degradation Pathways
 
-###BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Releated Compounds
+##BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Releated Compounds
 
 ####Ethylbenzene Dehydrogenase
 
@@ -91,7 +91,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | []() |  |
 
 
-###Alkanes
+##Alkanes
 
 ####Alkylsucciante Synthase (ASS) / (methyl)alkylsucciante Synthase (MAS)
 
@@ -101,7 +101,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [Alkylsuccinate Synthase Activating Enzyme]() | Glycyl radical enzyme activase of alkylsucciante synthase|
 | []() |  |
 
-### Polyaromatic Hydrocarbons
+## Polyaromatic Hydrocarbons
 
 #### 2-Napthylmethylsuccinate Synthase
 
