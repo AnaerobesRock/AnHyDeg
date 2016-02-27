@@ -18,19 +18,19 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description |
  :--- | :--- |
-| [Ethylbenzene dehydrogenase subunit A ](fasta_files/EbdA_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
-| [Ethylbenzene dehydrogenase subunit B ](fasta_files/EbdB_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein | 
-| [Ethylbenzene dehydrogenase subunit C ](fasta_files/EbdC_list.md) | Heme-binding | 
-| [Ethylbenzene dehydrogenase subunit D ](fasta_files/EbdD_list.md) | Chaperone | 
+| [subunit A ](fasta_files/EbdA_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
+| [subunit B ](fasta_files/EbdB_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein | 
+| [subunit C ](fasta_files/EbdC_list.md) | Heme-binding | 
+| subunit D ](fasta_files/EbdD_list.md) | Chaperone | 
 
 ####p-Cymene Dehydrogenase
 
  Name | Description |
  :--- | :---------- |
-| [p-cymene dehydrogenase subunit alpha](fasta_files/CmdA_list.md) |DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479  |
-| [p-cymene dehydrogenase subunit beta](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
-| [p-cymene dehydrogenase subunit gamma](fasta_files/CmdC_list.md) | Domon-like ligand-binding domains; cl14783 |  
-| [p-cymene dehydrogenase assembly chaperone protein ](fasta_files/CmdD_list.md) | Nitrate reductase delta subunit; cl00958 |
+| [subunit alpha](fasta_files/CmdA_list.md) |DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479  |
+| [subunit beta](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
+| [subunit gamma](fasta_files/CmdC_list.md) | Domon-like ligand-binding domains; cl14783 |  
+| [assembly chaperone protein](fasta_files/CmdD_list.md) | Nitrate reductase delta subunit; cl00958 |
 
 #### Phehylethanol Dehydrogenase
 
@@ -42,11 +42,11 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description |
  :--- | :---------- |
-| [acetophenone carboxylase alpha subunit](fasta_files/ApcA_list.md) | N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism]; COG0145 |
-| [acetophenone carboxylase beta subunit](fasta_files/ApcB_list.md) | Acetone carboxylase gamma subunit; pfam08882 |
-| [acetophenone carboxylase gamma subunit](fasta_files/ApcC_list.md) | N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism]; COG0145 |
-| [acetophenone carboxylase delta subunit](fasta_files/ApcD_list.md) | Hydantoinase B/oxoprolinase; cl19816 |
-| [acetophenone carboxylase epsilon subunit](fasta_files/ApcE_list.md) | The URO-D_CIMS_like protein; cl00464 |
+| [alpha subunit](fasta_files/ApcA_list.md) | N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism]; COG0145 |
+| [beta subunit](fasta_files/ApcB_list.md) | Acetone carboxylase gamma subunit; pfam08882 |
+| [gamma subunit](fasta_files/ApcC_list.md) | N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism]; COG0145 |
+| [delta subunit](fasta_files/ApcD_list.md) | Hydantoinase B/oxoprolinase; cl19816 |
+| [epsilon subunit](fasta_files/ApcE_list.md) | The URO-D_CIMS_like protein; cl00464 |
 
 #### Phenylphosphate Synthase
 
