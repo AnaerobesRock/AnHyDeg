@@ -21,7 +21,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [subunit A ](fasta_files/EbdA_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
 | [subunit B ](fasta_files/EbdB_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein | 
 | [subunit C ](fasta_files/EbdC_list.md) | Heme-binding | 
-| subunit D ](fasta_files/EbdD_list.md) | Chaperone | 
+| [subunit D ](fasta_files/EbdD_list.md) | Chaperone | 
 
 ####p-Cymene Dehydrogenase
 
