@@ -8,5 +8,5 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [PhenylethanolDehydrogenase_AA.faa](amino_acid/PhenylphosphateSynthaseSubunitA_AA.faa) |
-| Nucleotide | [PhenylethanolDehydrogenase_NT.fna](nucleotide/PhenylphosphateSynthaseSubunitA_NT.faa) |
+| Nucleotide | [PhenylethanolDehydrogenase_NT.fna](nucleotide/PhenylphosphateSynthaseSubunitA_NT.fna) |
 
