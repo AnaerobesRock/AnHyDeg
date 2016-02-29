@@ -86,8 +86,8 @@ A descirption with referneces goes here. A descirption with referneces goes here
  Name | Description / Annotation Notes |
  :--- | :---------- |
 | [alpha subunit](fasta_files/IbsA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
-| [chain B](fasta_files/IbsB_list.md) |  |
-| [chain C](fasta_files/IbsC_list.md) | BssC/TutF protein-like protein; pfam08201 |
+| [beta subunit](fasta_files/IbsB_list.md) |  |
+| [gamma subunit](fasta_files/IbsC_list.md) | BssC/TutF protein-like protein; pfam08201 |
 | [activating enzyme](fasta_files/IbsD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 | []() |  |
 
