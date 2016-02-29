@@ -2,6 +2,10 @@ Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | BssA | Magnetospirillum sp. TS6 | [BAD42366](http://www.ncbi.nlm.nih.gov/protein/BAD42366) |
 | BssA | Clostridia bacterium enrichment culture clone BF | [ADJ93876](http://www.ncbi.nlm.nih.gov/protein/ADJ93876) |
+| BssA | Geobacter metallireducens GS-15 | [ABB31773](http://www.ncbi.nlm.nih.gov/protein/ABB31773) |
+| BssA | ‘Aromatoleum’ aromaticum EbN1 | [CAI07159](http://www.ncbi.nlm.nih.gov/protein/CAI07159) |
+| BssA | Thauera sp.DNT-1 | [BAC05501](http://www.ncbi.nlm.nih.gov/protein/BAC05501) |
+| BssA | Thauera aromatica T1 | [AAC38454](http://www.ncbi.nlm.nih.gov/protein/AAC38454) |
 
 | | | []() |
 
