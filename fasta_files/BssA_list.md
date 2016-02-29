@@ -8,8 +8,7 @@ Gene | Organism | GenBank Accession |
 | BssA | Thauera aromatica T1 | [AAC38454](http://www.ncbi.nlm.nih.gov/protein/AAC38454) |
 | BssA | Thauera aromatica K172 | [CAA05052](http://www.ncbi.nlm.nih.gov/protein/CAA05052) |
 | BssA | Azoarcus sp. T | [AAK50372](http://www.ncbi.nlm.nih.gov/protein/AAK50372) |
-| BssA | Desulfobacula toluolica Tol2T | [CCK78310](http://www.ncbi.nlm.nih.gov/protein/CCK78310) |
-| | | []() |
+
 
 ###FILE DOWNLOAD LINKS
 
