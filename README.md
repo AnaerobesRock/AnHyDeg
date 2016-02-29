@@ -16,7 +16,7 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 
 A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A 
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :--- |
 | [subunit A ](fasta_files/EbdA_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
 | [subunit B ](fasta_files/EbdB_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein | 
@@ -25,7 +25,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
 ####p-Cymene Dehydrogenase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | [subunit alpha](fasta_files/CmdA_list.md) |DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479  |
 | [subunit beta](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
@@ -34,13 +34,13 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
 #### Phehylethanol Dehydrogenase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | [Phenylethanol dehydrogenase](fasta_files/PhenylethanolDehydrogenase_list.md) | 3-ketoacyl-(acyl-carrier-protein) reductase; PRK0555 |
 
 #### Acetophenone Carboxylase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | [alpha subunit](fasta_files/ApcA_list.md) | N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism]; COG0145 |
 | [beta subunit](fasta_files/ApcB_list.md) | Acetone carboxylase gamma subunit; pfam08882 |
@@ -50,42 +50,44 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
 #### Phenylphosphate Synthase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | [subunit A](fasta_files/PhenylphosphateSynthaseSubunitA.md) | PEP-utilizing enzyme, mobile domain; pfam00391 |
 | [subunit B](fasta_files/PhenylphosphateSynthaseSubunitB.md) | Pyruvate phosphate dikinase, PEP/pyruvate binding domain; pfam01326 |
 
 #### Phenylphosphate Carbonxylase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
-| []() |  |
-| []() |  |
+| [alpha subunit](fasta_files/PpcA_list.md) | phenylphosphate carboxylase, alpha subunit; TIGR02723 |
+| [beta subunit](fasta_files/PpcB_list.md) | 3-octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
+| [gamma subunit](fasta_files/PpcC_list.md) | haloacid dehalogenase-like hydrolase; pfam00702 |
+| [delta subunit](fasta_files/PpcD_list.md) | phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
 #### Putative Benzene Carboxylase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | []() |  |
 | []() |  |
 
 #### Benzylsuccinate Synthase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | []() |  |
 | []() |  |
 
 ####(4-Isopropylbenzyl)succinate Synthase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | []() |  |
 | []() |  |
 
 ####Hydroxybenzylsyccinate Synthase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | []() |  |
 | []() |  |
@@ -95,7 +97,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
 ####Alkylsucciante Synthase (ASS) / (methyl)alkylsucciante Synthase (MAS)
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | [Alkylsuccinate Synthase Alpha Subunit]() | Catalytic subunit of alkylsucciante synthase  |
 | [Alkylsuccinate Synthase Activating Enzyme]() | Glycyl radical enzyme activase of alkylsucciante synthase|
@@ -105,7 +107,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
 #### 2-Napthylmethylsuccinate Synthase
 
- Name | Description |
+ Name | Description / Annotation Notes |
  :--- | :---------- |
 | []() |  |
 | []() |  |
