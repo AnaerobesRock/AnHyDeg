@@ -112,6 +112,6 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| []() |  |
+| [alpha subunit](fasta_files/NmsA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | []() |  |
 
