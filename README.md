@@ -75,7 +75,10 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| []() |  |
+| [alpha subunit](fasta_files/bssA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [chain B](fasta_files/bssB_list.md) |  |
+| [chain C](fasta_files/bssC_list.md) | BssC/TutF protein; pfam08201 |
+| [radical activating protein](fasta_files/bssD_list.md) | Radical SAM superfamily. cl18962 |
 | []() |  |
 
 ####(4-Isopropylbenzyl)succinate Synthase
