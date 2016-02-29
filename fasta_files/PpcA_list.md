@@ -8,5 +8,5 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [PpcA_AA.faa](amino_acid/PpcA_AA.faa) |
-| Nucleotide | [PpcA_NT.fna](nucleotide/PpcA_NT.fna) |
+| Nucleotide | [ppcA_NT.fna](nucleotide/ppcA_NT.fna) |
 
