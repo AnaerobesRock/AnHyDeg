@@ -1,11 +1,11 @@
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| ApcE | ‘Aromatoleum’ aromaticum EbN1 | [Q5P5G6](http://www.ncbi.nlm.nih.gov/protein/Q5P5G6) |
+| IbsA | "Thauera" sp. pCyN2 | [AIS23708](http://www.ncbi.nlm.nih.gov/protein/AIS23708) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
 
  File type | Download Link |
  :--- | :---------- | 
-| Amino Acid | [ApcE_AA.faa](amino_acid/ApcE_AA.faa) |
-| Nucleotide | [ApcE_NT.fna](nucleotide/apcE_NT.fna) |
+| Amino Acid | [IbsA_AA.faa](amino_acid/IbsA_AA.faa) |
+| Nucleotide | [ibsA_NT.fna](nucleotide/ibsA_NT.fna) |
