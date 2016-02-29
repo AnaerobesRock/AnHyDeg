@@ -108,9 +108,12 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alkylsuccinate Synthase Alpha Subunit]() | Catalytic subunit of alkylsucciante synthase  |
-| [Alkylsuccinate Synthase Activating Enzyme]() | Glycyl radical enzyme activase of alkylsucciante synthase|
-| []() |  |
+| [alpha subunit](fasta_files/AssA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [beta subunit](fasta_files/AssB_list.md) |  |
+| [gamma subunit](fasta_files/AssC_list.md) | BssC/TutF protein-like protein; pfam08201 |
+| [MasE-like proteins](fasta_files/MasE_list.md) | uncharacterized proteins similar to MasE |
+| [activating enzyme](fasta_files/AssD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
+
 
 ## Polyaromatic Hydrocarbons
 
