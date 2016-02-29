@@ -1,12 +1,12 @@
 Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| AssB1 | Desulfatibacillum alkenivorans AK-01 | [ACL03428](http://www.ncbi.nlm.nih.gov/protein/ACL03428) |
-| AssB2 | Desulfatibacillum alkenivorans AK-01 | [ACL03892](http://www.ncbi.nlm.nih.gov/protein/ACL03892) |
-| AssB (putative) | Desulfatibacillum aliphaticivorans DSM 15576T | [WP_028315530](http://www.ncbi.nlm.nih.gov/protein/WP_028315530) |
-| AssB (putative) | Desulfatibacillum aliphaticivorans DSM 15576T | [WP_051327391](http://www.ncbi.nlm.nih.gov/protein/WP_051327391) |
-| MasE | ‘Aromatoleum’ sp. HxN1 (a.k.a. Azoarcus) | [CAO03074](http://www.ncbi.nlm.nih.gov/protein/CAO03074) |
-| AssB | ‘Smithella‘ sp.  SCADC | [KFO69021](http://www.ncbi.nlm.nih.gov/protein/KFO69021) |
-| AssB | ‘Smithella‘ sp.  D17 | [KFZ44314](http://www.ncbi.nlm.nih.gov/protein/KFZ44314) |
+| AssB1 | Desulfatibacillum alkenivorans AK-01 | [ACL03426](http://www.ncbi.nlm.nih.gov/protein/ACL03426) |
+| AssB2 | Desulfatibacillum alkenivorans AK-01 | [ACL03893](http://www.ncbi.nlm.nih.gov/protein/ACL03893) |
+| AssB1 (putative) | Desulfatibacillum aliphaticivorans DSM 15576T | [ACL03426.1](http://www.ncbi.nlm.nih.gov/protein/ACL03426.1) |
+| AssB2 (putative) | Desulfatibacillum aliphaticivorans DSM 15576T | [ACL03893.1](http://www.ncbi.nlm.nih.gov/protein/ACL03893.1) |
+| MasE | ‘Aromatoleum’ sp. HxN1 (a.k.a. Azoarcus) | [CAO03075](http://www.ncbi.nlm.nih.gov/protein/CAO03075) |
+| AssB | ‘Smithella‘ sp.  SCADC | [KGL06508](http://www.ncbi.nlm.nih.gov/protein/KGL06508) |
+| AssB | ‘Smithella‘ sp.  D17 | [KFZ44313](http://www.ncbi.nlm.nih.gov/protein/KFZ44313) |
 
 ###FILE DOWNLOAD LINKS
 
