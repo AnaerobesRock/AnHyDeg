@@ -1,13 +1,13 @@
 Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| BssC | Magnetospirillum sp. TS6 | [BAD42367](http://www.ncbi.nlm.nih.gov/protein/BAD42367) |
-| BssC | Geobacter metallireducens GS-15 | [ABB31772](http://www.ncbi.nlm.nih.gov/protein/ABB31772) |
-| BssC | ‘Aromatoleum’ aromaticum EbN1 | [CAI07160](http://www.ncbi.nlm.nih.gov/protein/CAI07160) |
-| BssC | Thauera sp.DNT-1 | [BAC05502](http://www.ncbi.nlm.nih.gov/protein/BAC05502) |
-| BssC | Thauera aromatica T1 | [AAC38455](http://www.ncbi.nlm.nih.gov/protein/AAC38455) |
-| BssC | Thauera aromatica K172 | [CAA05053](http://www.ncbi.nlm.nih.gov/protein/CAA05053) |
-| BssC | Azoarcus sp. T | [AAK50373](http://www.ncbi.nlm.nih.gov/protein/AAK50373) |
-| BssC | Desulfobacula toluolica Tol2T | [CCK78309](http://www.ncbi.nlm.nih.gov/protein/CCK78309) |
+| BssC | Magnetospirillum sp. TS6 | [BAD42365](http://www.ncbi.nlm.nih.gov/protein/BAD42365) |
+| BssC | Geobacter metallireducens GS-15 | [ABB31774](http://www.ncbi.nlm.nih.gov/protein/ABB31774) |
+| BssC | ‘Aromatoleum’ aromaticum EbN1 | [CAI07158](http://www.ncbi.nlm.nih.gov/protein/CAI07158) |
+| BssC | Thauera sp.DNT-1 | [BAC05500](http://www.ncbi.nlm.nih.gov/protein/BAC05500) |
+| BssC | Thauera aromatica T1 | [AAC38453](http://www.ncbi.nlm.nih.gov/protein/AAC38453) |
+| BssC | Thauera aromatica K172 | [CAA05051](http://www.ncbi.nlm.nih.gov/protein/CAA05051) |
+| BssC | Azoarcus sp. T | [AAK50371](http://www.ncbi.nlm.nih.gov/protein/AAK50371) |
+| BssC | Desulfobacula toluolica Tol2T | [CCK78311](http://www.ncbi.nlm.nih.gov/protein/CCK78311) |
 
 ###FILE DOWNLOAD LINKS
 
