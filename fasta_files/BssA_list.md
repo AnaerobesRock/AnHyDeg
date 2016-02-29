@@ -6,7 +6,9 @@ Gene | Organism | GenBank Accession |
 | BssA | ‘Aromatoleum’ aromaticum EbN1 | [CAI07159](http://www.ncbi.nlm.nih.gov/protein/CAI07159) |
 | BssA | Thauera sp.DNT-1 | [BAC05501](http://www.ncbi.nlm.nih.gov/protein/BAC05501) |
 | BssA | Thauera aromatica T1 | [AAC38454](http://www.ncbi.nlm.nih.gov/protein/AAC38454) |
-
+| BssA | Thauera aromatica K172 | [CAA05052](http://www.ncbi.nlm.nih.gov/protein/CAA05052) |
+| BssA | Azoarcus sp. T | [AAK50372](http://www.ncbi.nlm.nih.gov/protein/AAK50372) |
+| BssA | Desulfobacula toluolica Tol2T | [CCK78310](http://www.ncbi.nlm.nih.gov/protein/CCK78310) |
 | | | []() |
 
 ###FILE DOWNLOAD LINKS
