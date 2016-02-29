@@ -10,7 +10,7 @@ Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-imp
 
 ## Degradation Pathways
 
-##BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Releated Compounds
+## Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Releated Compounds
 
 ####Ethylbenzene Dehydrogenase
 
@@ -101,6 +101,14 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [activating enzyme](fasta_files/HbsD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 | []() |  |
 
+## Polyaromatic Hydrocarbons
+
+#### 2-Napthylmethylsuccinate Synthase
+
+ Name | Description / Annotation Notes |
+ :--- | :---------- |
+| [alpha subunit](fasta_files/NmsA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| []() |  |
 
 ##Alkanes
 
@@ -115,12 +123,4 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [activating enzyme](fasta_files/AssD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 
 
-## Polyaromatic Hydrocarbons
-
-#### 2-Napthylmethylsuccinate Synthase
-
- Name | Description / Annotation Notes |
- :--- | :---------- |
-| [alpha subunit](fasta_files/NmsA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
-| []() |  |
 
