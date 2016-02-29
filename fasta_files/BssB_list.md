@@ -4,7 +4,7 @@ Gene | Organism | GenBank Accession |
 | BssB | Geobacter metallireducens GS-15 | [ABB31772](http://www.ncbi.nlm.nih.gov/protein/ABB31772) |
 | BssB | ‘Aromatoleum’ aromaticum EbN1 | [CAI07160](http://www.ncbi.nlm.nih.gov/protein/CAI07160) |
 | BssB | Thauera sp.DNT-1 | [BAC05502](http://www.ncbi.nlm.nih.gov/protein/BAC05502) |
-| BssB | Thauera aromatica T1 | [AAC38455](http://www.ncbi.nlm.nih.gov/protein/AAC38455) |
+| TutG | Thauera aromatica T1 | [AAC38455](http://www.ncbi.nlm.nih.gov/protein/AAC38455) |
 | BssB | Thauera aromatica K172 | [CAA05053](http://www.ncbi.nlm.nih.gov/protein/CAA05053) |
 | BssB | Azoarcus sp. T | [AAK50373](http://www.ncbi.nlm.nih.gov/protein/AAK50373) |
 | BssB | Desulfobacula toluolica Tol2T | [CCK78309](http://www.ncbi.nlm.nih.gov/protein/CCK78309) |
@@ -14,5 +14,5 @@ Gene | Organism | GenBank Accession |
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [BssB_AA.faa](amino_acid/BssB_AA.faa) |
-| Nucleotide | [bassB_NT.fna](nucleotide/bssB_NT.fna) |
+| Nucleotide | [bssB_NT.fna](nucleotide/bssB_NT.fna) |
 
