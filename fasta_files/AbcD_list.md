@@ -8,4 +8,4 @@ Gene | Organism | GenBank Accession |
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [AbcD_AA.faa](amino_acid/AbcD_AA.faa) |
-| Nucleotide | [abcD_NT.fna](nucleotide/abcD_AA.fna) |
+| Nucleotide | [abcD_NT.fna](nucleotide/abcD_NT.fna) |
