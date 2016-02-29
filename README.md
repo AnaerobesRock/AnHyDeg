@@ -68,8 +68,8 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [putative benzene caroxylase](AbcA_list.md) | 3-octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
-| [gamma subunit](AbcD_list.md) | phenylphosphate carboxylase, gamma subunit; TIGR02725 |
+| [putative benzene caroxylase](fasta_files/AbcA_list.md) | 3-octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
+| [gamma subunit](fasta_files/AbcD_list.md) | phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
 #### Benzylsuccinate Synthase
 
