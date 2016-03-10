@@ -6,7 +6,7 @@ Functional genes are frequently used as metabolic markers for the capacity of mi
 Over the last twenty-five years much has been learned about anaerobic biodegradation pathways and requisite studies have provided a wealth of information regarding potential metabolic and molecular biomarkers for environmental assessments of anaerobic hydrocarbon metabolism ([Callaghan, 2013](http://www.sciencedirect.com/science/article/pii/S0958166912001267)). Especially with respect to the genetic data, this information is spread throughout the literature and has not been summarize in a convenient manner suitable for routine genomic/metagenomics analysis. 
 This GitHub page therefore is an effort to assemble gene sequences related to anaerobic hydrocarbon degradation pathway. We note, that only full length sequences from cultivated and functionally characterized organisms were included.  
 
-Callaghan, A. V. (2013). Metabolomic investigations of anaerobic hydrocarbon-impacted environments. Curr Opin Biotech 24, 506-515.
+[Callaghan, A. V. (2013)](http://www.sciencedirect.com/science/article/pii/S0958166912001267). Metabolomic investigations of anaerobic hydrocarbon-impacted environments. Curr Opin Biotech 24, 506-515.
 
 ## Degradation Pathways
 
