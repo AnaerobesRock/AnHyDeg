@@ -36,15 +36,15 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Phenylethanol dehydrogenase](fasta_files/PhenylethanolDehydrogenase_list.md) | 3-ketoacyl-(acyl-carrier-protein) reductase; PRK0555 |
+| [Phenylethanol dehydrogenase](fasta_files/PhenylethanolDehydrogenase_list.md) | 3-Ketoacyl-(acyl-carrier-protein) reductase; PRK0555 |
 
 #### Acetophenone Carboxylase
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/ApcA_list.md) | N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism]; COG0145 |
+| [Alpha subunit](fasta_files/ApcA_list.md) | N-Methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, aecondary metabolites biosynthesis, transport and catabolism]; COG0145 |
 | [Beta subunit](fasta_files/ApcB_list.md) | Acetone carboxylase gamma subunit; pfam08882 |
-| [Gamma subunit](fasta_files/ApcC_list.md) | N-methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism]; COG0145 |
+| [Gamma subunit](fasta_files/ApcC_list.md) | N-Methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, aecondary metabolites biosynthesis, transport and catabolism]; COG0145 |
 | [Delta subunit](fasta_files/ApcD_list.md) | Hydantoinase B/oxoprolinase; cl19816 |
 | [Epsilon subunit](fasta_files/ApcE_list.md) | The URO-D_CIMS_like protein; cl00464 |
 
@@ -59,23 +59,23 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/PpcA_list.md) | phenylphosphate carboxylase, alpha subunit; TIGR02723 |
-| [Beta subunit](fasta_files/PpcB_list.md) | 3-octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
-| [Gamma subunit](fasta_files/PpcC_list.md) | haloacid dehalogenase-like hydrolase; pfam00702 |
-| [Delta subunit](fasta_files/PpcD_list.md) | phenylphosphate carboxylase, gamma subunit; TIGR02725 |
+| [Alpha subunit](fasta_files/PpcA_list.md) | Phenylphosphate carboxylase, alpha subunit; TIGR02723 |
+| [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
+| [Gamma subunit](fasta_files/PpcC_list.md) | Haloacid dehalogenase-like hydrolase; pfam00702 |
+| [Delta subunit](fasta_files/PpcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
 #### Putative Benzene Carboxylase
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Putative benzene caroxylase](fasta_files/AbcA_list.md) | 3-octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
-| [Gamma subunit](fasta_files/AbcD_list.md) | phenylphosphate carboxylase, gamma subunit; TIGR02725 |
+| [Putative benzene caroxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
+| [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
 #### Benzylsuccinate Synthase
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/BssA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Alpha subunit](fasta_files/BssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/BssB_list.md) |  |
 | [Gamma subunit](fasta_files/BssC_list.md) | BssC/TutF protein; pfam08201 |
 | [Activase](fasta_files/BssD_list.md) | Radical SAM superfamily. cl18962 |
@@ -85,7 +85,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/IbsA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Alpha subunit](fasta_files/IbsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/IbsB_list.md) |  |
 | [Gamma subunit](fasta_files/IbsC_list.md) | BssC/TutF protein-like protein; pfam08201 |
 | [Activase](fasta_files/IbsD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
@@ -95,7 +95,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/HbsA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Alpha subunit](fasta_files/HbsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/HbsB_list.md) |  |
 | [Gamma subunit](fasta_files/HbsC_list.md) | BssC/TutF protein-like protein; pfam08201 |
 | [Activase](fasta_files/HbsD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
@@ -107,7 +107,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/NmsA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | []() |  |
 
 ##
@@ -117,10 +117,10 @@ A descirption with referneces goes here. A descirption with referneces goes here
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/AssA_list.md) | glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Alpha subunit](fasta_files/AssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/AssB_list.md) |  |
 | [Gamma subunit](fasta_files/AssC_list.md) | BssC/TutF protein-like protein; pfam08201 |
-| [MasE-like proteins](fasta_files/MasE_like_list.md) | uncharacterized proteins similar to MasE |
+| [MasE-like proteins](fasta_files/MasE_like_list.md) | Uncharacterized proteins similar to MasE |
 | [Activase](fasta_files/AssD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 
 
