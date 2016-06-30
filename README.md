@@ -10,7 +10,7 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 ## Degradation Pathways
 
-## Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Releated Compounds
+## Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Related Compounds
 
 ####Ethylbenzene Dehydrogenase
 
