@@ -113,7 +113,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 ##
 ##Alkanes
 
-####Alkylsucciante Synthase (ASS) / (methyl)alkylsucciante Synthase (MAS)
+####Alkylsuccinate Synthase (ASS) / (methyl)alkylsucciante Synthase (MAS)
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
