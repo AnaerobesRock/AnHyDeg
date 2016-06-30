@@ -30,7 +30,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [Alpha subunit](fasta_files/CmdA_list.md) |DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479  |
 | [Beta subunit](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
 | [Gamma subunit](fasta_files/CmdC_list.md) | Domon-like ligand-binding domains; cl14783 |  
-| [Chaperone assemblyprotein](fasta_files/CmdD_list.md) | Nitrate reductase delta subunit; cl00958 |
+| [Chaperone assembly protein](fasta_files/CmdD_list.md) | Nitrate reductase delta subunit; cl00958 |
 
 #### Phehylethanol Dehydrogenase
 
