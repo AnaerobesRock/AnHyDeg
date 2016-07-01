@@ -1,6 +1,6 @@
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| IbsC | "Thauera" sp. pCyN2 | [AIS23707](http://www.ncbi.nlm.nih.gov/protein/AIS23707) |
+| IbsC | *Thauera* sp. pCyN2 | [AIS23707](http://www.ncbi.nlm.nih.gov/protein/AIS23707) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
