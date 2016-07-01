@@ -23,7 +23,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [Gamma subunit](fasta_files/EbdC_list.md) | Heme-binding | 
 | [Delta subunit](fasta_files/EbdD_list.md) | Chaperone | 
 
-####p-Cymene Dehydrogenase
+####*p*-Cymene Dehydrogenase
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
@@ -32,7 +32,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [Gamma subunit](fasta_files/CmdC_list.md) | Domon-like ligand-binding domains; cl14783 |  
 | [Chaperone assembly protein](fasta_files/CmdD_list.md) | Nitrate reductase delta subunit; cl00958 |
 
-#### Phehylethanol Dehydrogenase
+#### Phenylethanol Dehydrogenase
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
