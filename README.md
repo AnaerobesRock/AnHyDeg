@@ -91,7 +91,7 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [Activase](fasta_files/IbsD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 | []() |  |
 
-####Hydroxybenzylsyccinate Synthase
+####Hydroxybenzylsuccinate Synthase
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
