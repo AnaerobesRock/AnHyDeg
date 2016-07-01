@@ -7,7 +7,7 @@ Gene | Organism | GenBank Accession |
 | TutG | *Thauera aromatica* T1 | [AAC38455](http://www.ncbi.nlm.nih.gov/protein/AAC38455) |
 | BssB | *Thauera aromatica* K172 | [CAA05053](http://www.ncbi.nlm.nih.gov/protein/CAA05053) |
 | BssB | *Azoarcus* sp. T | [AAK50373](http://www.ncbi.nlm.nih.gov/protein/AAK50373) |
-| BssB | *Desulfobacula toluolica* Tol2T | [CCK78309](http://www.ncbi.nlm.nih.gov/protein/CCK78309) |
+| BssB | *Desulfobacula toluolica* Tol2 | [CCK78309](http://www.ncbi.nlm.nih.gov/protein/CCK78309) |
 
 ###FILE DOWNLOAD LINKS
 
