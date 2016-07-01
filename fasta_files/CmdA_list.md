@@ -2,7 +2,7 @@
 
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| CmdA | "Aromatoleum aromaticum" pCyN1 | [AIS23703](http://www.ncbi.nlm.nih.gov/protein/AIS23703) |
+| CmdA | *"Aromatoleum aromaticum"* pCyN1 | [AIS23703](http://www.ncbi.nlm.nih.gov/protein/AIS23703) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
