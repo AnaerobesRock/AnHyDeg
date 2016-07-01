@@ -1,6 +1,6 @@
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| ApcC | ‘Aromatoleum’ aromaticum EbN1 | [Q5P5G4](http://www.ncbi.nlm.nih.gov/protein/Q5P5G4) |
+| ApcC | *‘Aromatoleum’ aromaticum* EbN1 | [Q5P5G4](http://www.ncbi.nlm.nih.gov/protein/Q5P5G4) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
