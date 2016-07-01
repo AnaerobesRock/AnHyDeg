@@ -1,6 +1,6 @@
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| IbsA | "Thauera" sp. pCyN2 | [AIS23708](http://www.ncbi.nlm.nih.gov/protein/AIS23708) |
+| IbsA | *"Thauera"* sp. pCyN2 | [AIS23708](http://www.ncbi.nlm.nih.gov/protein/AIS23708) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
