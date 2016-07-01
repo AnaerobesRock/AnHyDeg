@@ -1,6 +1,6 @@
 Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| AssA1 |* Desulfatibacillum alkenivorans* AK-01 | [ACL03428](http://www.ncbi.nlm.nih.gov/protein/ACL03428) |
+| AssA1 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03428](http://www.ncbi.nlm.nih.gov/protein/ACL03428) |
 | AssA2 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03892](http://www.ncbi.nlm.nih.gov/protein/ACL03892) |
 | AssA (putative) | *Desulfatibacillum aliphaticivorans* DSM 15576T | [WP_028315530](http://www.ncbi.nlm.nih.gov/protein/WP_028315530) |
 | AssA (putative) | *Desulfatibacillum aliphaticivoran*s DSM 15576T | [WP_051327391](http://www.ncbi.nlm.nih.gov/protein/WP_051327391) |
