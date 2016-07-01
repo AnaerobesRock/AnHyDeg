@@ -1,6 +1,6 @@
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| PpcD | ‘Aromatoleum’ aromaticum EbN1 | [CAI07882](http://www.ncbi.nlm.nih.gov/protein/CAI07882) |
+| PpcD | *‘Aromatoleum’ aromaticum* EbN1 | [CAI07882](http://www.ncbi.nlm.nih.gov/protein/CAI07882) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
