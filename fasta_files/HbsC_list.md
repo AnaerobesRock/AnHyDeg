@@ -1,6 +1,6 @@
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| HbsC | Desulfobacula toluolica Tol2T | [CCK78656](http://www.ncbi.nlm.nih.gov/protein/CCK78656) |
+| HbsC | *Desulfobacula toluolica* Tol2 | [CCK78656](http://www.ncbi.nlm.nih.gov/protein/CCK78656) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
