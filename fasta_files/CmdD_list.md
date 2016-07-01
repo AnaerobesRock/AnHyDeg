@@ -1,6 +1,6 @@
  Gene | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| CmdB | "Aromatoleum aromaticum" pCyN1 | [AIS23704](http://www.ncbi.nlm.nih.gov/protein/AIS23704) |
+| CmdB | *"Aromatoleum aromaticum"* pCyN1 | [AIS23704](http://www.ncbi.nlm.nih.gov/protein/AIS23704) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
