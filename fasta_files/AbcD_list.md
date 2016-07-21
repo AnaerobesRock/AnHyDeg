@@ -1,4 +1,4 @@
-Gene | Organism | GenBank Accession |
+Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | AbcD | Clostridia bacterium enrichment culture clone BF | [ADJ94001](http://www.ncbi.nlm.nih.gov/protein/ADJ94001) |
 | []() | | |
