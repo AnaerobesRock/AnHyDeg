@@ -1,4 +1,4 @@
-Gene | Organism | GenBank Accession |
+Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | AssD1 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03425](http://www.ncbi.nlm.nih.gov/protein/ACL03425) |
 | AssD2 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03895](http://www.ncbi.nlm.nih.gov/protein/ACL03895) |
