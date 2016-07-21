@@ -1,4 +1,4 @@
-Gene | Organism | GenBank Accession |
+Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | BssA | *Magnetospirillum* sp. TS6 | [BAD42366](http://www.ncbi.nlm.nih.gov/protein/BAD42366) |
 | BssA | Clostridia bacterium enrichment culture clone BF | [ADJ93876](http://www.ncbi.nlm.nih.gov/protein/ADJ93876) |
