@@ -1,4 +1,4 @@
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | HbsD1 | *Desulfobacula toluolica* Tol2 | [CCK78651](http://www.ncbi.nlm.nih.gov/protein/CCK78651) |
 | HbsD2 | *Desulfobacula toluolica* Tol2 | [CCK78652](http://www.ncbi.nlm.nih.gov/protein/CCK78652) |
