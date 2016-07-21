@@ -1,4 +1,4 @@
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | PpcD | *‘Aromatoleum’ aromaticum* EbN1 | [CAI07882](http://www.ncbi.nlm.nih.gov/protein/CAI07882) |
 | []() | | |
