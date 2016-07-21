@@ -1,4 +1,4 @@
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | ApcA | *‘Aromatoleum’ aromaticum* EbN1 | [Q5P5G2](http://www.ncbi.nlm.nih.gov/protein/Q5P5G2) |
 | []() | | |
