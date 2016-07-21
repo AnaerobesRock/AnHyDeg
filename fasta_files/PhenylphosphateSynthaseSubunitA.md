@@ -1,4 +1,4 @@
-  Gene | Organism | GenBank Accession |
+  Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | Phenylphosphate synthase subunit A, phenol induced | *Thauera aromatica* K172 | [CAC12685](http://www.ncbi.nlm.nih.gov/protein/CAC12685) |
 | []() | | |
