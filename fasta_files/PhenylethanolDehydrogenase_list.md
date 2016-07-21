@@ -1,6 +1,6 @@
   Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| Phenylethanol dehydrogenase | *‘Aromatoleum’ aromaticum* EbN1 | [Q5P5I4](http://www.ncbi.nlm.nih.gov/protein/Q5P5I4) |
+| Ped | *‘Aromatoleum’ aromaticum* EbN1 | [Q5P5I4](http://www.ncbi.nlm.nih.gov/protein/Q5P5I4) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
