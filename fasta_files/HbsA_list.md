@@ -1,4 +1,4 @@
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | HbsA | *Desulfobacula toluolica* Tol2 | [CCK78655](http://www.ncbi.nlm.nih.gov/protein/CCK78655) |
 | []() | | |
