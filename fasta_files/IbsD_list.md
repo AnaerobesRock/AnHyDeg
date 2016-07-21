@@ -1,4 +1,4 @@
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | IbsD | *Thauera* sp. pCyN2 | [AIS23706](http://www.ncbi.nlm.nih.gov/protein/AIS23706) |
 | []() | | |
