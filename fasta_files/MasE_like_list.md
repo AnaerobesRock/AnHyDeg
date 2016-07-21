@@ -1,4 +1,4 @@
-Gene | Organism | GenBank Accession |
+Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | MasE-like (putative) | *Desulfatibacillum alkenivorans* AK-01 | [ACL03429](http://www.ncbi.nlm.nih.gov/protein/ACL03429) |
 | MasE-like (putative) | *Desulfatibacillum alkenivorans* AK-01 | [ACL03890](http://www.ncbi.nlm.nih.gov/protein/ACL03890) |
