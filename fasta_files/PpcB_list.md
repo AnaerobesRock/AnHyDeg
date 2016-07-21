@@ -1,4 +1,4 @@
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | PpcB | *‘Aromatoleum’ aromaticum* EbN1 | [CAI07885](http://www.ncbi.nlm.nih.gov/protein/CAI07885) |
 | []() | | |
