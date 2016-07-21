@@ -1,5 +1,5 @@
 
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | CmdB | *"Aromatoleum aromaticum"* pCyN1 | [AIS23702](http://www.ncbi.nlm.nih.gov/protein/AIS23702) |
 | []() | | |
