@@ -1,4 +1,4 @@
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | EdbC | *‘Aromatoleum’ aromaticum* EbN1 | [CAI07430](http://www.ncbi.nlm.nih.gov/protein/CAI07430)|
 | Edbc | *Azoarcus* sp. EB1 | [AAK76389](http://www.ncbi.nlm.nih.gov/protein/AAK76389)|
