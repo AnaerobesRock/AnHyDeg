@@ -1,4 +1,4 @@
-Gene | Organism | GenBank Accession |
+Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | AbcA | Clostridia bacterium enrichment culture clone BF | [ADJ94002](http://www.ncbi.nlm.nih.gov/protein/ADJ94002) |
 | AbcA | *Ferroglobus placidus* DSM 10642 | [ADC65778](http://www.ncbi.nlm.nih.gov/protein/ADC65778) |
