@@ -1,5 +1,5 @@
 
- Gene | Organism | GenBank Accession |
+ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | EbdA | *‘Aromatoleum’ aromaticum* EbN1 | [CAI07432](http://www.ncbi.nlm.nih.gov/protein/CAI07432) |
 | EbdA | *Azoarcus* sp. EB1 | [AAK76387](http://www.ncbi.nlm.nih.gov/protein/AAK76387) |
