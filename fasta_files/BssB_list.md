@@ -1,4 +1,4 @@
-Gene | Organism | GenBank Accession |
+Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | BssB | *Magnetospirillum* sp. TS6 | [BAD42367](http://www.ncbi.nlm.nih.gov/protein/BAD42367) |
 | BssB | *Geobacter metallireducens* GS-15 | [ABB31772](http://www.ncbi.nlm.nih.gov/protein/ABB31772) |
