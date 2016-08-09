@@ -133,6 +133,8 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 | [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | []() |  |
 
+##### Naphthalene Carboxylase
+
 
 ## Hydroxylated Hydrocarbons 
 
