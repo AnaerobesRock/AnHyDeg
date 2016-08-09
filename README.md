@@ -11,15 +11,13 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 # Degradation Pathways
 
 * [Alkanes](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#alkanes)
-  * Alkylsuccinate Synthase (ASS)
-  * (Methyl)alkylsuccinate Synthase (MAS)
 * [BTEX & Related Compounds] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#btex--related-compounds) 
   * Benzene
   * Toluene
   * Xylene isomers
-  * ethylbenzene
-  * _p_-cymene
-* [PAHs, Naphthalene, and Others] (##PAHs, Naphthalene, and Others)
+  * Ethylbenzene
+  * _p_-Cymene
+* [Naphthalene and other PAHs] (##PAHs, Naphthalene, and Others)
 * [Hydroxylated Hydrocarbons] (##Hydroxylated Hydrocarbons)
   * Phenol
   * _p_-cresol
