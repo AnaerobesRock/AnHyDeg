@@ -102,11 +102,11 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 #### _p_-Cymene (4-Isopropyltoluene)
 
-Anaerobic p-cymene degradation proceeds either by: 1) hydroxylation of the benzylic methyl group via cymene dehydrogenase (CDH) (Strijkstra et al., 2014), or addition of the benzylic methyl group to fumarate, which is catalyzed by (4-isopropylbenzyl)succinate synthase (IBS) (Strijkstra et al., 2014). These enzymes were identified in denitryfing _‘Aromatoleum’ aromaticum_ pCyN1 and _Thauera_ sp. Strain pCyN2, respectively (for review see (Rabus et al., 2016). 
+Anaerobic p-cymene degradation proceeds either by: 1) hydroxylation of the benzylic methyl group via cymene dehydrogenase (CMD) (Strijkstra et al., 2014), or addition of the benzylic methyl group to fumarate, which is catalyzed by (4-isopropylbenzyl)succinate synthase (IBS) (Strijkstra et al., 2014). These enzymes were identified in denitryfing _‘Aromatoleum’ aromaticum_ pCyN1 and _Thauera_ sp. Strain pCyN2, respectively (for review see (Rabus et al., 2016). 
 
 #####_p_-Cymene Dehydrogenase
 
- Name | Description / Annotation Notes |
+ CMD | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/CmdA_list.md) |DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479  |
 | [Beta subunit](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
