@@ -72,7 +72,7 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 #### Ethylbenzene
 
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hydroxylation via ethylbenzene dehydrogenase (EBDH), wherein water serves as the source of the hydroxyl group (for review see (Heider et al., 2016) and addition to fumarate  (Kniemeyer et al., 2003), presumably by a homolog of benzylsuccinate synthase. Of the two enzymes, EBDH is well described and has been identified and/or purified in betaproteobacterial strains EB1 (Ball et al., 1996; Johnson et al., 2001), EbN1 (Rabus and Widdel, 1995; Kniemeyer and Heider, 2001b), and PbN1 (Rabus and Widdel, 1995).  Hydroxylation of ethylbenzene yields (_S_)-1-phenylethanol, which is further oxidized to acetophenone by (_S_)-1-phenylethanol dehydrogenase (PEDH) (Kniemeyer and Heider, 2001a; Höffken et al., 2006); acetophenone is then carboxylated to benzoylacetate by acetophenone carboxylase (ACP) (Jobst et al., 2010).  
 
 ##### Ethylbenzene Dehydrogenase
 
