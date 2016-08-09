@@ -18,7 +18,7 @@ NOTE: The following are only brief summaries of proposed activation steps for di
 * [Naphthalene and other PAHs] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#naphthalene-and-other-pahs)
 * [Hydroxylated Hydrocarbons] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#hydroxylated-hydrocarbons)
   * [Phenol] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#phenol)
-  * [_p_-cresol] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#p-cresol)
+  * [_p_-Cresol] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#p-cresol)
 
 ##Alkanes
 
