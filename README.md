@@ -13,7 +13,7 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 * [Alkanes](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#alkanes)
 * [BTEX & Related Compounds] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#btex--related-compounds) 
   * [Benzene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#benzene)
-  * [Toluene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#tolouene)
+  * [Toluene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#toluene)
   * [Xylene Isomers] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#xylene-isomers)
   * [Ethylbenzene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#ethylbenzene)
   * [_p_-Cymene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#p-cymene)
