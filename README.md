@@ -10,6 +10,18 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 ## Degradation Pathways
 
+##Alkanes
+
+####Alkylsuccinate Synthase (ASS) / (Methyl)alkylsuccinate Synthase (MAS)
+
+ Name | Description / Annotation Notes |
+ :--- | :---------- |
+| [Alpha subunit](fasta_files/AssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Beta subunit](fasta_files/AssB_list.md) |  |
+| [Gamma subunit](fasta_files/AssC_list.md) | BssC/TutF protein-like protein; pfam08201 |
+| [MasE-like proteins](fasta_files/MasE_like_list.md) | Uncharacterized proteins similar to MasE |
+| [Activase](fasta_files/AssD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
+
 ## Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Related Compounds
 
 ####Ethylbenzene Dehydrogenase
@@ -111,17 +123,5 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | []() |  |
 
 ##
-##Alkanes
-
-####Alkylsuccinate Synthase (ASS) / (Methyl)alkylsuccinate Synthase (MAS)
-
- Name | Description / Annotation Notes |
- :--- | :---------- |
-| [Alpha subunit](fasta_files/AssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
-| [Beta subunit](fasta_files/AssB_list.md) |  |
-| [Gamma subunit](fasta_files/AssC_list.md) | BssC/TutF protein-like protein; pfam08201 |
-| [MasE-like proteins](fasta_files/MasE_like_list.md) | Uncharacterized proteins similar to MasE |
-| [Activase](fasta_files/AssD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
-
 
 
