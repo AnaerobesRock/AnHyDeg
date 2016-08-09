@@ -52,7 +52,19 @@ Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) an
 | [Putative benzene caroxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
-####Ethylbenzene Dehydrogenase
+#### TOLUENE
+##### Benzylsuccinate Synthase
+
+ Name | Description / Annotation Notes |
+ :--- | :---------- |
+| [Alpha subunit](fasta_files/BssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Beta subunit](fasta_files/BssB_list.md) |  |
+| [Gamma subunit](fasta_files/BssC_list.md) | BssC/TutF protein; pfam08201 |
+| [Activase](fasta_files/BssD_list.md) | Radical SAM superfamily. cl18962 |
+| []() |  |
+
+#### Ethylbenzene
+##### Ethylbenzene Dehydrogenase
 
  Name | Description / Annotation Notes |
  :--- | :--- |
@@ -101,16 +113,6 @@ Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) an
 | [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/PpcC_list.md) | Haloacid dehalogenase-like hydrolase; pfam00702 |
 | [Delta subunit](fasta_files/PpcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
-
-#### Benzylsuccinate Synthase
-
- Name | Description / Annotation Notes |
- :--- | :---------- |
-| [Alpha subunit](fasta_files/BssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
-| [Beta subunit](fasta_files/BssB_list.md) |  |
-| [Gamma subunit](fasta_files/BssC_list.md) | BssC/TutF protein; pfam08201 |
-| [Activase](fasta_files/BssD_list.md) | Radical SAM superfamily. cl18962 |
-| []() |  |
 
 ####(4-Isopropylbenzyl)succinate Synthase
 
