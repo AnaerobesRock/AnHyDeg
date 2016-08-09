@@ -82,7 +82,7 @@ There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hyd
 
 ##### Phenylethanol Dehydrogenase
 
- PED | Description / Annotation Notes |
+ PEDH | Description / Annotation Notes |
  :--- | :---------- |
 | [Phenylethanol dehydrogenase](fasta_files/PhenylethanolDehydrogenase_list.md) | 3-Ketoacyl-(acyl-carrier-protein) reductase; PRK0555 |
 
