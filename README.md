@@ -13,7 +13,7 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 * [Alkanes](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#alkanes)
   * Alkylsuccinate Synthase (ASS)
   * (Methyl)alkylsuccinate Synthase (MAS)
-* [BTEX & Related Compounds] (##BTEX & Related Compounds) 
+* [BTEX & Related Compounds] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#btex--related-compounds) 
   * Benzene
   * Toluene
   * Xylene isomers
@@ -21,6 +21,8 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
   * _p_-cymene
 * [PAHs, Naphthalene, and Others] (##PAHs, Naphthalene, and Others)
 * [Hydroxylated Hydrocarbons] (##Hydroxylated Hydrocarbons)
+  * Phenol
+  * _p_-cresol
 
 ##Alkanes
 
