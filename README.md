@@ -8,7 +8,8 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 [Callaghan, A. V. (2013)](http://www.sciencedirect.com/science/article/pii/S0958166912001267). Metabolomic investigations of anaerobic hydrocarbon-impacted environments. Curr Opin Biotech 24, 506-515.
 
-## Degradation Pathways
+Degradation Pathways
+====================
 
 ##Alkanes
 
