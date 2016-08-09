@@ -69,6 +69,9 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 | []() |  |
 
 #### Ethylbenzene
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
 ##### Ethylbenzene Dehydrogenase
 
  Name | Description / Annotation Notes |
@@ -78,7 +81,11 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 | [Gamma subunit](fasta_files/EbdC_list.md) | Heme-binding | 
 | [Delta subunit](fasta_files/EbdD_list.md) | Chaperone | 
 
-####*p*-Cymene Dehydrogenase
+#### _p_-Cymene
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
+#####_p_-Cymene Dehydrogenase
 
  Name | Description / Annotation Notes |
  :--- | :---------- |
@@ -86,6 +93,61 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 | [Beta subunit](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
 | [Gamma subunit](fasta_files/CmdC_list.md) | Domon-like ligand-binding domains; cl14783 |  
 | [Chaperone assembly protein](fasta_files/CmdD_list.md) | Nitrate reductase delta subunit; cl00958 |
+
+## Naphthalene and other PAHs
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
+##### 2-Napthylmethylsuccinate Synthase
+
+ Name | Description / Annotation Notes |
+ :--- | :---------- |
+| [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| []() |  |
+
+
+## Hydroxylated Hydrocarbons 
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
+#### Phenol
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
+##### Phenylphosphate Synthase
+
+ Name | Description / Annotation Notes |
+ :--- | :---------- |
+| [Alpha subunit](fasta_files/PhenylphosphateSynthaseSubunitA.md) | PEP-utilizing enzyme, mobile domain; pfam00391 |
+| [Beta subunit](fasta_files/PhenylphosphateSynthaseSubunitB.md) | Pyruvate phosphate dikinase, PEP/pyruvate binding domain; pfam01326 |
+
+##### Phenylphosphate Carboxylase
+
+ Name | Description / Annotation Notes |
+ :--- | :---------- |
+| [Alpha subunit](fasta_files/PpcA_list.md) | Phenylphosphate carboxylase, alpha subunit; TIGR02723 |
+| [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
+| [Gamma subunit](fasta_files/PpcC_list.md) | Haloacid dehalogenase-like hydrolase; pfam00702 |
+| [Delta subunit](fasta_files/PpcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
+
+#### _p_-cresol
+
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Phenylethanol Dehydrogenase
 
@@ -102,22 +164,6 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 | [Gamma subunit](fasta_files/ApcC_list.md) | N-Methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, aecondary metabolites biosynthesis, transport and catabolism]; COG0145 |
 | [Delta subunit](fasta_files/ApcD_list.md) | Hydantoinase B/oxoprolinase; cl19816 |
 | [Epsilon subunit](fasta_files/ApcE_list.md) | The URO-D_CIMS_like protein; cl00464 |
-
-#### Phenylphosphate Synthase
-
- Name | Description / Annotation Notes |
- :--- | :---------- |
-| [Alpha subunit](fasta_files/PhenylphosphateSynthaseSubunitA.md) | PEP-utilizing enzyme, mobile domain; pfam00391 |
-| [Beta subunit](fasta_files/PhenylphosphateSynthaseSubunitB.md) | Pyruvate phosphate dikinase, PEP/pyruvate binding domain; pfam01326 |
-
-#### Phenylphosphate Carboxylase
-
- Name | Description / Annotation Notes |
- :--- | :---------- |
-| [Alpha subunit](fasta_files/PpcA_list.md) | Phenylphosphate carboxylase, alpha subunit; TIGR02723 |
-| [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
-| [Gamma subunit](fasta_files/PpcC_list.md) | Haloacid dehalogenase-like hydrolase; pfam00702 |
-| [Delta subunit](fasta_files/PpcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
 ####(4-Isopropylbenzyl)succinate Synthase
 
@@ -139,15 +185,5 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 | [Activase](fasta_files/HbsD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 | []() |  |
 
-## Polyaromatic Hydrocarbons
-
-#### 2-Napthylmethylsuccinate Synthase
-
- Name | Description / Annotation Notes |
- :--- | :---------- |
-| [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
-| []() |  |
-
-##
 
 
