@@ -139,7 +139,7 @@ NOTE:  An initial survey of the Desulfobacterium sp. N47 revealed four putative 
 
 ##### Naphthalene Carboxylase
 
-Name | Description / Annotation Notes |
+Nap Carboxylase | Description / Annotation Notes |
  :--- | :---------- |
 | | |
 
