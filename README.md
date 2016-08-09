@@ -11,6 +11,8 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 # Degradation Pathways
 
 * [Alkanes](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#alkanes)
+  * yrdy
+  * yr
 * [BTEX & Related Compounds] (##BTEX & Related Compounds)
 * [PAHs, Naphthalene, and Others] (##PAHs, Naphthalene, and Others)
 * [Hydroxylated Hydrocarbons] (##Hydroxylated Hydrocarbons)
