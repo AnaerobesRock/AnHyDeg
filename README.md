@@ -8,13 +8,12 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 [Callaghan, A. V. (2013)](http://www.sciencedirect.com/science/article/pii/S0958166912001267). Metabolomic investigations of anaerobic hydrocarbon-impacted environments. Curr Opin Biotech 24, 506-515.
 
-Degradation Pathways
-====================
+# Degradation Pathways Included in this GitHub Entry
 
 * [Alkanes](##Alkanes)
-* BTEX & Related Compounds
-* PAHs, Naphthalene, and Others
-* Hydroxylated Hydrocarbons
+* [BTEX & Related Compounds] (##BTEX & Related Compounds)
+* [PAHs, Naphthalene, and Others] (##PAHs, Naphthalene, and Others)
+* [Hydroxylated Hydrocarbons] (##Hydroxylated Hydrocarbons)
 
 ##Alkanes
 
@@ -28,7 +27,9 @@ Degradation Pathways
 | [MasE-like proteins](fasta_files/MasE_like_list.md) | Uncharacterized proteins similar to MasE |
 | [Activase](fasta_files/AssD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 
-## Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Related Compounds
+## BTEX & Related Compounds 
+
+Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Related Compounds
 
 ####Ethylbenzene Dehydrogenase
 
