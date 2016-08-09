@@ -8,7 +8,7 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 [Callaghan, A. V. (2013)](http://www.sciencedirect.com/science/article/pii/S0958166912001267). Metabolomic investigations of anaerobic hydrocarbon-impacted environments. Curr Opin Biotech 24, 506-515.
 
-# Degradation Pathways Included in this GitHub Entry
+# Degradation Pathways
 
 * [Alkanes](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#alkanes)
 * [BTEX & Related Compounds] (##BTEX & Related Compounds)
@@ -30,10 +30,17 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 ## BTEX & Related Compounds 
 
 Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Related Compounds
+A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. 
+
+#### BENZENE
+##### Putative Benzene Carboxylase
+
+ Name | Description / Annotation Notes |
+ :--- | :---------- |
+| [Putative benzene caroxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
+| [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
 ####Ethylbenzene Dehydrogenase
-
-A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A 
 
  Name | Description / Annotation Notes |
  :--- | :--- |
@@ -82,13 +89,6 @@ A descirption with referneces goes here. A descirption with referneces goes here
 | [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/PpcC_list.md) | Haloacid dehalogenase-like hydrolase; pfam00702 |
 | [Delta subunit](fasta_files/PpcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
-
-#### Putative Benzene Carboxylase
-
- Name | Description / Annotation Notes |
- :--- | :---------- |
-| [Putative benzene caroxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
-| [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
 #### Benzylsuccinate Synthase
 
