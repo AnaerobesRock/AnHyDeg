@@ -12,11 +12,11 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 * [Alkanes](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#alkanes)
 * [BTEX & Related Compounds] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#btex--related-compounds) 
-  * [Benzene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#benzene)
-  * Toluene
-  * Xylene isomers
-  * Ethylbenzene
-  * _p_-Cymene
+  * [Benzene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#Benzene)
+  * [Toluene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#Tolouene)
+  * [Xylene Isomers] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#Xylene Isomers)
+  * [Ethylbenzene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#Ethylbenzene)
+  * [_p_-Cymene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#_p_-Cymene)
 * [Naphthalene and other PAHs] (##PAHs, Naphthalene, and Others)
 * [Hydroxylated Hydrocarbons] (##Hydroxylated Hydrocarbons)
   * Phenol
