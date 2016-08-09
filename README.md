@@ -20,7 +20,7 @@ NOTE: The following are only brief summaries of proposed activation steps for di
   * [Phenol] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#phenol)
   * [_p_-Cresol] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#p-cresol)
 
-##Alkanes
+##Non-Methane Linear Alkanes and Branched Alkanes
 
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
