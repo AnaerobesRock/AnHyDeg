@@ -17,6 +17,8 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 ##Alkanes
 
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
 ####Alkylsuccinate Synthase (ASS) / (Methyl)alkylsuccinate Synthase (MAS)
 
  Name | Description / Annotation Notes |
@@ -29,8 +31,9 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
 
 ## BTEX & Related Compounds 
 
+bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
 Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Related Compounds
-A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. A descirption with referneces goes here. 
 
 #### BENZENE
 ##### Putative Benzene Carboxylase
