@@ -29,7 +29,7 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
 
 ####Alkylsuccinate Synthase (ASS) / (Methyl)alkylsuccinate Synthase (MAS)
 
- Name | Description / Annotation Notes |
+ ASS/MAS | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/AssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/AssB_list.md) |  |
@@ -48,7 +48,7 @@ Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) an
 #### Benzene
 ##### Putative Benzene Carboxylase
 
- Name | Description / Annotation Notes |
+ ABC | Description / Annotation Notes |
  :--- | :---------- |
 | [Putative benzene carboxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
@@ -63,7 +63,7 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 ##### Benzylsuccinate Synthase
 
- Name | Description / Annotation Notes |
+ BSS | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/BssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/BssB_list.md) |  |
@@ -77,7 +77,7 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 ##### Ethylbenzene Dehydrogenase
 
- Name | Description / Annotation Notes |
+ EBDH | Description / Annotation Notes |
  :--- | :--- |
 | [Alpha subunit](fasta_files/EbdA_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
 | [Beta subunit](fasta_files/EbdB_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein | 
@@ -86,13 +86,13 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 ##### Phenylethanol Dehydrogenase
 
- Name | Description / Annotation Notes |
+ PED | Description / Annotation Notes |
  :--- | :---------- |
 | [Phenylethanol dehydrogenase](fasta_files/PhenylethanolDehydrogenase_list.md) | 3-Ketoacyl-(acyl-carrier-protein) reductase; PRK0555 |
 
 ##### Acetophenone Carboxylase
 
- Name | Description / Annotation Notes |
+ APC | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/ApcA_list.md) | N-Methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, aecondary metabolites biosynthesis, transport and catabolism]; COG0145 |
 | [Beta subunit](fasta_files/ApcB_list.md) | Acetone carboxylase gamma subunit; pfam08882 |
@@ -116,7 +116,7 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 #####(4-Isopropylbenzyl)succinate Synthase
 
- Name | Description / Annotation Notes |
+ IBS | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/IbsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/IbsB_list.md) |  |
@@ -136,7 +136,7 @@ NOTE:  An initial survey of the Desulfobacterium sp. N47 revealed four putative 
 
 ##### 2-Napthylmethylsuccinate Synthase
 
- Name | Description / Annotation Notes |
+ NMS | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | []() |  |
@@ -157,14 +157,14 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 ##### Phenylphosphate Synthase
 
- Name | Description / Annotation Notes |
+ PPS | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/PhenylphosphateSynthaseSubunitA.md) | PEP-utilizing enzyme, mobile domain; pfam00391 |
 | [Beta subunit](fasta_files/PhenylphosphateSynthaseSubunitB.md) | Pyruvate phosphate dikinase, PEP/pyruvate binding domain; pfam01326 |
 
 ##### Phenylphosphate Carboxylase
 
- Name | Description / Annotation Notes |
+ PPC | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/PpcA_list.md) | Phenylphosphate carboxylase, alpha subunit; TIGR02723 |
 | [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
@@ -177,7 +177,7 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 #####Hydroxybenzylsuccinate Synthase
 
- Name | Description / Annotation Notes |
+ HBS | Description / Annotation Notes |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/HbsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/HbsB_list.md) |  |
