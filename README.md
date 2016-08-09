@@ -17,10 +17,10 @@ This GitHub page therefore is an effort to assemble gene sequences related to an
   * [Xylene Isomers] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#xylene-isomers)
   * [Ethylbenzene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#ethylbenzene)
   * [_p_-Cymene] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#p-cymene)
-* [Naphthalene and other PAHs] (##PAHs, Naphthalene, and Others)
-* [Hydroxylated Hydrocarbons] (##Hydroxylated Hydrocarbons)
-  * Phenol
-  * _p_-cresol
+* [Naphthalene and other PAHs] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#naphthalene-and-other-pahs)
+* [Hydroxylated Hydrocarbons] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#hydroxylated-hydrocarbons)
+  * [Phenol] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#phenol)
+  * [_p_-cresol] (https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/README.md#p-cresol)
 
 ##Alkanes
 
