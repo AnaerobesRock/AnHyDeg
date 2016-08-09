@@ -41,11 +41,10 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
 
 ## BTEX & Related Compounds 
 
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-
-Aromatic Hydrocarbons incl. BTEX (Benzene, Toluene, Ethylbenzene, and Xylene) and Related Compounds
-
 #### Benzene
+
+Several mechanisms of anaerobic benzene activation have been proposed, including hydroxylation, methylation followed by toluene addition to fumarate, and carboxylation (for review see (Meckenstock and Mouttaki, 2011)). The carboxylation of benzene appears to be catalyzed by a putative benzene carboxylase (ABC). The number of subunits is still debated. To date, subunits AbcA and AbcD were detected in an anaerobic, iron-reducing, enrichment culture (Abu Laban et al., 2010), whereas only AbcA was detected in the genome of benzene-degrading archaeon, Ferroglobus placidus (Holmes et al., 2011). 
+
 ##### Putative Benzene Carboxylase
 
  ABC | Description / Annotation Notes |
