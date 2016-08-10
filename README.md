@@ -29,7 +29,7 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
 
 ####Alkylsuccinate Synthase (ASS) / (Methyl)alkylsuccinate Synthase (MAS)
 
- ASS/MAS | Description / Annotation Notes |
+ ASS/MAS | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/AssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/AssB_list.md) |  |
@@ -39,7 +39,7 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
 
 ####Putative Alkane C2-Methylene Hydroxylase
 
- AHY | Description / Annotation Notes |
+ AHY | GenBank Annotation Info |
  :--- | :--- |
 | [Alpha subunit](fasta_files/alkane_C2_methylene_hydroxylase_alpha_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
 | [Beta subunit](fasta_files/alkane_C2_methylene_hydroxylase_beta_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein; TIGR03478 | 
@@ -56,7 +56,7 @@ Several mechanisms of anaerobic benzene activation have been proposed, including
 
 ##### Putative Benzene Carboxylase
 
- ABC | Description / Annotation Notes |
+ ABC | GGenBank Annotation Info |
  :--- | :---------- |
 | [Putative benzene carboxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
@@ -75,7 +75,7 @@ The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic condi
 
 ##### Benzylsuccinate Synthase
 
- BSS | Description / Annotation Notes |
+ BSS | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/BssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/BssB_list.md) |  |
@@ -89,7 +89,7 @@ There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hyd
 
 ##### Ethylbenzene Dehydrogenase
 
- EBDH | Description / Annotation Notes |
+ EBDH | GenBank Annotation Info |
  :--- | :--- |
 | [Alpha subunit](fasta_files/EbdA_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
 | [Beta subunit](fasta_files/EbdB_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein | 
@@ -98,13 +98,13 @@ There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hyd
 
 ##### Phenylethanol Dehydrogenase
 
- PEDH | Description / Annotation Notes |
+ PEDH | GenBank Annotation Info |
  :--- | :---------- |
 | [Phenylethanol dehydrogenase](fasta_files/PhenylethanolDehydrogenase_list.md) | 3-Ketoacyl-(acyl-carrier-protein) reductase; PRK0555 |
 
 ##### Acetophenone Carboxylase
 
- APC | Description / Annotation Notes |
+ APC | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/ApcA_list.md) | N-Methylhydantoinase A/oxoprolinase/acetone carboxylase, beta subunit [Amino acid transport and metabolism, aecondary metabolites biosynthesis, transport and catabolism]; COG0145 |
 | [Beta subunit](fasta_files/ApcB_list.md) | Acetone carboxylase gamma subunit; pfam08882 |
@@ -121,7 +121,7 @@ Anaerobic _p_-cymene degradation proceeds either by: 1) hydroxylation of the ben
 
 #####_p_-Cymene Dehydrogenase
 
- CMD | Description / Annotation Notes |
+ CMD | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/CmdA_list.md) |DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479  |
 | [Beta subunit](fasta_files/CmdB_list.md) | DMSO reductase family type II enzyme, iron-sulfur subunit; TIGR03478 |
@@ -130,7 +130,7 @@ Anaerobic _p_-cymene degradation proceeds either by: 1) hydroxylation of the ben
 
 #####(4-Isopropylbenzyl)succinate Synthase
 
- IBS | Description / Annotation Notes |
+ IBS | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/IbsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/IbsB_list.md) |  |
@@ -150,14 +150,14 @@ NOTE:  An initial survey of the Desulfobacterium sp. N47 revealed four putative 
 
 ##### 2-Napthylmethylsuccinate Synthase
 
- NMS | Description / Annotation Notes |
+ NMS | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | []() |  |
 
 ##### Naphthalene Carboxylase
 
-Nap Carboxylase | Description / Annotation Notes |
+Nap Carboxylase | GenBank Annotation Info |
  :--- | :---------- |
 | | |
 
@@ -171,14 +171,14 @@ Anaerobic phenol degradation proceeds via activation to phenylphosphate by pheny
 
 ##### Phenylphosphate Synthase
 
- PPS | Description / Annotation Notes |
+ PPS | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/PhenylphosphateSynthaseSubunitA.md) | PEP-utilizing enzyme, mobile domain; pfam00391 |
 | [Beta subunit](fasta_files/PhenylphosphateSynthaseSubunitB.md) | Pyruvate phosphate dikinase, PEP/pyruvate binding domain; pfam01326 |
 
 ##### Phenylphosphate Carboxylase
 
- PPC | Description / Annotation Notes |
+ PPC | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/PpcA_list.md) | Phenylphosphate carboxylase, alpha subunit; TIGR02723 |
 | [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
@@ -193,7 +193,7 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 #####Hydroxybenzylsuccinate Synthase
 
- HBS | Description / Annotation Notes |
+ HBS | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/HbsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/HbsB_list.md) |  |
@@ -203,7 +203,7 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 #####_p_-Cresol Methylhydroxylase
 
- PCMH | Description / Annotation Notes |
+ PCMH | GenBank Annotation Info |
  :--- | :---------- |
 | | |
 
