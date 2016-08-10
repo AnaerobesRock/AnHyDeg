@@ -191,6 +191,8 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
 #####_p_-Cresol Methylhydroxylase
 
+Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarate by hydroxybenzylsuccinate synthase (HBS) (Müller et al., 2001; Wöhlbrand et al., 2013), or 2) anaerobic hydroxylation by p-cresol methylhydroxylase (PCMH) (Keat and Hopper, 1978; Hopper et al., 1991; Peters et al., 2007).  
+
  PCMH | Description / Annotation Notes |
  :--- | :---------- |
 | | |
