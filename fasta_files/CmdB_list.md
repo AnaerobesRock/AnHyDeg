@@ -9,4 +9,4 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [CmdB_AA.faa](amino_acid/CmdB_AA.faa) |
-| Nucleotide | [CmdB_NT.fna](nucleotide/cmdB_NT.fna) |
+| Nucleotide | [cmdB_NT.fna](nucleotide/cmdB_NT.fna) |
