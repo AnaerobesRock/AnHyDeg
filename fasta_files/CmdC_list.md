@@ -8,5 +8,5 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [CmdC_AA.faa](amino_acid/CmdC_AA.faa) |
-| Nucleotide | [CmdC_NT.fna](nucleotide/cmdC_NT.fna) |
+| Nucleotide | [cmdC_NT.fna](nucleotide/cmdC_NT.fna) |
 
