@@ -157,7 +157,7 @@ Nap Carboxylase | Description / Annotation Notes |
 
 #### Phenol
 
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+Anaerobic phenol degradation proceeds via activation to phenylphosphate by phenylphosphate synthase, and then carboxylation of phenylphosphate to form 4-hydroxybenzoate by phenylphosphate carboxylase (Lack et al., 1991; Lack and Fuchs, 1992, 1994; Schühle and Fuchs, 2004; Wöhlbrand et al., 2007; Schleinitz et al., 2009; Abu Laban et al., 2010). 
 
 ##### Phenylphosphate Synthase
 
