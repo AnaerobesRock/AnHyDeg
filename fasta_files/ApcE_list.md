@@ -8,4 +8,4 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [ApcE_AA.faa](amino_acid/ApcE_AA.faa) |
-| Nucleotide | [ApcE_NT.fna](nucleotide/apcE_NT.fna) |
+| Nucleotide | [apcE_NT.fna](nucleotide/apcE_NT.fna) |
