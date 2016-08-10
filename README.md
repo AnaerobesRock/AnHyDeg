@@ -34,7 +34,7 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
 | [Alpha subunit](fasta_files/AssA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/AssB_list.md) |  |
 | [Gamma subunit](fasta_files/AssC_list.md) | BssC/TutF protein-like protein; pfam08201 |
-| [MasE and MasE-like proteins](fasta_files/MasE_like_list.md) | Uncharacterized proteins similar to MasE |
+| [MasE and MasE-like proteins](fasta_files/MasE_like_list.md) | Includes uncharacterized proteins similar to MasE |
 | [Activase](fasta_files/AssD_list.md) | Radical SAM superfamily. cl18962 TIGR04003 |
 
 ####Putative Alkane C2-Methylene Hydroxylase
