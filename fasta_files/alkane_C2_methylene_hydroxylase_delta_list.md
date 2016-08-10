@@ -1,6 +1,6 @@
  Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| EbdD-like protein | *Desulfococcus oleovorans* Hxd3 | [ABW66007](http://www.ncbi.nlm.nih.gov/protein/ABW66007)|
+| AhyD | *Desulfococcus oleovorans* Hxd3 | [ABW66007](http://www.ncbi.nlm.nih.gov/protein/ABW66007)|
 |  | | []()|
 
 ###FILE DOWNLOAD LINKS
