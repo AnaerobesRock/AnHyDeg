@@ -42,9 +42,9 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
  EBDH | Description / Annotation Notes |
  :--- | :--- |
 | [Alpha subunit](fasta_files/alkane_C2_methylene_hydroxylase_alpha_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
-| [Beta subunit](fasta_files/fasta_files/alkane_C2_methylene_hydroxylase_beta_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein; TIGR03478 | 
-| [Gamma subunit](fasta_files/fasta_files/alkane_C2_methylene_hydroxylase_gamma_list.md) | Heme-binding | 
-| [Delta subunit](fasta_files/fasta_files/alkane_C2_methylene_hydroxylase_delta_list.md) | Chaperone | 
+| [Beta subunit](fasta_files/alkane_C2_methylene_hydroxylase_beta_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein; TIGR03478 | 
+| [Gamma subunit](fasta_files/alkane_C2_methylene_hydroxylase_gamma_list.md) | Heme-binding | 
+| [Delta subunit](fasta_files/alkane_C2_methylene_hydroxylase_delta_list.md) | Chaperone | 
 
 ## BTEX & Related Compounds 
 
