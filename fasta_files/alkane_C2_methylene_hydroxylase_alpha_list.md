@@ -8,5 +8,6 @@
 
  File type | Download Link |
  :--- | :---------- | 
-| Amino Acid | [EbdA_AA.faa](amino_acid/EbdA_AA.faa) |
-| Nucleotide | [ebdA_NT.fna](nucleotide/ebdA_NT.fna) |
+| Amino Acid | [alkane_C2_methylene_hydroxylase_delta_AA.faa](amino_acid/alkane_C2_methylene_hydroxylase_alpha_AA.faa) |
+| Nucleotide | [alkane_C2_methylene_hydroxylase_delta_NT.fna](nucleotide/alkane_C2_methylene_hydroxylase_alpha_NT.fna) |
+
