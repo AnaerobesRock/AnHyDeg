@@ -26,7 +26,7 @@ To date, there is one, well-characterized, oxygen-independent mechanism of anaer
 
 Anaerobic hydroxylation has also been proposed as a putative mechanism for anaerobic alkane transformation. Initial metabolite profiling studies of _Desulfococcus oleovorans_ Hxd3 suggested that the  activation step may be direct carboxylation at C3, followed by oxidation releasing the terminal and subterminal carbons (So et al., 2003), resulting in a fatty acid that is one carbon shorter than the parent alkane. However, the requisite metabolite, 2-ethylpentadecanoic acid, was never identified in Hxd3 cultures or others that had demonstrated similar fatty acid profiles (Callaghan et al., 2006; Callaghan et al., 2009). Subsequently, a genome survey of Hxd3 revealed a protein complex related to ethylbenzene dehydrogenase (Callaghan et al., 2008b), and it has been hypothesized that this protein may be a putative alkane C-methylene hydroxylase complex (AHY), wherein anaerobic hydroxylation at C2, followed by formation of a subsequent ketone and carboxylation at C3 may occur, with oxidation to produce a fatty acid that is one carbon shorter than the parent alkane (Heider and Schühle, 2013).  Although not substantiated by metabolite analysis, substrate-dependent induction of the respective gene during growth on alkanes suggests that this mechanism may occur (Sunwoldt and Heider, unpublished data). 
 
-![Non-Methane Alkane Pathways](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/ 	non_methane_alkanes.jpg)
+![Non-Methane Alkane Pathways](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/non_methane_alkanes.jpg)
 
 ####Alkylsuccinate Synthase (ASS) / (Methyl)alkylsuccinate Synthase (MAS)
 
