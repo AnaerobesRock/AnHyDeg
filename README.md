@@ -39,7 +39,7 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
 
 ####Putative Alkane C2-Methylene Hydroxylase
 
- EBDH | Description / Annotation Notes |
+ AHY | Description / Annotation Notes |
  :--- | :--- |
 | [Alpha subunit](fasta_files/alkane_C2_methylene_hydroxylase_alpha_list.md) | DMSO reductase family type II enzyme, molybdopterin subunit; TIGR03479 | 
 | [Beta subunit](fasta_files/alkane_C2_methylene_hydroxylase_beta_list.md) | Respiratory nitrate reductase / 4Fe-4S ferredoxin iron-sulfur binding domain protein; TIGR03478 | 
@@ -107,7 +107,7 @@ There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hyd
 
 #### _p_-Cymene (4-Isopropyltoluene)
 
-Anaerobic _p_-cymene degradation proceeds either by: 1) hydroxylation of the benzylic methyl group via cymene dehydrogenase (CDH) (Strijkstra et al., 2014), or 2) addition of the benzylic methyl group to fumarate (Harms et al., 1999; Strijkstra et al., 2014), which is catalyzed by (4-isopropylbenzyl)succinate synthase (IBS) (Strijkstra et al., 2014). These enzymes were identified in denitryfing organisms_‘Aromatoleum’ aromaticum_ pCyN1 and _Thauera_ sp. Strain pCyN2, respectively (for review see (Rabus et al., 2016)
+Anaerobic _p_-cymene degradation proceeds either by: 1) hydroxylation of the benzylic methyl group via cymene dehydrogenase (CDH) (Strijkstra et al., 2014), or 2) addition of the benzylic methyl group to fumarate (Harms et al., 1999; Strijkstra et al., 2014), which is catalyzed by (4-isopropylbenzyl)succinate synthase (IBS) (Strijkstra et al., 2014). These enzymes were identified in denitrifying organisms_‘Aromatoleum’ aromaticum_ pCyN1 and _Thauera_ sp. Strain pCyN2, respectively (for review see (Rabus et al., 2016)
 
 #####_p_-Cymene Dehydrogenase
 
