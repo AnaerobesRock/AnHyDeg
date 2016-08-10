@@ -10,4 +10,4 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [CmdA_AA.faa](amino_acid/CmdA_AA.faa) |
-| Nucleotide | [CmdA_NT.fna](nucleotide/cmdA_NT.fna) |
+| Nucleotide | [cmdA_NT.fna](nucleotide/cmdA_NT.fna) |
