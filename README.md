@@ -88,6 +88,8 @@ The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic condi
 
 There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hydroxylation via ethylbenzene dehydrogenase (EBDH), wherein water serves as the source of the hydroxyl group (for review see (Heider et al., 2016) and addition to fumarate  (Kniemeyer et al., 2003), presumably by a homolog of benzylsuccinate synthase. Of the two enzymes, EBDH is well described and has been identified and/or purified in betaproteobacterial strains EB1 (Ball et al., 1996; Johnson et al., 2001), EbN1 (Rabus and Widdel, 1995; Kniemeyer and Heider, 2001b), and PbN1 (Rabus and Widdel, 1995).  Hydroxylation of ethylbenzene yields (_S_)-1-phenylethanol, which is further oxidized to acetophenone by (_S_)-1-phenylethanol dehydrogenase (PEDH) (Kniemeyer and Heider, 2001a; Höffken et al., 2006); acetophenone is then carboxylated to benzoylacetate by acetophenone carboxylase (ACP) (Jobst et al., 2010).  
 
+![Ethylbenzene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/ethylbenzene.jpg)
+
 #####Ethylbenzene Dehydrogenase
 
  EBDH | GenBank Annotation Info |
@@ -169,6 +171,8 @@ Nap Carboxylase | GenBank Annotation Info |
 ###Phenol
 
 Anaerobic phenol degradation proceeds via activation to phenylphosphate by phenylphosphate synthase, and then carboxylation of phenylphosphate to form 4-hydroxybenzoate by phenylphosphate carboxylase (Lack et al., 1991; Lack and Fuchs, 1992, 1994; Schühle and Fuchs, 2004; Wöhlbrand et al., 2007; Schleinitz et al., 2009; Abu Laban et al., 2010). 
+
+![Phenol Pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/phenol.jpg)
 
 #####Phenylphosphate Synthase
 
