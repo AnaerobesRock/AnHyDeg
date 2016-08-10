@@ -28,6 +28,7 @@ Anaerobic hydroxylation has also been proposed as a putative mechanism for anaer
 
 ![Non-Methane Alkane Pathways](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/non_methane_alkanes.jpg)
 
+
 ####Alkylsuccinate Synthase (ASS) / (Methyl)alkylsuccinate Synthase (MAS)
 
  ASS/MAS | GenBank Annotation Info |
@@ -55,6 +56,7 @@ Several mechanisms of anaerobic benzene activation have been proposed, including
 
 ![Benzene pathways](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/benzene.jpg)
 
+
 #####Putative Benzene Carboxylase
 
  ABC | GGenBank Annotation Info |
@@ -74,6 +76,7 @@ The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic condi
 
 ![Xylene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/xylene.jpg)
 
+
 #####Benzylsuccinate Synthase
 
  BSS | GenBank Annotation Info |
@@ -89,6 +92,7 @@ The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic condi
 There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hydroxylation via ethylbenzene dehydrogenase (EBDH), wherein water serves as the source of the hydroxyl group (for review see (Heider et al., 2016) and addition to fumarate  (Kniemeyer et al., 2003), presumably by a homolog of benzylsuccinate synthase. Of the two enzymes, EBDH is well described and has been identified and/or purified in betaproteobacterial strains EB1 (Ball et al., 1996; Johnson et al., 2001), EbN1 (Rabus and Widdel, 1995; Kniemeyer and Heider, 2001b), and PbN1 (Rabus and Widdel, 1995).  Hydroxylation of ethylbenzene yields (_S_)-1-phenylethanol, which is further oxidized to acetophenone by (_S_)-1-phenylethanol dehydrogenase (PEDH) (Kniemeyer and Heider, 2001a; Höffken et al., 2006); acetophenone is then carboxylated to benzoylacetate by acetophenone carboxylase (ACP) (Jobst et al., 2010).  
 
 ![Ethylbenzene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/ethylbenzene.jpg)
+
 
 #####Ethylbenzene Dehydrogenase
 
@@ -122,6 +126,7 @@ Anaerobic _p_-cymene degradation proceeds either by: 1) hydroxylation of the ben
 
 ![_p_-Cymene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/cymene.jpg)
 
+
 #####_p_-Cymene Dehydrogenase
 
  CMD | GenBank Annotation Info |
@@ -151,6 +156,7 @@ NOTE:  An initial survey of the Desulfobacterium sp. N47 revealed four putative 
 
 ![PAH pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/PAH.jpg)
 
+
 #####2-Napthylmethylsuccinate Synthase
 
  NMS | GenBank Annotation Info |
@@ -174,6 +180,7 @@ Anaerobic phenol degradation proceeds via activation to phenylphosphate by pheny
 
 ![Phenol Pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/phenol.jpg)
 
+
 #####Phenylphosphate Synthase
 
  PPS | GenBank Annotation Info |
@@ -195,6 +202,7 @@ Anaerobic phenol degradation proceeds via activation to phenylphosphate by pheny
 Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarate by hydroxybenzylsuccinate synthase (HBS) (Müller et al., 2001; Wöhlbrand et al., 2013), or 2) anaerobic hydroxylation by p-cresol methylhydroxylase (PCMH) (Keat and Hopper, 1978; Hopper et al., 1991; Peters et al., 2007).   
 
 ![_p_-Cresol pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/pCresol.jpg)
+
 
 #####Hydroxybenzylsuccinate Synthase
 
