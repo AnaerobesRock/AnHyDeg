@@ -7,6 +7,6 @@
 
  File type | Download Link |
  :--- | :---------- | 
-| Amino Acid | [EbdD_AA.faa](amino_acid/alkane_C2_methylene_hydroxylase_delta_AA.faa) |
-| Nucleotide | [ebdD_NT.fna](nucleotide/alkane_C2_methylene_hydroxylase_delta_NT.fna) |
+| Amino Acid | [alkane_C2_methylene_hydroxylase_delta_AA.faa](amino_acid/alkane_C2_methylene_hydroxylase_delta_AA.faa) |
+| Nucleotide | [alkane_C2_methylene_hydroxylase_delta_NT.fna](nucleotide/alkane_C2_methylene_hydroxylase_delta_NT.fna) |
 
