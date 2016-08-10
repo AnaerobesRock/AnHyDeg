@@ -8,5 +8,5 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [ApcA_AA.faa](amino_acid/ApcA_AA.faa) |
-| Nucleotide | [ApcA_NT.fna](nucleotide/apcA_NT.fna) |
+| Nucleotide | [apcA_NT.fna](nucleotide/apcA_NT.fna) |
 
