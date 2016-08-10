@@ -8,6 +8,6 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [ApcB_AA.faa](amino_acid/ApcB_AA.faa) |
-| Nucleotide | [ApcB_NT.fna](nucleotide/apcB_NT.fna) |
+| Nucleotide | [apcB_NT.fna](nucleotide/apcB_NT.fna) |
 
 
