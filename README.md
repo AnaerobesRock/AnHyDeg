@@ -69,6 +69,8 @@ The anaerobic activation of toluene proceeds by methyl addition to fumarate to y
 
 #### Xylene Isomers
 
+The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic conditions via addition of a methyl group to fumarate to yield 2-methylbenzylsuccinate, 3-methylbenzylsuccinate, and 4-methylbenzylsuccinate, respectively (Evans et al., 1992; Beller and Spormann, 1997b; Krieger et al., 1999; Verfürth et al., 2004; Morasch and Meckenstock, 2005).  To date, these reactions are catalyzed by BSS orthologs in different species (for review see (Heider et al., 2016b).  
+
 ![Xylene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/xylene.jpg)
 
 ##### Benzylsuccinate Synthase
