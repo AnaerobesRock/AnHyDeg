@@ -64,11 +64,13 @@ Several mechanisms of anaerobic benzene activation have been proposed, including
 | [Putative benzene carboxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
+
 ### Toluene
 
 The anaerobic activation of toluene proceeds by methyl addition to fumarate to yield benzylsuccinate (Evans et al., 1992; Biegert et al., 1996; Beller and Spormann, 1997a, b).   This reaction is catalyzed by the glycyl radical enzyme, benzylsuccinate synthase (BSS) (Leuthner et al., 1998; Beller and Spormann, 1999).  Note – In _Thauera aromatica_ T1, this enzyme is referred to as TUT (toluene-utilizing) (Coschigano et al., 1998). 
 
 ![Toluene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/toluene.jpg)
+
 
 ###Xylene Isomers
 
@@ -86,6 +88,7 @@ The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic condi
 | [Gamma subunit](fasta_files/BssC_list.md) | BssC/TutF protein; pfam08201 |
 | [Activase](fasta_files/BssD_list.md) | Radical SAM superfamily. cl18962 |
 | []() |  |
+
 
 ###Ethylbenzene
 
@@ -196,6 +199,7 @@ Anaerobic phenol degradation proceeds via activation to phenylphosphate by pheny
 | [Beta subunit](fasta_files/PpcB_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/PpcC_list.md) | Haloacid dehalogenase-like hydrolase; pfam00702 |
 | [Delta subunit](fasta_files/PpcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
+
 
 ###_p_-cresol
 
