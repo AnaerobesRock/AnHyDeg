@@ -61,13 +61,13 @@ Several mechanisms of anaerobic benzene activation have been proposed, including
 | [Putative benzene carboxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
-#### Toluene
+### Toluene
 
 The anaerobic activation of toluene proceeds by methyl addition to fumarate to yield benzylsuccinate (Evans et al., 1992; Biegert et al., 1996; Beller and Spormann, 1997a, b).   This reaction is catalyzed by the glycyl radical enzyme, benzylsuccinate synthase (BSS) (Leuthner et al., 1998; Beller and Spormann, 1999).  Note – In _Thauera aromatica_ T1, this enzyme is referred to as TUT (toluene-utilizing) (Coschigano et al., 1998). 
 
 ![Toluene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/toluene.jpg)
 
-#### Xylene Isomers
+### Xylene Isomers
 
 The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic conditions via addition of a methyl group to fumarate to yield 2-methylbenzylsuccinate, 3-methylbenzylsuccinate, and 4-methylbenzylsuccinate, respectively (Evans et al., 1992; Beller and Spormann, 1997b; Krieger et al., 1999; Verfürth et al., 2004; Morasch and Meckenstock, 2005).  To date, these reactions are catalyzed by BSS orthologs in different species (for review see (Heider et al., 2016b).  
 
@@ -83,7 +83,7 @@ The isomers of xylene (o-, m-, and p-xylene) are activated under anaerobic condi
 | [Activase](fasta_files/BssD_list.md) | Radical SAM superfamily. cl18962 |
 | []() |  |
 
-#### Ethylbenzene
+### Ethylbenzene
 
 There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hydroxylation via ethylbenzene dehydrogenase (EBDH), wherein water serves as the source of the hydroxyl group (for review see (Heider et al., 2016) and addition to fumarate  (Kniemeyer et al., 2003), presumably by a homolog of benzylsuccinate synthase. Of the two enzymes, EBDH is well described and has been identified and/or purified in betaproteobacterial strains EB1 (Ball et al., 1996; Johnson et al., 2001), EbN1 (Rabus and Widdel, 1995; Kniemeyer and Heider, 2001b), and PbN1 (Rabus and Widdel, 1995).  Hydroxylation of ethylbenzene yields (_S_)-1-phenylethanol, which is further oxidized to acetophenone by (_S_)-1-phenylethanol dehydrogenase (PEDH) (Kniemeyer and Heider, 2001a; Höffken et al., 2006); acetophenone is then carboxylated to benzoylacetate by acetophenone carboxylase (ACP) (Jobst et al., 2010).  
 
@@ -113,7 +113,7 @@ There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hyd
 | [Epsilon subunit](fasta_files/ApcE_list.md) | The URO-D_CIMS_like protein; cl00464 |
 
 
-#### _p_-Cymene (4-Isopropyltoluene)
+### _p_-Cymene (4-Isopropyltoluene)
 
 Anaerobic _p_-cymene degradation proceeds either by: 1) hydroxylation of the benzylic methyl group via cymene dehydrogenase (CDH) (Strijkstra et al., 2014), or 2) addition of the benzylic methyl group to fumarate (Harms et al., 1999; Strijkstra et al., 2014), which is catalyzed by (4-isopropylbenzyl)succinate synthase (IBS) (Strijkstra et al., 2014). These enzymes were identified in denitrifying organisms _'Aromatoleum’ aromaticum_ pCyN1 and _Thauera_ sp. Strain pCyN2, respectively (for review see (Rabus et al., 2016)
 
@@ -165,7 +165,7 @@ Nap Carboxylase | GenBank Annotation Info |
 ## Hydroxylated Hydrocarbons 
 
 
-#### Phenol
+### Phenol
 
 Anaerobic phenol degradation proceeds via activation to phenylphosphate by phenylphosphate synthase, and then carboxylation of phenylphosphate to form 4-hydroxybenzoate by phenylphosphate carboxylase (Lack et al., 1991; Lack and Fuchs, 1992, 1994; Schühle and Fuchs, 2004; Wöhlbrand et al., 2007; Schleinitz et al., 2009; Abu Laban et al., 2010). 
 
@@ -185,7 +185,7 @@ Anaerobic phenol degradation proceeds via activation to phenylphosphate by pheny
 | [Gamma subunit](fasta_files/PpcC_list.md) | Haloacid dehalogenase-like hydrolase; pfam00702 |
 | [Delta subunit](fasta_files/PpcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
 
-#### _p_-cresol
+### _p_-cresol
 
 Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarate by hydroxybenzylsuccinate synthase (HBS) (Müller et al., 2001; Wöhlbrand et al., 2013), or 2) anaerobic hydroxylation by p-cresol methylhydroxylase (PCMH) (Keat and Hopper, 1978; Hopper et al., 1991; Peters et al., 2007).   
 
