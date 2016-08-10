@@ -1,7 +1,7 @@
 
  Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| Putative alkane C2-methylene hydroxylase, alpha subunit (Annotated as molybdopterin oxidoreductase)| *Desulfococcus oleovorans* Hxd3 | [ABW66004](http://www.ncbi.nlm.nih.gov/protein/ABW66004) |
+| AhyA| *Desulfococcus oleovorans* Hxd3 | [ABW66004](http://www.ncbi.nlm.nih.gov/protein/ABW66004) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
