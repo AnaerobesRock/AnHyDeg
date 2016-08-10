@@ -115,6 +115,8 @@ There are two mechanisms of anaerobic activation ethylbenzene : 1) anaerobic hyd
 
 Anaerobic _p_-cymene degradation proceeds either by: 1) hydroxylation of the benzylic methyl group via cymene dehydrogenase (CDH) (Strijkstra et al., 2014), or 2) addition of the benzylic methyl group to fumarate (Harms et al., 1999; Strijkstra et al., 2014), which is catalyzed by (4-isopropylbenzyl)succinate synthase (IBS) (Strijkstra et al., 2014). These enzymes were identified in denitrifying organisms _'Aromatoleum’ aromaticum_ pCyN1 and _Thauera_ sp. Strain pCyN2, respectively (for review see (Rabus et al., 2016)
 
+![_p_-Cymene pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/pcymeme.jpg)
+
 #####_p_-Cymene Dehydrogenase
 
  CMD | Description / Annotation Notes |
@@ -184,6 +186,8 @@ Anaerobic phenol degradation proceeds via activation to phenylphosphate by pheny
 #### _p_-cresol
 
 Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarate by hydroxybenzylsuccinate synthase (HBS) (Müller et al., 2001; Wöhlbrand et al., 2013), or 2) anaerobic hydroxylation by p-cresol methylhydroxylase (PCMH) (Keat and Hopper, 1978; Hopper et al., 1991; Peters et al., 2007).   
+
+![_p_-Cresol pathway](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/images/pcresol.jpg)
 
 #####Hydroxybenzylsuccinate Synthase
 
