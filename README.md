@@ -54,7 +54,7 @@ Several mechanisms of anaerobic benzene activation have been proposed, including
 
 #### Toluene
 
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bbla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla la bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+The anaerobic activation of toluene proceeds by methyl addition to fumarate to yield benzylsuccinate (Evans et al., 1992; Biegert et al., 1996; Beller and Spormann, 1997a, b).   This reaction is catalyzed by the glycyl radical enzyme, benzylsucicnate synthase (BSS) (Leuthner et al., 1998; Beller and Spormann, 1999).  Note – In _Thauera aromatica_ T1, this enzyme is referred to as TUT (toluene-utilizing) (Coschigano et al., 1998). 
 
 #### Xylene Isomers
 
