@@ -1,4 +1,18 @@
-# Anaerobic Hydrocarbon Degradation Genes
+- - - 
+## A Database of Anaerobic Hydrocarbon Degradation Genes (AnHyDeg)
+
+### Amy V. Callaghan <sup>*</sup>
+- - - 
+**<sup>*</sup> Corresponding Author**
+
+University of Oklahoma
+
+Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman OK 73019
+
+Email: acallaghan@ou.edu
+- - - 
+Please cite by including the following DOI: **Zenodo.doi.XXXXXXXXX** (badge goes here; to be determined)
+- - - 
 
 
 Anaerobic transformation of hydrocarbons by microorganisms contributes to biogeochemical cycling in anoxic ecosystems and to the bioremediation of contaminated environments.  During the past twenty-five years, a great deal has been learned about anaerobic biodegradation processes and the genetic machinery involved in the requisite biochemical pathways.  Functional genes are frequently used as biomarkers in environmental assessments of anaerobic hydrocarbon metabolism, and metagenomics techniques have vastly enhanced our ability to interrogate consortia and environmental systems for these gene markers. However, the accrued lack of manual curation of ‘omic’ datasets has led to the misannotation of these gene and protein sequences in several public databases.  _**The GitHub database herein was designed to provide a starting point for building a highly curated database of sequences associated with anaerobic hydrocarbon degradation processes. The sequences included here are for genes/proteins that are mainly involved in the anaerobic activation of hydrocarbons and that have been described for well characterized isolates or consortia**_. This database will continue to be updated to include information for additional substrates and sequences from other isolates/consortia. The long-term objective will be to include data for downstream pathway steps.  
