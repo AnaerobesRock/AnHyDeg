@@ -241,6 +241,8 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
  PCMH | GenBank Annotation Info |
  :--- | :---------- |
+| [PcmG cytochrome C Beta Subunit](fasta_files/PcmG_list.md) |  |
+| [PcmI/J Alpha subunit isoforms](fasta_files/PcmIJ_list.md) |  |
 | | |
 
 
