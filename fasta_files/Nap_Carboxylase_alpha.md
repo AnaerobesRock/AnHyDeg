@@ -11,3 +11,4 @@
 | Amino Acid | [Nap_carboxylase_alpha_AA.faa](amino_acid/Nap_carboxylase_alpha_AA.faa) |
 | Nucleotide | [Nap_carboxylase_alpha_NT.fna](nucleotide/Nap_carboxylase_alpha_NT.fna) |
 
+ 
