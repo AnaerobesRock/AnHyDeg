@@ -1,11 +1,11 @@
  Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | Naphthalene Carboxylase beta subunit | Desulfobacterium sp. N 47 | [CBX30510](http://www.ncbi.nlm.nih.gov/protein/CBX30510) |
-| Naphthalene Carboxylase beta subunit []() | | |
-| Naphthalene Carboxylase beta subunit []() | | |
-| Naphthalene Carboxylase beta subunit []() | | |
-| Naphthalene Carboxylase beta subunit []() | | |
-| Naphthalene Carboxylase beta subunit []() | | |
+| Naphthalene Carboxylase beta subunit |  Desulfobacterium sp. N 47 |[CBX30510](http://www.ncbi.nlm.nih.gov/protein/K27480) |  
+| Naphthalene Carboxylase beta subunit |  |[](http://www.ncbi.nlm.nih.gov/protein/) |  
+| Naphthalene Carboxylase beta subunit |  |[](http://www.ncbi.nlm.nih.gov/protein/) |  
+| Naphthalene Carboxylase beta subunit |  |[](http://www.ncbi.nlm.nih.gov/protein/) |  
+| Naphthalene Carboxylase beta subunit |  |[](http://www.ncbi.nlm.nih.gov/protein/) | 
 
 ###FILE DOWNLOAD LINKS
 
