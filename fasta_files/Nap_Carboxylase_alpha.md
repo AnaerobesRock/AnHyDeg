@@ -9,6 +9,6 @@
  File type | Download Link |
  :--- | :---------- | 
 | Amino Acid | [Nap_carboxylase_alpha_AA.faa](amino_acid/Nap_carboxylase_alpha_AA.faa) |
-| Nucleotide | [Nap_carboxylase_alpha_NT.fna](nucleotide/Nap_carboxylase_alpha_NT.fna) |
+| Nucleotide | [Nap_carboxylase_alpha_NT.fna](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/fasta_files/nucleotide/Nap_carboxylase_alpha_NT.fna) |
 
  
