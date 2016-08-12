@@ -179,13 +179,16 @@ NOTE:  An initial survey of the Desulfobacterium sp. N47 revealed four putative 
  NMS | GenBank Annotation Info |
  :--- | :---------- |
 | [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
+| [Beta subunit](fasta_files/NmsB_list.md) | |
+| [Gamma subunit](fasta_files/NmsC_list.md) ||
+| [Delta subunit](fasta_files/NmsD_list.md) ||
 | []() |  |
 
 #####Naphthalene Carboxylase
 
 Nap Carboxylase | GenBank Annotation Info |
  :--- | :---------- |
-| [Alpha subunit](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/fasta_files/Nap_Carboxylase_alpha_list.md) | match to protein family HMM PF01977; match to protein family HMM TIGR00148 |
+| [Alpha subunit](fasta_files/Nap_Carboxylase_alpha_list.md) | match to protein family HMM PF01977; match to protein family HMM TIGR00148 |
 | [Beta subunit](fasta_files/Nap_Carboxylase_beta_list.md) | hypothetical protein; match to protein family HMM PF01977 |
 | | |
 
