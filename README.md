@@ -180,8 +180,8 @@ NOTE:  An initial survey of the Desulfobacterium sp. N47 revealed four putative 
  :--- | :---------- |
 | [Alpha subunit](fasta_files/NmsA_list.md) | Glycyl radical enzyme, PFL2/glycerol dehydratase family; TIGR01774 |
 | [Beta subunit](fasta_files/NmsB_list.md) | |
-| [Gamma subunit](fasta_files/NmsC_list.md) ||
-| [Delta subunit](fasta_files/NmsD_list.md) ||
+| [Gamma subunit](fasta_files/NmsC_list.md) | BssC/TutF protein; pfam08201 |
+| [Delta subunit](fasta_files/NmsD_list.md) | Radical SAM superfamily; 4Fe-4S dicluster domain; pfam13183|
 | []() |  |
 
 #####Naphthalene Carboxylase
