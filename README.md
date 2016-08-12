@@ -185,7 +185,7 @@ NOTE:  An initial survey of the Desulfobacterium sp. N47 revealed four putative 
 
 Nap Carboxylase | GenBank Annotation Info |
  :--- | :---------- |
-| [Alpha subunit](fasta_files/Nap_Carboxylase_alpha.md_list.md) |  |
+| [Alpha subunit](https://github.com/OUGenomics/AnaerobicHydrocarbonDegradationGenes/blob/master/fasta_files/Nap_Carboxylase_alpha_list.md) |  |
 | [Beta subunit](fasta_files/Nap_Carboxylase_beta_list.md) |  |
 | | |
 
