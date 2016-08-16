@@ -1,7 +1,7 @@
 - - - 
 ## A Curated Database of Anaerobic Hydrocarbon Degradation Genes (AnHyDeg)
 
-### Amy V. Callaghan <sup>*</sup>
+### Amy V. Callaghan <sup>*</sup> and Boris Wawrik
 - - - 
 **<sup>*</sup> Corresponding Author**
 
