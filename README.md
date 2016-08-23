@@ -263,7 +263,7 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 [Beller HR & Spormann AM (1997) Anaerobic activation of toluene and o-xylene by addition to fumarate in denitrifying strain T. J Bacteriol 179: 670-676](http://jb.asm.org/content/179/3/670.full.pdf)
 
-[Beller HR & Spormann AM (1999) Substrate range of benzylsuccinate synthase from Azoarcus sp. strain T. Fems Microbiol Lett 178: 147-153](http://femsle.oxfordjournals.org/content/femsle/178/1/147.full.pdf)
+[Beller HR & Spormann AM (1999) Substrate range of benzylsuccinate synthase from _Azoarcus_ sp. strain T. Fems Microbiol Lett 178: 147-153](http://femsle.oxfordjournals.org/content/femsle/178/1/147.full.pdf)
 
 [Bergmann F, Selesi D, Weinmaier T, Tischler P, Rattei T & Meckenstock RU (2011) Genomic insights into the metabolic potential of the polycyclic aromatic hydrocarbon degrading sulfate-reducing Deltaproteobacterium N47. Environ Microbiol 13: 1125-1137](http://www.ncbi.nlm.nih.gov/pubmed/21176053)
 
