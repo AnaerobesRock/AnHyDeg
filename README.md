@@ -327,7 +327,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Kniemeyer O, Musat F, Sievert SM, Knittel K, Wilkes H, Blumenberg M, Michaelis W, Classen A, Bolm C, Joye SB & Widdel F (2007) Anaerobic oxidation of short-chain hydrocarbons by marine sulphate-reducing bacteria. Nature 449: 898-U810.](http://www.nature.com/nature/journal/v449/n7164/pdf/nature06200.pdf)
 
-[Krieger CJ, Beller HR, Reinhard M & Spormann AM (1999) Initial reactions in anaerobic oxidation of _m_-xylene by the denitrifying bacterium _Azoarcus_ sp. strain T. J Bacteriol 181: 6403-6410](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC103776/pdf/jb006403.pdf)
+[Krieger CJ, Beller HR, Reinhard M & Spormann AM (1999) Initial reactions in anaerobic oxidation of _m_-xylene by the denitrifying bacterium _Azoarcus_ sp. strain T. J Bacteriol 181: 6403-6410.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC103776/pdf/jb006403.pdf)
 
 [Lack A & Fuchs G (1992) Carboxylation of phenylphosphate by phenol carboxylase, an enzyme system of anaerobic phenol metabolism. J Bacteriol 174: 3629-3636.](http://jb.asm.org/content/174/11/3629.full.pdf)
 
