@@ -305,14 +305,22 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Holmes DE, Risso C, Smith JA & Lovley DR (2011) Anaerobic oxidation of benzene by the hyperthermophilic archaeon Ferroglobus placidus. Appl Environ Microb 77: 5926-5933](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165377/pdf/zam5926.pdf)
 
-Hopper DJ, Bossert ID & Rhodes-Roberts ME (1991) p-Cresol methylhydroxylase from a denitrifying bacterium involved in anaerobic degradation of p-cresol. J Bacteriol 173: 1298-1301 http://jb.asm.org/content/173/3/1298.full.pdf.
-Jaekel U, Vogt C, Fischer A, Richnow HH & Musat F (2014) Carbon and hydrogen stable isotope fractionation associated with the anaerobic degradation of propane and butane by marine sulfate-reducing bacteria. Environ Microbiol 16: 130-140 http://onlinelibrary.wiley.com/store/10.1111/1462-2920.12251/asset/emi12251.pdf?v=1&t=is7s1g51&s=6432cacd5b365b0fb1f6c60d73be22f3fdf277c5.
-Jarling R, Kühner S, Basílio Janke E, Gruner A, Drozdowska M, Golding BT, Rabus R & Wilkes H (2015) Versatile transformations of hydrocarbons in anaerobic bacteria: substrate ranges and regio- and stereo-chemistry of activation reactions. Front Microbiol 6: http://journal.frontiersin.org/article/10.3389/fmicb.2015.00880/full.
-Jobelius C, Ruth B, Griebler C, Meckenstock RU, Hollender J, Reineke A, Frimmel FH & Zwiener C (2011) Metabolites indicate hot spots of biodegradation and biogeochemical gradients in a high-resolution monitoring well. Environ Sci Technol 45: 474-481 http://pubs.acs.org/doi/pdfplus/10.1021/es1030867.
-Jobst B, Schühle K, Linne U & Heider J (2010) ATP-dependent carboxylation of acetophenone by a novel type of carboxylase. J Bacteriol 192: 1387-1394 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820866/pdf/1423-09.pdf.
-Johnson HA, Pelletier DA & Spormann AM (2001) Isolation and characterization of anaerobic ethylbenzene dehydrogenase, a novel Mo-Fe-S enzyme. J Bacteriol 183: 4536-4542 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC95348/pdf/jb004536.pdf.
-Keat MJ & Hopper DJ (1978) p-Cresol and 3,5-xylenol methylhydroxylases in Pseudomonas putida NCIB 9869. Biochem J 175: 649-658 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1186115/pdf/biochemj00476-0296.pdf.
-Kniemeyer O & Heider J (2001) (S)-1-Phenylethanol dehydrogenase of Azoarcus sp strain EbN1, an enzyme of anaerobic ethylbenzene catabolism. Arch Microbiol 176: 129-135 http://download.springer.com/static/pdf/729/art%253A10.1007%252Fs002030100303.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs002030100303&token2=exp=1471976437~acl=%2Fstatic%2Fpdf%2F729%2Fart%25253A10.1007%25252Fs002030100303.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs002030100303*~hmac=a1edcc81ebc3f8b73705d4eccc84d69a25707f9c1a707cce70773e88973f0a6d.
+[Hopper DJ, Bossert ID & Rhodes-Roberts ME (1991) p-Cresol methylhydroxylase from a denitrifying bacterium involved in anaerobic degradation of p-cresol. J Bacteriol 173: 1298-1301](http://jb.asm.org/content/173/3/1298.full.pdf)
+
+[Jaekel U, Vogt C, Fischer A, Richnow HH & Musat F (2014) Carbon and hydrogen stable isotope fractionation associated with the anaerobic degradation of propane and butane by marine sulfate-reducing bacteria. Environ Microbiol 16: 130-140](http://onlinelibrary.wiley.com/store/10.1111/1462-2920.12251/asset/emi12251.pdf?v=1&t=is7s1g51&s=6432cacd5b365b0fb1f6c60d73be22f3fdf277c5)
+
+[Jarling R, Kühner S, Basílio Janke E, Gruner A, Drozdowska M, Golding BT, Rabus R & Wilkes H (2015) Versatile transformations of hydrocarbons in anaerobic bacteria: substrate ranges and regio- and stereo-chemistry of activation reactions. Front Microbiol 6:](http://journal.frontiersin.org/article/10.3389/fmicb.2015.00880/full)
+
+[Jobelius C, Ruth B, Griebler C, Meckenstock RU, Hollender J, Reineke A, Frimmel FH & Zwiener C (2011) Metabolites indicate hot spots of biodegradation and biogeochemical gradients in a high-resolution monitoring well. Environ Sci Technol 45: 474-481](http://pubs.acs.org/doi/pdfplus/10.1021/es1030867)
+
+[Jobst B, Schühle K, Linne U & Heider J (2010) ATP-dependent carboxylation of acetophenone by a novel type of carboxylase. J Bacteriol 192: 1387-1394](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820866/pdf/1423-09.pdf)
+
+[Johnson HA, Pelletier DA & Spormann AM (2001) Isolation and characterization of anaerobic ethylbenzene dehydrogenase, a novel Mo-Fe-S enzyme. J Bacteriol 183: 4536-4542](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC95348/pdf/jb004536.pdf)
+
+[Keat MJ & Hopper DJ (1978) p-Cresol and 3,5-xylenol methylhydroxylases in Pseudomonas putida NCIB 9869. Biochem J 175: 649-658](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1186115/pdf/biochemj00476-0296.pdf)
+
+[Kniemeyer O & Heider J (2001) (S)-1-Phenylethanol dehydrogenase of Azoarcus sp strain EbN1, an enzyme of anaerobic ethylbenzene catabolism. Arch Microbiol 176: 129-135](http://download.springer.com/static/pdf/729/art%253A10.1007%252Fs002030100303.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs002030100303&token2=exp=1471976437~acl=%2Fstatic%2Fpdf%2F729%2Fart%25253A10.1007%25252Fs002030100303.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs002030100303*~hmac=a1edcc81ebc3f8b73705d4eccc84d69a25707f9c1a707cce70773e88973f0a6d)
+
 Kniemeyer O & Heider J (2001) Ethylbenzene dehydrogenase, a novel hydrocarbon-oxidizing molybdenum/iron-sulfur/heme enzyme. J Biol Chem 276: 21381-21386 http://www.jbc.org/content/276/24/21381.full.pdf.
 Kniemeyer O, Fischer T, Wilkes H, Glöckner FO & Widdel F (2003) Anaerobic degradation of ethylbenzene by a new type of marine sulfate-reducing bacterium. Appl Environ Microb 69: 760-768 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC143655/pdf/1380.pdf.
 Kniemeyer O, Musat F, Sievert SM, Knittel K, Wilkes H, Blumenberg M, Michaelis W, Classen A, Bolm C, Joye SB & Widdel F (2007) Anaerobic oxidation of short-chain hydrocarbons by marine sulphate-reducing bacteria. Nature 449: 898-U810 http://www.nature.com/nature/journal/v449/n7164/pdf/nature06200.pdf.
