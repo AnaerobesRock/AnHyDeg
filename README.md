@@ -279,7 +279,7 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 [Callaghan AV, Wawrik B, Ní Chadhain SM, Young LY & Zylstra GJ (2008) Anaerobic alkane-degrading strain AK-01 contains two alkylsuccinate synthase genes. Biochem Bioph Res Comm 366: 142-148.](http://ac.els-cdn.com/S0006291X07025259/1-s2.0-S0006291X07025259-main.pdf?_tid=67703d7a-695b-11e6-9f45-00000aacb360&acdnat=1471975378_b11acbf88b218b368c82f78ac9431fd7)
 
-Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. et al. (2008) The Complete Genome Sequence of _Desulfococcus oleovorans_ Hxd3, a Sulfate-Reducing, Alkane-Degrading Bacterium. In American Society for Microbiology 108th General Meeting. Boston, MA.
+Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. et al. (2008) The Complete Genome Sequence of _Desulfococcus oleovorans_ Hxd3, a Sulfate-Reducing, Alkane-Degrading Bacterium. In _American Society for Microbiology 108th General Meeting_. Boston, MA.
 
 [Coschigano PW, Wehrman TS & Young LY (1998) Identification and analysis of genes involved in anaerobic toluene metabolism by strain T1: putative role of a glycine free radical. Appl Environ Microbiol 64:1650-1656.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC106210/pdf/am001650.pdf)
 
