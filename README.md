@@ -249,7 +249,7 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 - - - 
 ##References
 
-[Abu Laban N, Selesi D, Rattei T, Tischler P & Meckenstock RU (2010) Identification of enzymes involved in anaerobic benzene degradation by a strictly anaerobic iron-reducing enrichment culture. Environ Microbiol 12: 2783-2796.](http://www.ncbi.nlm.nih.gov/pubmed/20545743)
+[Abu Laban N, Selesi D, Rattei T, Tischler P & Meckenstock RU (2010) Identification of enzymes involved in anaerobic benzene degradation by a strictly anaerobic iron-reducing enrichment culture. Environ Microbiol 12: 2783-2796.](http://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2010.02248.x/epdf)
 
 [Annweiler E, Michaelis W & Meckenstock RU (2001) Anaerobic cometabolic conversion of benzothiophene by a sulfate-reducing enrichment culture and in a tar-oil- contaminated aquifer. Appl Environ Microbiol 67: 5077-5083.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC93274/pdf/am1101005077.pdf.)
 
