@@ -73,7 +73,7 @@ Several mechanisms of anaerobic benzene activation have been proposed, including
 
 #####Putative Benzene Carboxylase
 
- ABC | GGenBank Annotation Info |
+ ABC | GenBank Annotation Info |
  :--- | :---------- |
 | [Putative benzene carboxylase](fasta_files/AbcA_list.md) | 3-Octaprenyl-4-hydroxybenzoate carboxy-lyase; cl00311 |
 | [Gamma subunit](fasta_files/AbcD_list.md) | Phenylphosphate carboxylase, gamma subunit; TIGR02725 |
