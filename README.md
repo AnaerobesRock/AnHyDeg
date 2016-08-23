@@ -361,7 +361,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Safinowski M & Meckenstock RU (2004) Enzymatic reactions in anaerobic 2-methylnaphthalene degradation by the sulphate-reducing enrichment culture N47. FEMS Microbiol Lett 240: 99-104.](http://femsle.oxfordjournals.org/content/femsle/240/1/99.full.pdf)
 
-[Safinowski M & Meckenstock RU (2006) Methylation is the initial reaction in anaerobic naphthalene degradation by a sulfate-reducing enrichment culture. Environ Microbiol 8: 347-352.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2005.00900.x/asset/j.1462-2920.2005.00900.x.pdf?v=1&t=is7s3oie&s=1585552f8a34e8e49626b792d2c5bd298c536ff5)
+[Safinowski M & Meckenstock RU (2006) Methylation is the initial reaction in anaerobic naphthalene degradation by a sulfate-reducing enrichment culture. Environ Microbiol 8: 347-352.](http://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2005.00900.x/epdf)
 
 [Safinowski M, Griebler C & Meckenstock RU (2006) Anaerobic cometabolic transformation of polycyclic and heterocyclic aromatic hydrocarbons: Evidence from laboratory and field studies. Environ Sci Technol 40: 4165-4173.](http://pubs.acs.org/doi/pdf/10.1021/es0525410)
 
