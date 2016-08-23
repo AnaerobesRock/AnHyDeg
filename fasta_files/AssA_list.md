@@ -5,7 +5,7 @@ Protein | Organism | GenBank Accession |
 | AssA (putative) | *Desulfatibacillum aliphaticivorans* DSM 15576T | [WP_028315530](http://www.ncbi.nlm.nih.gov/protein/WP_028315530) |
 | AssA (putative) | *Desulfatibacillum aliphaticivoran*s DSM 15576T | [WP_051327391](http://www.ncbi.nlm.nih.gov/protein/WP_051327391) |
 | AssA | *Desulfoglaeba alkanexedens* ALDC | [ADJ51097](http://www.ncbi.nlm.nih.gov/protein/ADJ51097) |
-| MasD | *‘Aromatoleum’* sp. HxN1 (a.k.a. Azoarcus) | [CAO03074](http://www.ncbi.nlm.nih.gov/protein/CAO03074) |
+| MasD | *‘Aromatoleum’* sp. HxN1 (formerly _'Azoarcus'_) | [CAO03074](http://www.ncbi.nlm.nih.gov/protein/CAO03074) |
 | MasD | *‘Aromatoleum’* sp. OcN1 | [CBK27727](http://www.ncbi.nlm.nih.gov/protein/CBK27727) |
 | AssA1 | *‘Smithella’* sp.  SCADC | [KFO69021](http://www.ncbi.nlm.nih.gov/protein/KFO69021) |
 | AssA2 | *‘Smithella’* sp.  SCADC | [KGL06511](http://www.ncbi.nlm.nih.gov/protein/KGL06511) |
