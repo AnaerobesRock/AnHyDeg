@@ -295,7 +295,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Heider J & Schühle K (2013) Anaerobic Biodegradation of Hydrocarbons Including Methane. In _The Prokaryotes_, (Rosenberg E, DeLong EF, Lory S, Stackebrandt E & Thompson F, eds)  605-634. Springer-Verlag, Berlin Heidelberg.](http://download.springer.com/static/pdf/102/chp%253A10.1007%252F978-3-642-30141-4_80.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-642-30141-4_80&token2=exp=1471983445~acl=%2Fstatic%2Fpdf%2F102%2Fchp%25253A10.1007%25252F978-3-642-30141-4_80.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Freferenceworkentry%252F10.1007%252F978-3-642-30141-4_80*~hmac=e4dc42225aea1df370a70f6077dde2724470a761afca8f416029f7b5087789fb)
 
-[Heider J, Szaleniec M, Sünwoldt K & Boll M (2016) Ethylbenzene dehydrogenase and related molybdenum enzymes involved in oxygen-independent alkyl chain hydroxylation. J Mol Microbiol Biotechnol 26: 45-62.](http://www.ncbi.nlm.nih.gov/pubmed/26960184)
+[Heider J, Szaleniec M, Sünwoldt K & Boll M (2016) Ethylbenzene dehydrogenase and related molybdenum enzymes involved in oxygen-independent alkyl chain hydroxylation. J Mol Microbiol Biotechnol 26: 45-62.](http://www.karger.com/Article/Abstract/441357)
 
 [Heider J, Szaleniec M, Martins BM, Seyhan D, Buckel W & Golding BT (2016) Structure and function of benzylsuccinate synthase and related fumarate-adding glycyl radical enzymes. J Mol Microbiol Biotechnol 26: 29-44.](http://www.ncbi.nlm.nih.gov/pubmed/26959246)
 
