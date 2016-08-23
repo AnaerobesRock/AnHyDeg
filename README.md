@@ -257,7 +257,7 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 [Annweiler E, Materna A, Safinowski M, Kappler A, Richnow HH, Michaelis W & Meckenstock RU (2000) Anaerobic degradation of 2-methylnaphthalene by a sulfate-reducing enrichment culture. Appl Environ Microb 66: 5329-5333 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92464/pdf/am005329.pdf)
 
-[Ball HA, Johnson HA, Reinhard M & Spormann AM (1996) Initial reactions in anaerobic ethylbenzene oxidation by a denitrifying bacterium, strain EB1. J Bacteriol 178: 5755-5761](http://jb.asm.org/content/178/19/5755.full.pd)
+[Ball HA, Johnson HA, Reinhard M & Spormann AM (1996) Initial reactions in anaerobic ethylbenzene oxidation by a denitrifying bacterium, strain EB1. J Bacteriol 178: 5755-5761](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC178416/pdf/1785755.pdf)
 
 [Beller HR & Spormann AM (1997) Benzylsuccinate formation as a means of anaerobic toluene activation by sulfate-reducing strain PRTOL1. Appl Environ Microb 63: 3729-3731](http://aem.asm.org/content/63/9/3729.full.pdf)
 
