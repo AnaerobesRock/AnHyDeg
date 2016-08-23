@@ -381,7 +381,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Verfürth K, Pierik AJ, Leutwein C, Zorn S & Heider J (2004) Substrate specificities and electron paramagnetic resonance properties of benzylsuccinate synthases in anaerobic toluene and m-xylene metabolism. Arch Microbiol 181: 155-162.](http://download.springer.com/static/pdf/382/art%253A10.1007%252Fs00203-003-0642-4.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00203-003-0642-4&token2=exp=1471976506~acl=%2Fstatic%2Fpdf%2F382%2Fart%25253A10.1007%25252Fs00203-003-0642-4.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00203-003-0642-4*~hmac=e2aa3ff69bf544b0fc0ccf45a9e13142c4e821a7584bb015efb675cda993545f)
 
-Webner K (2012) Die Gene der (1-Methylalkyl)succinat-Synthase im anaeroben _n_-Alkanabbau des Betaproteobakteriums Stamm HxN1. Thesis, University of Bremen, Bremen, Germany.
+[Webner K (2012) Die Gene der (1-Methylalkyl)succinat-Synthase im anaeroben _n_-Alkanabbau des Betaproteobakteriums Stamm HxN1. Thesis, University of Bremen, Bremen, Germany.](http://elib.suub.uni-bremen.de/edocs/00102600-1.pdf)
 
 [Wilkes H, Buckel W, Golding BT & Rabus R (2016) Metabolism of hydrocarbons in n-alkane-utilizing anaerobic bacteria. J Mol Microb Biotech 26: 138-151.](http://www.karger.com/Article/Abstract/442160)
 
