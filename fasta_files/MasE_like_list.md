@@ -1,6 +1,6 @@
 Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| MasE | Aromatoleum sp. HxN1 | [CAO03075](http://www.ncbi.nlm.nih.gov/protein/CAO03075) |
+| MasE | _'Aromatoleum'_ sp. HxN1 (formerly _'Azoarcus'_) | [CAO03075](http://www.ncbi.nlm.nih.gov/protein/CAO03075) |
 | MasE-like (putative) | *Desulfatibacillum alkenivorans* AK-01 | [ACL03429](http://www.ncbi.nlm.nih.gov/protein/ACL03429) |
 | MasE-like (putative) | *Desulfatibacillum alkenivorans* AK-01 | [ACL03890](http://www.ncbi.nlm.nih.gov/protein/ACL03890) |
 | MasE-like (putative) | *Desulfatibacillum alkenivorans* AK-01 | [ACL03896](http://www.ncbi.nlm.nih.gov/protein/ACL03896) |
