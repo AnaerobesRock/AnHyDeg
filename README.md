@@ -325,7 +325,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Kniemeyer O, Fischer T, Wilkes H, Glöckner FO & Widdel F (2003) Anaerobic degradation of ethylbenzene by a new type of marine sulfate-reducing bacterium. Appl Environ Microbiol 69: 760-768.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC143655/pdf/1380.pdf)
 
-[Kniemeyer O, Musat F, Sievert SM, Knittel K, Wilkes H, Blumenberg M, Michaelis W, Classen A, Bolm C, Joye SB & Widdel F (2007) Anaerobic oxidation of short-chain hydrocarbons by marine sulphate-reducing bacteria. Nature 449: 898-U810.](http://www.nature.com/nature/journal/v449/n7164/pdf/nature06200.pdf)
+[Kniemeyer O, Musat F, Sievert SM, Knittel K, Wilkes H, Blumenberg M, Michaelis W, Classen A, Bolm C, Joye SB & Widdel F (2007) Anaerobic oxidation of short-chain hydrocarbons by marine sulphate-reducing bacteria. Nature 449: 898-902.](http://www.nature.com/nature/journal/v449/n7164/pdf/nature06200.pdf)
 
 [Krieger CJ, Beller HR, Reinhard M & Spormann AM (1999) Initial reactions in anaerobic oxidation of _m_-xylene by the denitrifying bacterium _Azoarcus_ sp. strain T. J Bacteriol 181: 6403-6410.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC103776/pdf/jb006403.pdf)
 
