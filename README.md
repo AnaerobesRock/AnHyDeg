@@ -307,7 +307,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Hopper DJ, Bossert ID & Rhodes-Roberts ME (1991) _p_-Cresol methylhydroxylase from a denitrifying bacterium involved in anaerobic degradation of _p_-cresol. J Bacteriol 173: 1298-1301.](http://jb.asm.org/content/173/3/1298.full.pdf)
 
-[Jaekel U, Vogt C, Fischer A, Richnow HH & Musat F (2014) Carbon and hydrogen stable isotope fractionation associated with the anaerobic degradation of propane and butane by marine sulfate-reducing bacteria. Environ Microbiol 16: 130-140.](http://onlinelibrary.wiley.com/store/10.1111/1462-2920.12251/asset/emi12251.pdf?v=1&t=is7s1g51&s=6432cacd5b365b0fb1f6c60d73be22f3fdf277c5)
+[Jaekel U, Vogt C, Fischer A, Richnow HH & Musat F (2014) Carbon and hydrogen stable isotope fractionation associated with the anaerobic degradation of propane and butane by marine sulfate-reducing bacteria. Environ Microbiol 16: 130-140.](http://onlinelibrary.wiley.com/doi/10.1111/1462-2920.12251/epdf)
 
 [Jarling R, Kühner S, Basílio Janke E, Gruner A, Drozdowska M, Golding BT, Rabus R & Wilkes H (2015) Versatile transformations of hydrocarbons in anaerobic bacteria: substrate ranges and regio- and stereo-chemistry of activation reactions. Front Microbiol 6:](http://journal.frontiersin.org/article/10.3389/fmicb.2015.00880/full)
 
