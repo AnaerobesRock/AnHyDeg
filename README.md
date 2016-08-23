@@ -297,7 +297,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Heider J, Szaleniec M, Sünwoldt K & Boll M (2016) Ethylbenzene dehydrogenase and related molybdenum enzymes involved in oxygen-independent alkyl chain hydroxylation. J Mol Microbiol Biotechnol 26: 45-62.](http://www.karger.com/Article/Abstract/441357)
 
-[Heider J, Szaleniec M, Martins BM, Seyhan D, Buckel W & Golding BT (2016) Structure and function of benzylsuccinate synthase and related fumarate-adding glycyl radical enzymes. J Mol Microbiol Biotechnol 26: 29-44.](http://www.ncbi.nlm.nih.gov/pubmed/26959246)
+[Heider J, Szaleniec M, Martins BM, Seyhan D, Buckel W & Golding BT (2016) Structure and function of benzylsuccinate synthase and related fumarate-adding glycyl radical enzymes. J Mol Microbiol Biotechnol 26: 29-44.](http://www.karger.com/Article/Abstract/441656)
 
 [Herath A, Wawrik B, Qin Y, Zhou JZ & Callaghan AV (2016) Transcriptional response of _Desulfatibacillum alkenivorans_ AK-01 to growth on alkanes: insights from RT-qPCR and microarray analyses. FEMS Microbiol Ecol 92(5):fiw062.](http://www.ncbi.nlm.nih.gov/pubmed/27009900)
 
