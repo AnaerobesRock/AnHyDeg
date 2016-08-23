@@ -1,7 +1,7 @@
  Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
-| Naphthalene Carboxylase alpha subunit | Desulfobacterium sp. N 47 | [CBX30514](http://www.ncbi.nlm.nih.gov/protein/CBX30514) |
-| Naphthalene Carboxylase alpha subunit | Deltaproteobacterium Naph S2 | [EFK07621](http://www.ncbi.nlm.nih.gov/protein/EFK07621) |
+| Naphthalene Carboxylase alpha subunit | Desulfobacterium sp. N47 | [CBX30514](http://www.ncbi.nlm.nih.gov/protein/CBX30514) |
+| Naphthalene Carboxylase alpha subunit | Deltaproteobacterium NaphS2 | [EFK07621](http://www.ncbi.nlm.nih.gov/protein/EFK07621) |
 | []() | | |
 
 ###FILE DOWNLOAD LINKS
