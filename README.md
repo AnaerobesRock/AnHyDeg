@@ -345,7 +345,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Morasch B, Hunkeler D, Zopfi J, Temime B & Höhener P (2011) Intrinsic biodegradation potential of aromatic hydrocarbons in an alluvial aquifer - potentials and limits of signature metabolite analysis and two stable isotope-based techniques. Water Res 45: 4459-4469.](http://ac.els-cdn.com/S0043135411003137/1-s2.0-S0043135411003137-main.pdf?_tid=8cf51de0-695b-11e6-8665-00000aab0f27&acdnat=1471975441_204ba3759061fbc9746683c7a361a4ef)
 
-[Mouttaki H, Johannes J & Meckenstock RU (2012) Identification of naphthalene carboxylase as a prototype for the anaerobic activation of non-substituted aromatic hydrocarbons. Environ Microbiol 14: 2770-2774.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2012.02768.x/asset/emi2768.pdf?v=1&t=is7s2dtd&s=143131d9e65322bd98aec0fe70aacedf0c5aeb23)
+[Mouttaki H, Johannes J & Meckenstock RU (2012) Identification of naphthalene carboxylase as a prototype for the anaerobic activation of non-substituted aromatic hydrocarbons. Environ Microbiol 14: 2770-2774.](http://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2012.02768.x/epdf)
 
 [Müller JA, Galushko AS, Kappler A & Schink B (2001) Initiation of anaerobic degradation of _p_-cresol by formation of 4-hydroxybenzylsuccinate in _Desulfobacterium cetonicum_. J Bacteriol 183: 752-757.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC94933/pdf/jb000752.pdf)
 
