@@ -299,7 +299,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Heider J, Szaleniec M, Martins BM, Seyhan D, Buckel W & Golding BT (2016) Structure and function of benzylsuccinate synthase and related fumarate-adding glycyl radical enzymes. J Mol Microbiol Biotechnol 26: 29-44.](http://www.karger.com/Article/Abstract/441656)
 
-[Herath A, Wawrik B, Qin Y, Zhou JZ & Callaghan AV (2016) Transcriptional response of _Desulfatibacillum alkenivorans_ AK-01 to growth on alkanes: insights from RT-qPCR and microarray analyses. FEMS Microbiol Ecol 92(5):fiw062.](http://www.ncbi.nlm.nih.gov/pubmed/27009900)
+[Herath A, Wawrik B, Qin Y, Zhou JZ & Callaghan AV (2016) Transcriptional response of _Desulfatibacillum alkenivorans_ AK-01 to growth on alkanes: insights from RT-qPCR and microarray analyses. FEMS Microbiol Ecol 92(5):fiw062.](http://femsec.oxfordjournals.org/content/92/5/fiw062.long)
 
 [Höffken HW, Duong M, Friedrich T, Breuer M, Hauer B, Reinhardt R, Rabus R & Heider J (2006) Crystal structure and enzyme kinetics of the (_S_)-specific 1-phenylethanol dehydrogenase of the denitrifying bacterium strain EbN1. Biochemistry-Us 45: 82-93.](http://pubs.acs.org/doi/pdfplus/10.1021/bi051596b)
 
