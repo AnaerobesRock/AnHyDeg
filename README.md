@@ -305,7 +305,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Holmes DE, Risso C, Smith JA & Lovley DR (2011) Anaerobic oxidation of benzene by the hyperthermophilic archaeon _Ferroglobus placidus_. Appl Environ Microbiol 77: 5926-5933.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165377/pdf/zam5926.pdf)
 
-[Hopper DJ, Bossert ID & Rhodes-Roberts ME (1991) _p_-Cresol methylhydroxylase from a denitrifying bacterium involved in anaerobic degradation of p-cresol. J Bacteriol 173: 1298-1301.](http://jb.asm.org/content/173/3/1298.full.pdf)
+[Hopper DJ, Bossert ID & Rhodes-Roberts ME (1991) _p_-Cresol methylhydroxylase from a denitrifying bacterium involved in anaerobic degradation of _p_-cresol. J Bacteriol 173: 1298-1301.](http://jb.asm.org/content/173/3/1298.full.pdf)
 
 [Jaekel U, Vogt C, Fischer A, Richnow HH & Musat F (2014) Carbon and hydrogen stable isotope fractionation associated with the anaerobic degradation of propane and butane by marine sulfate-reducing bacteria. Environ Microbiol 16: 130-140.](http://onlinelibrary.wiley.com/store/10.1111/1462-2920.12251/asset/emi12251.pdf?v=1&t=is7s1g51&s=6432cacd5b365b0fb1f6c60d73be22f3fdf277c5)
 
@@ -327,13 +327,13 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Kniemeyer O, Musat F, Sievert SM, Knittel K, Wilkes H, Blumenberg M, Michaelis W, Classen A, Bolm C, Joye SB & Widdel F (2007) Anaerobic oxidation of short-chain hydrocarbons by marine sulphate-reducing bacteria. Nature 449: 898-U810.](http://www.nature.com/nature/journal/v449/n7164/pdf/nature06200.pdf)
 
-[Krieger CJ, Beller HR, Reinhard M & Spormann AM (1999) Initial reactions in anaerobic oxidation of m-xylene by the denitrifying bacterium _Azoarcus_ sp. strain T. J Bacteriol 181: 6403-6410](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC103776/pdf/jb006403.pdf)
+[Krieger CJ, Beller HR, Reinhard M & Spormann AM (1999) Initial reactions in anaerobic oxidation of _m_-xylene by the denitrifying bacterium _Azoarcus_ sp. strain T. J Bacteriol 181: 6403-6410](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC103776/pdf/jb006403.pdf)
 
 [Lack A & Fuchs G (1992) Carboxylation of phenylphosphate by phenol carboxylase, an enzyme system of anaerobic phenol metabolism. J Bacteriol 174: 3629-3636.](http://jb.asm.org/content/174/11/3629.full.pdf)
 
 [Lack A & Fuchs G (1994) Evidence that phenol phosphorylation to phenylphosphate is the first step in anaerobic phenol metabolism in a denitrifying _Pseudomonas_ sp. Arch Microbiol 161: 132-139.](http://download.springer.com/static/pdf/959/art%253A10.1007%252FBF00276473.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2FBF00276473&token2=exp=1471976446~acl=%2Fstatic%2Fpdf%2F959%2Fart%25253A10.1007%25252FBF00276473.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252FBF00276473*~hmac=5d4b7b1f46708b95c32782c1d04a93e2fbf361edebd0b7e996bbacf6072023f7)
 
-[Lack A, Tommasi I, Aresta M & Fuchs G (1991) Catalytic properties of phenol carboxylase - _In vitro_ study of CO2: 4-hydroxybenzoate isotope exchange reaction. Eur J Biochem 197: 473-479.](http://onlinelibrary.wiley.com/store/10.1111/j.1432-1033.1991.tb15934.x/asset/j.1432-1033.1991.tb15934.x.pdf?v=1&t=is7s23zx&s=0de8eb6f1b89a444064ad8652d4500cb65803db0)
+[Lack A, Tommasi I, Aresta M & Fuchs G (1991) Catalytic properties of phenol carboxylase - _In vitro_ study of CO_sub_2_sub_: 4-hydroxybenzoate isotope exchange reaction. Eur J Biochem 197: 473-479.](http://onlinelibrary.wiley.com/store/10.1111/j.1432-1033.1991.tb15934.x/asset/j.1432-1033.1991.tb15934.x.pdf?v=1&t=is7s23zx&s=0de8eb6f1b89a444064ad8652d4500cb65803db0)
 
 [Leuthner B, Leutwein C, Schulz H, Horth P, Haehnel W, Schiltz E, Schägger H & Heider J (1998) Biochemical and genetic characterization of benzylsuccinate synthase from _Thauera aromatica_: a new glycyl radical enzyme catalysing the first step in anaerobic toluene metabolism. Mol Microbiol 28: 615-628.](http://onlinelibrary.wiley.com/store/10.1046/j.1365-2958.1998.00826.x/asset/j.1365-2958.1998.00826.x.pdf?v=1&t=is7s29on&s=bf501450d1b64bbc59d1482acd603a37cbbae6d2)
 
