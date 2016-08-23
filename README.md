@@ -265,36 +265,46 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 [Beller HR & Spormann AM (1999) Substrate range of benzylsuccinate synthase from Azoarcus sp. strain T. Fems Microbiol Lett 178: 147-153](http://femsle.oxfordjournals.org/content/femsle/178/1/147.full.pdf)
 
-[Bergmann F, Selesi D, Weinmaier T, Tischler P, Rattei T & Meckenstock RU (2011) Genomic insights into the metabolic potential of the polycyclic aromatic hydrocarbon degrading sulfate-reducing Deltaproteobacterium N47. Environ Microbiol 13: 1125-1137](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2010.02391.x/asset/j.1462-2920.2010.02391.x.pdf?v=1&t=is7s0r5y&s=7f649c8985f0a5c5bc98d9265426395e4495dcdb)
+[Bergmann F, Selesi D, Weinmaier T, Tischler P, Rattei T & Meckenstock RU (2011) Genomic insights into the metabolic potential of the polycyclic aromatic hydrocarbon degrading sulfate-reducing Deltaproteobacterium N47. Environ Microbiol 13: 1125-1137](http://www.ncbi.nlm.nih.gov/pubmed/21176053)
 
 [Bergmann FD, Selesi D & Meckenstock RU (2011) Identification of new enzymes potentially involved in anaerobic naphthalene degradation by the sulfate-reducing enrichment culture N47. Arch Microbiol 193: 241-250](http://download.springer.com/static/pdf/877/art%253A10.1007%252Fs00203-010-0667-4.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00203-010-0667-4&token2=exp=1471976388~acl=%2Fstatic%2Fpdf%2F877%2Fart%25253A10.1007%25252Fs00203-010-0667-4.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00203-010-0667-4*~hmac=9c61b454cfecfb516b8c89400440ac1a451a0a86d03d14986fefee97f7750304)
 
-Biegert T, Fuchs G & Heider F (1996) Evidence that anaerobic oxidation of toluene in the denitrifying bacterium Thauera aromatica is initiated by formation of benzylsuccinate from toluene and fumarate. Eur J Biochem 238: 661-668 
-http://onlinelibrary.wiley.com/store/10.1111/j.1432-1033.1996.0661w.x/asset/j.1432-1033.1996.0661w.x.pdf?v=1&t=is7s0vsn&s=911132e601e3d9b46d138afffec1af21653d0cb1.
-Callaghan AV (2013) Enzymes involved in the anaerobic oxidation of n-alkanes: from methane to long-chain paraffins. Front Microbiol 4
-http://journal.frontiersin.org/article/10.3389/fmicb.2013.00089/full.
-Callaghan AV, Tierney M, Phelps CD & Young LY (2009) Anaerobic biodegradation of n-hexadecane by a nitrate-reducing consortium. Appl Environ Microb 75: 1339-1344
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648152/pdf/2491-08.pdf.
-Callaghan AV, Gieg LM, Kropp KG, Suflita JM & Young LY (2006) Comparison of mechanisms of alkane metabolism under sulfate-reducing conditions among two bacterial isolates and a bacterial consortium. Appl Environ Microb 72: 4274-4282 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1489600/pdf/2896-05.pdf.
-Callaghan AV, Wawrik B, Ní Chadhain SM, Young LY & Zylstra GJ (2008) Anaerobic alkane-degrading strain AK-01 contains two alkylsuccinate synthase genes. Biochem Bioph Res Co 366: 142-148 
-http://ac.els-cdn.com/S0006291X07025259/1-s2.0-S0006291X07025259-main.pdf?_tid=67703d7a-695b-11e6-9f45-00000aacb360&acdnat=1471975378_b11acbf88b218b368c82f78ac9431fd7.
-Callaghan AV, Austin RN, Groves JT, Kukor JJ, Rabus R, Widdel F, Young LY, Zylstra GJ & B. Wawrik B (2008) The Complete Genome Sequence of Desulfococcus oleovorans Hxd3, a Sulfate-Reducing, Alkane-Degrading Bacterium. ed^eds), Boston, MA.
-Coschigano PW, Wehrman TS & Young LY (1998) Identification and analysis of genes involved in anaerobic toluene metabolism by strain T1: putative role of a glycine free radical. Appl Environ Microb 64: 1650-1656 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC106210/pdf/am001650.pdf.
-Davidova IA, Gieg LM, Duncan KE & Suflita JM (2007) Anaerobic phenanthrene mineralization by a carboxylating sulfate-reducing bacterial enrichment. Isme J 1: 436-442 
-http://www.nature.com/ismej/journal/v1/n5/pdf/ismej200748a.pdf.
-DiDonato RJ, Young ND, Butler JE, Chin KJ, Hixson KK, Mouser P, Lipton MS, DeBoy R & Methe BA (2010) Genome sequence of the deltaproteobacterial strain NaphS2 and analysis of differential gene expression during anaerobic growth on naphthalene. Plos One 5
-http://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0014072.PDF.
-Evans PJ, Ling W, Goldschmidt B, Ritter ER & Young LY (1992) Metabolites formed during anaerobic transformation of toluene and o-xylene and their proposed relationship to the initial steps of toluene mneralization. Appl Environ Microb 58: 496-501 http://aem.asm.org/content/58/2/496.full.pdf.
-Grundmann O, Behrends A, Rabus R, Amann J, Halder T, Heider J & Widdel F (2008) Genes encoding the candidate enzyme for anaerobic activation of n-alkanes in the denitrifying bacterium, strain HxN1. Environ Microbiol 10: 376-385 http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2007.01458.x/asset/j.1462-2920.2007.01458.x.pdf?v=1&t=is7s13uw&s=9614762e1c8294c5ad529c0c4435f4df8ebe3c81.
-Harms G, Rabus R & Widdel F (1999) Anaerobic oxidation of the aromatic plant hydrocarbon p-cymene by newly isolated denitrifying bacteria. Arch Microbiol 172: 303-312 http://download.springer.com/static/pdf/276/art%253A10.1007%252Fs002030050784.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs002030050784&token2=exp=1471976409~acl=%2Fstatic%2Fpdf%2F276%2Fart%25253A10.1007%25252Fs002030050784.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs002030050784*~hmac=efb0b1f49776b4931b18fbad042c4f26b2f6930f14b71eded19b1c877a314c6d.
-Heider J & Schühle K (2013) Anaerobic Biodegradation of Hydrocarbons Including Methane. in The Prokaryotes, (Rosenberg E, DeLong EF, Lory S, Stackebrandt E & Thompson F, eds)  605-634. Springer-Verlag, Berlin Heidelberg.
-Heider J, Szaleniec M, Sünwoldt K & Boll M (2016) Ethylbenzene dehydrogenase and related molybdenum enzymes involved in oxygen-independent alkyl chain hydroxylation. J Mol Microbiol Biotechnol 26: 45-62 http://www.ncbi.nlm.nih.gov/pubmed/26960184.
-Heider J, Szaleniec M, Martins BM, Seyhan D, Buckel W & Golding BT (2016) Structure and function of benzylsuccinate synthase and related fumarate-adding glycyl radical enzymes. J Mol Microbiol Biotechnol 26: 29-44 http://www.ncbi.nlm.nih.gov/pubmed/26959246.
-Herath A, Wawrik B, Qin Y, Zhou JZ & Callaghan AV (2016) Transcriptional response of Desulfatibacillum alkenivorans AK-01 to growth on alkanes: insights from RT-qPCR and microarray analyses. FEMS Microbiol Ecol 92: In press http://www.ncbi.nlm.nih.gov/pubmed/27009900.
-Höffken HW, Duong M, Friedrich T, Breuer M, Hauer B, Reinhardt R, Rabus R & Heider J (2006) Crystal structure and enzyme kinetics of the (S)-specific 1-phenylethanol dehydrogenase of the denitrifying bacterium strain EbN1. Biochemistry-Us 45: 82-93 http://pubs.acs.org/doi/pdfplus/10.1021/bi051596b.
-Holmes DE, Risso C, Smith JA & Lovley DR (2011) Anaerobic oxidation of benzene by the hyperthermophilic archaeon Ferroglobus placidus. Appl Environ Microb 77: 5926-5933 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165377/pdf/zam5926.pdf.
+[Biegert T, Fuchs G & Heider F (1996) Evidence that anaerobic oxidation of toluene in the denitrifying bacterium Thauera aromatica is initiated by formation of benzylsuccinate from toluene and fumarate. Eur J Biochem 238: 661-668](http://onlinelibrary.wiley.com/store/10.1111/j.1432-1033.1996.0661w.x/asset/j.1432-1033.1996.0661w.x.pdf?v=1&t=is7s0vsn&s=911132e601e3d9b46d138afffec1af21653d0cb1)
+
+[Callaghan AV (2013) Enzymes involved in the anaerobic oxidation of n-alkanes: from methane to long-chain paraffins. Front Microbiol 4](http://journal.frontiersin.org/article/10.3389/fmicb.2013.00089/full)
+
+[Callaghan AV, Tierney M, Phelps CD & Young LY (2009) Anaerobic biodegradation of n-hexadecane by a nitrate-reducing consortium. Appl Environ Microb 75: 1339-1344](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648152/pdf/2491-08.pdf)
+
+[Callaghan AV, Gieg LM, Kropp KG, Suflita JM & Young LY (2006) Comparison of mechanisms of alkane metabolism under sulfate-reducing conditions among two bacterial isolates and a bacterial consortium. Appl Environ Microb 72: 4274-4282](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1489600/pdf/2896-05.pdf)
+
+[Callaghan AV, Wawrik B, Ní Chadhain SM, Young LY & Zylstra GJ (2008) Anaerobic alkane-degrading strain AK-01 contains two alkylsuccinate synthase genes. Biochem Bioph Res Co 366: 142-148](http://ac.els-cdn.com/S0006291X07025259/1-s2.0-S0006291X07025259-main.pdf?_tid=67703d7a-695b-11e6-9f45-00000aacb360&acdnat=1471975378_b11acbf88b218b368c82f78ac9431fd7)
+
+Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. et al. (2008) The Complete Genome Sequence of Desulfococcus oleovorans Hxd3, a Sulfate-Reducing, Alkane-Degrading Bacterium. In American Society for Microbiology 108th General Meeting. Boston, MA.
+
+[Coschigano PW, Wehrman TS & Young LY (1998) Identification and analysis of genes involved in anaerobic toluene metabolism by strain T1: putative role of a glycine free radical. Appl Environ Microb 64:1650-1656](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC106210/pdf/am001650.pdf)
+
+[Davidova IA, Gieg LM, Duncan KE & Suflita JM (2007) Anaerobic phenanthrene mineralization by a carboxylating sulfate-reducing bacterial enrichment. Isme J 1: 436-442](http://www.nature.com/ismej/journal/v1/n5/pdf/ismej200748a.pdf)
+
+[DiDonato RJ, Young ND, Butler JE, Chin KJ, Hixson KK, Mouser P, Lipton MS, DeBoy R & Methe BA (2010) Genome sequence of the deltaproteobacterial strain NaphS2 and analysis of differential gene expression during anaerobic growth on naphthalene. Plos One 5:11](http://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0014072.PDF)
+
+[Evans PJ, Ling W, Goldschmidt B, Ritter ER & Young LY (1992) Metabolites formed during anaerobic transformation of toluene and o-xylene and their proposed relationship to the initial steps of toluene mneralization. Appl Environ Microb 58: 496-501](http://aem.asm.org/content/58/2/496.full.pdf)
+
+[Grundmann O, Behrends A, Rabus R, Amann J, Halder T, Heider J & Widdel F (2008) Genes encoding the candidate enzyme for anaerobic activation of n-alkanes in the denitrifying bacterium, strain HxN1. Environ Microbiol 10: 376-385](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2007.01458.x/asset/j.1462-2920.2007.01458.x.pdf?v=1&t=is7s13uw&s=9614762e1c8294c5ad529c0c4435f4df8ebe3c81)
+
+[Harms G, Rabus R & Widdel F (1999) Anaerobic oxidation of the aromatic plant hydrocarbon p-cymene by newly isolated denitrifying bacteria. Arch Microbiol 172:303-312](http://download.springer.com/static/pdf/276/art%253A10.1007%252Fs002030050784.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs002030050784&token2=exp=1471976409~acl=%2Fstatic%2Fpdf%2F276%2Fart%25253A10.1007%25252Fs002030050784.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs002030050784*~hmac=efb0b1f49776b4931b18fbad042c4f26b2f6930f14b71eded19b1c877a314c6d)
+
+[Heider J & Schühle K (2013) Anaerobic Biodegradation of Hydrocarbons Including Methane. in The Prokaryotes, (Rosenberg E, DeLong EF, Lory S, Stackebrandt E & Thompson F, eds)  605-634. Springer-Verlag, Berlin Heidelberg.](http://www.springer.com/us/book/9783642389214)
+
+[Heider J, Szaleniec M, Sünwoldt K & Boll M (2016) Ethylbenzene dehydrogenase and related molybdenum enzymes involved in oxygen-independent alkyl chain hydroxylation. J Mol Microbiol Biotechnol 26: 45-62](http://www.ncbi.nlm.nih.gov/pubmed/26960184)
+
+[Heider J, Szaleniec M, Martins BM, Seyhan D, Buckel W & Golding BT (2016) Structure and function of benzylsuccinate synthase and related fumarate-adding glycyl radical enzymes. J Mol Microbiol Biotechnol 26: 29-44](http://www.ncbi.nlm.nih.gov/pubmed/26959246)
+
+[Herath A, Wawrik B, Qin Y, Zhou JZ & Callaghan AV (2016) Transcriptional response of Desulfatibacillum alkenivorans AK-01 to growth on alkanes: insights from RT-qPCR and microarray analyses. FEMS Microbiol Ecol 92(5):fiw062](http://www.ncbi.nlm.nih.gov/pubmed/27009900)
+
+[Höffken HW, Duong M, Friedrich T, Breuer M, Hauer B, Reinhardt R, Rabus R & Heider J (2006) Crystal structure and enzyme kinetics of the (S)-specific 1-phenylethanol dehydrogenase of the denitrifying bacterium strain EbN1. Biochemistry-Us 45: 82-93](http://pubs.acs.org/doi/pdfplus/10.1021/bi051596b)
+
+[Holmes DE, Risso C, Smith JA & Lovley DR (2011) Anaerobic oxidation of benzene by the hyperthermophilic archaeon Ferroglobus placidus. Appl Environ Microb 77: 5926-5933](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165377/pdf/zam5926.pdf)
+
 Hopper DJ, Bossert ID & Rhodes-Roberts ME (1991) p-Cresol methylhydroxylase from a denitrifying bacterium involved in anaerobic degradation of p-cresol. J Bacteriol 173: 1298-1301 http://jb.asm.org/content/173/3/1298.full.pdf.
 Jaekel U, Vogt C, Fischer A, Richnow HH & Musat F (2014) Carbon and hydrogen stable isotope fractionation associated with the anaerobic degradation of propane and butane by marine sulfate-reducing bacteria. Environ Microbiol 16: 130-140 http://onlinelibrary.wiley.com/store/10.1111/1462-2920.12251/asset/emi12251.pdf?v=1&t=is7s1g51&s=6432cacd5b365b0fb1f6c60d73be22f3fdf277c5.
 Jarling R, Kühner S, Basílio Janke E, Gruner A, Drozdowska M, Golding BT, Rabus R & Wilkes H (2015) Versatile transformations of hydrocarbons in anaerobic bacteria: substrate ranges and regio- and stereo-chemistry of activation reactions. Front Microbiol 6: http://journal.frontiersin.org/article/10.3389/fmicb.2015.00880/full.
