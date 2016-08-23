@@ -289,7 +289,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Evans PJ, Ling W, Goldschmidt B, Ritter ER & Young LY (1992) Metabolites formed during anaerobic transformation of toluene and _o_-xylene and their proposed relationship to the initial steps of toluene mneralization. Appl Environ Microbiol 58: 496-501.](http://aem.asm.org/content/58/2/496.full.pdf)
 
-[Grundmann O, Behrends A, Rabus R, Amann J, Halder T, Heider J & Widdel F (2008) Genes encoding the candidate enzyme for anaerobic activation of _n_-alkanes in the denitrifying bacterium, strain HxN1. Environ Microbiol 10: 376-385.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2007.01458.x/asset/j.1462-2920.2007.01458.x.pdf?v=1&t=is7s13uw&s=9614762e1c8294c5ad529c0c4435f4df8ebe3c81)
+[Grundmann O, Behrends A, Rabus R, Amann J, Halder T, Heider J & Widdel F (2008) Genes encoding the candidate enzyme for anaerobic activation of _n_-alkanes in the denitrifying bacterium, strain HxN1. Environ Microbiol 10: 376-385.](http://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2007.01458.x/epdf)
 
 [Harms G, Rabus R & Widdel F (1999) Anaerobic oxidation of the aromatic plant hydrocarbon _p_-cymene by newly isolated denitrifying bacteria. Arch Microbiol 172:303-312.](http://download.springer.com/static/pdf/276/art%253A10.1007%252Fs002030050784.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs002030050784&token2=exp=1471976409~acl=%2Fstatic%2Fpdf%2F276%2Fart%25253A10.1007%25252Fs002030050784.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs002030050784*~hmac=efb0b1f49776b4931b18fbad042c4f26b2f6930f14b71eded19b1c877a314c6d)
 
