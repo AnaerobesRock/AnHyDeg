@@ -251,15 +251,15 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 [Abu Laban N, Selesi D, Rattei T, Tischler P & Meckenstock RU (2010) Identification of enzymes involved in anaerobic benzene degradation by a strictly anaerobic iron-reducing enrichment culture. Environ Microbiol 12: 2783-2796.](http://www.ncbi.nlm.nih.gov/pubmed/20545743)
 
-[Annweiler E, Michaelis W & Meckenstock RU (2001) Anaerobic cometabolic conversion of benzothiophene by a sulfate-reducing enrichment culture and in a tar-oil- contaminated aquifer. Appl Environ Microb 67: 5077-5083.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC93274/pdf/am1101005077.pdf.)
+[Annweiler E, Michaelis W & Meckenstock RU (2001) Anaerobic cometabolic conversion of benzothiophene by a sulfate-reducing enrichment culture and in a tar-oil- contaminated aquifer. Appl Environ Microbiol 67: 5077-5083.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC93274/pdf/am1101005077.pdf.)
 
-[Annweiler E, Michaelis W & Meckenstock RU (2002) Identical ring cleavage products during anaerobic degradation of naphthalene, 2-methylnaphthalene, and tetralin indicate a new metabolic pathway. Appl Environ Microb 68: 852-858.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC126706/pdf/1266.pdf)
+[Annweiler E, Michaelis W & Meckenstock RU (2002) Identical ring cleavage products during anaerobic degradation of naphthalene, 2-methylnaphthalene, and tetralin indicate a new metabolic pathway. Appl Environ Microbiol 68: 852-858.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC126706/pdf/1266.pdf)
 
-[Annweiler E, Materna A, Safinowski M, Kappler A, Richnow HH, Michaelis W & Meckenstock RU (2000) Anaerobic degradation of 2-methylnaphthalene by a sulfate-reducing enrichment culture. Appl Environ Microb 66: 5329-5333.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92464/pdf/am005329.pdf)
+[Annweiler E, Materna A, Safinowski M, Kappler A, Richnow HH, Michaelis W & Meckenstock RU (2000) Anaerobic degradation of 2-methylnaphthalene by a sulfate-reducing enrichment culture. Appl Environ Microbiol 66: 5329-5333.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92464/pdf/am005329.pdf)
 
 [Ball HA, Johnson HA, Reinhard M & Spormann AM (1996) Initial reactions in anaerobic ethylbenzene oxidation by a denitrifying bacterium, strain EB1. J Bacteriol 178: 5755-5761.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC178416/pdf/1785755.pdf)
 
-[Beller HR & Spormann AM (1997) Benzylsuccinate formation as a means of anaerobic toluene activation by sulfate-reducing strain PRTOL1. Appl Environ Microb 63: 3729-3731.](http://aem.asm.org/content/63/9/3729.full.pdf)
+[Beller HR & Spormann AM (1997) Benzylsuccinate formation as a means of anaerobic toluene activation by sulfate-reducing strain PRTOL1. Appl Environ Microbiol 63: 3729-3731.](http://aem.asm.org/content/63/9/3729.full.pdf)
 
 [Beller HR & Spormann AM (1997) Anaerobic activation of toluene and _o_-xylene by addition to fumarate in denitrifying strain T. J Bacteriol 179: 670-676.](http://jb.asm.org/content/179/3/670.full.pdf)
 
@@ -273,21 +273,21 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 [Callaghan AV (2013) Enzymes involved in the anaerobic oxidation of _n_-alkanes: from methane to long-chain paraffins. Front Microbiol 4.](http://journal.frontiersin.org/article/10.3389/fmicb.2013.00089/full)
 
-[Callaghan AV, Tierney M, Phelps CD & Young LY (2009) Anaerobic biodegradation of _n_-hexadecane by a nitrate-reducing consortium. Appl Environ Microb 75: 1339-1344.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648152/pdf/2491-08.pdf)
+[Callaghan AV, Tierney M, Phelps CD & Young LY (2009) Anaerobic biodegradation of _n_-hexadecane by a nitrate-reducing consortium. Appl Environ Microbiol 75: 1339-1344.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2648152/pdf/2491-08.pdf)
 
-[Callaghan AV, Gieg LM, Kropp KG, Suflita JM & Young LY (2006) Comparison of mechanisms of alkane metabolism under sulfate-reducing conditions among two bacterial isolates and a bacterial consortium. Appl Environ Microb 72: 4274-4282.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1489600/pdf/2896-05.pdf)
+[Callaghan AV, Gieg LM, Kropp KG, Suflita JM & Young LY (2006) Comparison of mechanisms of alkane metabolism under sulfate-reducing conditions among two bacterial isolates and a bacterial consortium. Appl Environ Microbiol 72: 4274-4282.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1489600/pdf/2896-05.pdf)
 
-[Callaghan AV, Wawrik B, Ní Chadhain SM, Young LY & Zylstra GJ (2008) Anaerobic alkane-degrading strain AK-01 contains two alkylsuccinate synthase genes. Biochem Bioph Res Co 366: 142-148.](http://ac.els-cdn.com/S0006291X07025259/1-s2.0-S0006291X07025259-main.pdf?_tid=67703d7a-695b-11e6-9f45-00000aacb360&acdnat=1471975378_b11acbf88b218b368c82f78ac9431fd7)
+[Callaghan AV, Wawrik B, Ní Chadhain SM, Young LY & Zylstra GJ (2008) Anaerobic alkane-degrading strain AK-01 contains two alkylsuccinate synthase genes. Biochem Bioph Res Comm 366: 142-148.](http://ac.els-cdn.com/S0006291X07025259/1-s2.0-S0006291X07025259-main.pdf?_tid=67703d7a-695b-11e6-9f45-00000aacb360&acdnat=1471975378_b11acbf88b218b368c82f78ac9431fd7)
 
 Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. et al. (2008) The Complete Genome Sequence of _Desulfococcus oleovorans_ Hxd3, a Sulfate-Reducing, Alkane-Degrading Bacterium. In American Society for Microbiology 108th General Meeting. Boston, MA.
 
-[Coschigano PW, Wehrman TS & Young LY (1998) Identification and analysis of genes involved in anaerobic toluene metabolism by strain T1: putative role of a glycine free radical. Appl Environ Microb 64:1650-1656.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC106210/pdf/am001650.pdf)
+[Coschigano PW, Wehrman TS & Young LY (1998) Identification and analysis of genes involved in anaerobic toluene metabolism by strain T1: putative role of a glycine free radical. Appl Environ Microbiol 64:1650-1656.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC106210/pdf/am001650.pdf)
 
-[Davidova IA, Gieg LM, Duncan KE & Suflita JM (2007) Anaerobic phenanthrene mineralization by a carboxylating sulfate-reducing bacterial enrichment. Isme J 1: 436-442.](http://www.nature.com/ismej/journal/v1/n5/pdf/ismej200748a.pdf)
+[Davidova IA, Gieg LM, Duncan KE & Suflita JM (2007) Anaerobic phenanthrene mineralization by a carboxylating sulfate-reducing bacterial enrichment. ISME J 1: 436-442.](http://www.nature.com/ismej/journal/v1/n5/pdf/ismej200748a.pdf)
 
 [DiDonato RJ, Young ND, Butler JE, Chin KJ, Hixson KK, Mouser P, Lipton MS, DeBoy R & Methe BA (2010) Genome sequence of the deltaproteobacterial strain NaphS2 and analysis of differential gene expression during anaerobic growth on naphthalene. Plos One 5:11.](http://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0014072.PDF)
 
-[Evans PJ, Ling W, Goldschmidt B, Ritter ER & Young LY (1992) Metabolites formed during anaerobic transformation of toluene and _o_-xylene and their proposed relationship to the initial steps of toluene mneralization. Appl Environ Microb 58: 496-501.](http://aem.asm.org/content/58/2/496.full.pdf)
+[Evans PJ, Ling W, Goldschmidt B, Ritter ER & Young LY (1992) Metabolites formed during anaerobic transformation of toluene and _o_-xylene and their proposed relationship to the initial steps of toluene mneralization. Appl Environ Microbiol 58: 496-501.](http://aem.asm.org/content/58/2/496.full.pdf)
 
 [Grundmann O, Behrends A, Rabus R, Amann J, Halder T, Heider J & Widdel F (2008) Genes encoding the candidate enzyme for anaerobic activation of _n_-alkanes in the denitrifying bacterium, strain HxN1. Environ Microbiol 10: 376-385.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2007.01458.x/asset/j.1462-2920.2007.01458.x.pdf?v=1&t=is7s13uw&s=9614762e1c8294c5ad529c0c4435f4df8ebe3c81)
 
@@ -303,7 +303,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Höffken HW, Duong M, Friedrich T, Breuer M, Hauer B, Reinhardt R, Rabus R & Heider J (2006) Crystal structure and enzyme kinetics of the (_S_)-specific 1-phenylethanol dehydrogenase of the denitrifying bacterium strain EbN1. Biochemistry-Us 45: 82-93.](http://pubs.acs.org/doi/pdfplus/10.1021/bi051596b)
 
-[Holmes DE, Risso C, Smith JA & Lovley DR (2011) Anaerobic oxidation of benzene by the hyperthermophilic archaeon _Ferroglobus placidus_. Appl Environ Microb 77: 5926-5933.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165377/pdf/zam5926.pdf)
+[Holmes DE, Risso C, Smith JA & Lovley DR (2011) Anaerobic oxidation of benzene by the hyperthermophilic archaeon _Ferroglobus placidus_. Appl Environ Microbiol 77: 5926-5933.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3165377/pdf/zam5926.pdf)
 
 [Hopper DJ, Bossert ID & Rhodes-Roberts ME (1991) _p_-Cresol methylhydroxylase from a denitrifying bacterium involved in anaerobic degradation of p-cresol. J Bacteriol 173: 1298-1301.](http://jb.asm.org/content/173/3/1298.full.pdf)
 
@@ -323,7 +323,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Kniemeyer O & Heider J (2001) Ethylbenzene dehydrogenase, a novel hydrocarbon-oxidizing molybdenum/iron-sulfur/heme enzyme. J Biol Chem 276: 21381-21386.](http://www.jbc.org/content/276/24/21381.full.pdf)
 
-[Kniemeyer O, Fischer T, Wilkes H, Glöckner FO & Widdel F (2003) Anaerobic degradation of ethylbenzene by a new type of marine sulfate-reducing bacterium. Appl Environ Microb 69: 760-768.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC143655/pdf/1380.pdf)
+[Kniemeyer O, Fischer T, Wilkes H, Glöckner FO & Widdel F (2003) Anaerobic degradation of ethylbenzene by a new type of marine sulfate-reducing bacterium. Appl Environ Microbiol 69: 760-768.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC143655/pdf/1380.pdf)
 
 [Kniemeyer O, Musat F, Sievert SM, Knittel K, Wilkes H, Blumenberg M, Michaelis W, Classen A, Bolm C, Joye SB & Widdel F (2007) Anaerobic oxidation of short-chain hydrocarbons by marine sulphate-reducing bacteria. Nature 449: 898-U810.](http://www.nature.com/nature/journal/v449/n7164/pdf/nature06200.pdf)
 
@@ -339,7 +339,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Meckenstock RU & Mouttaki H (2011) Anaerobic degradation of non-substituted aromatic hydrocarbons. Curr Opin Biotechnol 22: 406-414.](http://ac.els-cdn.com/S095816691100036X/1-s2.0-S095816691100036X-main.pdf?_tid=8a5fa2ee-695b-11e6-b333-00000aacb360&acdnat=1471975436_a900450afddd6f58981328bd8691df4b)
 
-[Meckenstock RU, Annweiler E, Michaelis W, Richnow HH & Schink B (2000) Anaerobic naphthalene degradation by a sulfate-reducing enrichment culture. Appl Environ Microb 66: 2743-2747.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92068/pdf/am002743.pdf)
+[Meckenstock RU, Annweiler E, Michaelis W, Richnow HH & Schink B (2000) Anaerobic naphthalene degradation by a sulfate-reducing enrichment culture. Appl Environ Microbiol 66: 2743-2747.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92068/pdf/am002743.pdf)
 
 [Morasch B & Meckenstock RU (2005) Anaerobic degradation of _p_-xylene by a sulfate-reducing enrichment culture. Curr Microbiol 51: 127-130.](http://download.springer.com/static/pdf/993/art%253A10.1007%252Fs00284-005-4518-5.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00284-005-4518-5&token2=exp=1471976460~acl=%2Fstatic%2Fpdf%2F993%2Fart%25253A10.1007%25252Fs00284-005-4518-5.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00284-005-4518-5*~hmac=f71813abaf11cfbe2212fb5a19cd195c239a3f3a5f0bc574159530cf57036282)
 
@@ -365,7 +365,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Safinowski M, Griebler C & Meckenstock RU (2006) Anaerobic cometabolic transformation of polycyclic and heterocyclic aromatic hydrocarbons: Evidence from laboratory and field studies. Environ Sci Technol 40: 4165-4173.](http://pubs.acs.org/doi/pdf/10.1021/es0525410)
 
-[Schleinitz KM, Schmeling S, Jehmlich N, von Bergen M, Harms H, Kleinsteuber S, Vogt C & Fuchs G (2009) Phenol degradation in the strictly anaerobic iron-reducing bacterium _Geobacter metallireducens_ GS-15. Appl Environ Microb 75: 3912-3919.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2698347/pdf/1525-08.pdf)
+[Schleinitz KM, Schmeling S, Jehmlich N, von Bergen M, Harms H, Kleinsteuber S, Vogt C & Fuchs G (2009) Phenol degradation in the strictly anaerobic iron-reducing bacterium _Geobacter metallireducens_ GS-15. Appl Environ Microbiol 75: 3912-3919.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2698347/pdf/1525-08.pdf)
 
 [Schühle K & Fuchs G (2004) Phenylphosphate carboxylase: a new C-C lyase involved in anaerobic in phenol metabolism in _Thauera aromatica_. J Bacteriol 186: 4556-4567.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC438602/pdf/0273-04.pdf)
 
@@ -373,11 +373,11 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Selesi D, Jehmlich N, von Bergen M, Schmidt F, Rattei T, Tischler P, Lueders T & Meckenstock RU (2010) Combined genomic and proteomic approaches identify gene clusters involved in anaerobic 2-methylnaphthalene degradation in the sulfate-reducing enrichment culture N47. J Bacteriol 192: 295-306.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2798259/pdf/0874-09.pdf)
 
-[So CM, Phelps CD & Young LY (2003) Anaerobic transformation of alkanes to fatty acids by a sulfate-reducing bacterium, strain Hxd3. Appl Environ Microb 69: 3892-3900.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC165127/pdf/0048.pdf)
+[So CM, Phelps CD & Young LY (2003) Anaerobic transformation of alkanes to fatty acids by a sulfate-reducing bacterium, strain Hxd3. Appl Environ Microbiol 69: 3892-3900.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC165127/pdf/0048.pdf)
 
-[Strijkstra A, Trautwein K, Jarling R, Wöhlbrand L, Dorries M, Reinhardt R, Drozdowska M, Golding BT, Wilkes H & Rabus R (2014) Anaerobic activation of _p_-cymene in denitrifying Betaproteobacteria: methyl group hydroxylation versus addition to fumarate. Appl Environ Microb 80: 7592-7603.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249252/pdf/zam7592.pdf)
+[Strijkstra A, Trautwein K, Jarling R, Wöhlbrand L, Dorries M, Reinhardt R, Drozdowska M, Golding BT, Wilkes H & Rabus R (2014) Anaerobic activation of _p_-cymene in denitrifying Betaproteobacteria: methyl group hydroxylation versus addition to fumarate. Appl Environ Microbiol 80: 7592-7603.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249252/pdf/zam7592.pdf)
 
-[Sullivan ER, Zhang XM, Phelps C & Young LY (2001) Anaerobic mineralization of stable-isotope-labeled 2-methylnaphthalene. Appl Environ Microb 67: 4353-4357.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC93170/pdf/am004353.pdf)
+[Sullivan ER, Zhang XM, Phelps C & Young LY (2001) Anaerobic mineralization of stable-isotope-labeled 2-methylnaphthalene. Appl Environ Microbiol 67: 4353-4357.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC93170/pdf/am004353.pdf)
 
 [Verfürth K, Pierik AJ, Leutwein C, Zorn S & Heider J (2004) Substrate specificities and electron paramagnetic resonance properties of benzylsuccinate synthases in anaerobic toluene and m-xylene metabolism. Arch Microbiol 181: 155-162.](http://download.springer.com/static/pdf/382/art%253A10.1007%252Fs00203-003-0642-4.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00203-003-0642-4&token2=exp=1471976506~acl=%2Fstatic%2Fpdf%2F382%2Fart%25253A10.1007%25252Fs00203-003-0642-4.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00203-003-0642-4*~hmac=e2aa3ff69bf544b0fc0ccf45a9e13142c4e821a7584bb015efb675cda993545f)
 
@@ -389,6 +389,6 @@ Webner K (2012) Die Gene der (1-Methylalkyl)succinat-Synthase im anaeroben _n_-A
 
 [Wöhlbrand L, Jacob JH, Kube M, Mussmann M, Jarling R, Beck A, Amann R, Wilkes H, Reinhardt R & Rabus R (2013) Complete genome, catabolic sub-proteomes and key metabolites of _Desulfobacula toluolica_ Tol2, a marine, aromatic compound-degrading, sulfate-reducing bacterium. Environ Microbiol 15: 1334-1355.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2012.02885.x/asset/emi2885.pdf?v=1&t=is7s3f1r&s=898dabfce1e30c6b273f3e293ff343375500d2af)
 
-[Zhang XM & Young LY (1997) Carboxylation as an initial reaction in the anaerobic metabolism of naphthalene and phenanthrene by sulfidogenic consortia. Appl Environ Microb 63: 4759-4764.](http://aem.asm.org/content/63/12/4759.full.pdf)
+[Zhang XM & Young LY (1997) Carboxylation as an initial reaction in the anaerobic metabolism of naphthalene and phenanthrene by sulfidogenic consortia. Appl Environ Microbiol 63: 4759-4764.](http://aem.asm.org/content/63/12/4759.full.pdf)
 
 - - -
