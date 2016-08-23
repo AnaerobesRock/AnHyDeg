@@ -387,7 +387,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Wöhlbrand L, Kallerhoff B, Lange D, Hufnagel P, Thiermann J, Reinhardt R & Rabus R (2007) Functional proteomic view of metabolic regulation in _"Aromatoleum aromaticum"_ strain EbN1. Proteomics 7: 2222-2239.](http://onlinelibrary.wiley.com/doi/10.1002/pmic.200600987/epdf)
 
-[Wöhlbrand L, Jacob JH, Kube M, Mussmann M, Jarling R, Beck A, Amann R, Wilkes H, Reinhardt R & Rabus R (2013) Complete genome, catabolic sub-proteomes and key metabolites of _Desulfobacula toluolica_ Tol2, a marine, aromatic compound-degrading, sulfate-reducing bacterium. Environ Microbiol 15: 1334-1355.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2012.02885.x/asset/emi2885.pdf?v=1&t=is7s3f1r&s=898dabfce1e30c6b273f3e293ff343375500d2af)
+[Wöhlbrand L, Jacob JH, Kube M, Mussmann M, Jarling R, Beck A, Amann R, Wilkes H, Reinhardt R & Rabus R (2013) Complete genome, catabolic sub-proteomes and key metabolites of _Desulfobacula toluolica_ Tol2, a marine, aromatic compound-degrading, sulfate-reducing bacterium. Environ Microbiol 15: 1334-1355.](http://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2012.02885.x/epdf)
 
 [Zhang XM & Young LY (1997) Carboxylation as an initial reaction in the anaerobic metabolism of naphthalene and phenanthrene by sulfidogenic consortia. Appl Environ Microbiol 63: 4759-4764.](http://aem.asm.org/content/63/12/4759.full.pdf)
 
