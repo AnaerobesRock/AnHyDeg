@@ -285,7 +285,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Davidova IA, Gieg LM, Duncan KE & Suflita JM (2007) Anaerobic phenanthrene mineralization by a carboxylating sulfate-reducing bacterial enrichment. ISME J 1: 436-442.](http://www.nature.com/ismej/journal/v1/n5/pdf/ismej200748a.pdf)
 
-[DiDonato RJ, Young ND, Butler JE, Chin KJ, Hixson KK, Mouser P, Lipton MS, DeBoy R & Methe BA (2010) Genome sequence of the deltaproteobacterial strain NaphS2 and analysis of differential gene expression during anaerobic growth on naphthalene. Plos One 5:11.](http://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0014072.PDF)
+[DiDonato RJ, Young ND, Butler JE, Chin KJ, Hixson KK, Mouser P, Lipton MS, DeBoy R & Methe BA (2010) Genome sequence of the deltaproteobacterial strain NaphS2 and analysis of differential gene expression during anaerobic growth on naphthalene. PLoS One 5:11.](http://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0014072.PDF)
 
 [Evans PJ, Ling W, Goldschmidt B, Ritter ER & Young LY (1992) Metabolites formed during anaerobic transformation of toluene and _o_-xylene and their proposed relationship to the initial steps of toluene mneralization. Appl Environ Microbiol 58: 496-501.](http://aem.asm.org/content/58/2/496.full.pdf)
 
