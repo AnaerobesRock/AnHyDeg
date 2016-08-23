@@ -317,7 +317,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Johnson HA, Pelletier DA & Spormann AM (2001) Isolation and characterization of anaerobic ethylbenzene dehydrogenase, a novel Mo-Fe-S enzyme. J Bacteriol 183: 4536-4542.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC95348/pdf/jb004536.pdf)
 
-[Keat MJ & Hopper DJ (1978) p-Cresol and 3,5-xylenol methylhydroxylases in _Pseudomonas putida_ NCIB 9869. Biochem J 175: 649-658.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1186115/pdf/biochemj00476-0296.pdf)
+[Keat MJ & Hopper DJ (1978) _p_-Cresol and 3,5-xylenol methylhydroxylases in _Pseudomonas putida_ NCIB 9869. Biochem J 175: 649-658.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1186115/pdf/biochemj00476-0296.pdf)
 
 [Kniemeyer O & Heider J (2001) (S)-1-Phenylethanol dehydrogenase of _Azoarcus_ sp strain EbN1, an enzyme of anaerobic ethylbenzene catabolism. Arch Microbiol 176: 129-135.](http://download.springer.com/static/pdf/729/art%253A10.1007%252Fs002030100303.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs002030100303&token2=exp=1471976437~acl=%2Fstatic%2Fpdf%2F729%2Fart%25253A10.1007%25252Fs002030100303.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs002030100303*~hmac=a1edcc81ebc3f8b73705d4eccc84d69a25707f9c1a707cce70773e88973f0a6d)
 
