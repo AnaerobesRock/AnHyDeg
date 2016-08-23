@@ -385,7 +385,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Wilkes H, Buckel W, Golding BT & Rabus R (2016) Metabolism of hydrocarbons in n-alkane-utilizing anaerobic bacteria. J Mol Microb Biotech 26: 138-151.](http://www.karger.com/Article/Abstract/442160)
 
-[Wöhlbrand L, Kallerhoff B, Lange D, Hufnagel P, Thiermann J, Reinhardt R & Rabus R (2007) Functional proteomic view of metabolic regulation in _"Aromatoleum aromaticum"_ strain EbN1. Proteomics 7: 2222-2239.](http://onlinelibrary.wiley.com/store/10.1002/pmic.200600987/asset/2222_ftp.pdf?v=1&t=is7s3jo4&s=713b0b05d85289b691e8678308ce46a32aaaf975)
+[Wöhlbrand L, Kallerhoff B, Lange D, Hufnagel P, Thiermann J, Reinhardt R & Rabus R (2007) Functional proteomic view of metabolic regulation in _"Aromatoleum aromaticum"_ strain EbN1. Proteomics 7: 2222-2239.](http://onlinelibrary.wiley.com/doi/10.1002/pmic.200600987/epdf)
 
 [Wöhlbrand L, Jacob JH, Kube M, Mussmann M, Jarling R, Beck A, Amann R, Wilkes H, Reinhardt R & Rabus R (2013) Complete genome, catabolic sub-proteomes and key metabolites of _Desulfobacula toluolica_ Tol2, a marine, aromatic compound-degrading, sulfate-reducing bacterium. Environ Microbiol 15: 1334-1355.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2012.02885.x/asset/emi2885.pdf?v=1&t=is7s3f1r&s=898dabfce1e30c6b273f3e293ff343375500d2af)
 
