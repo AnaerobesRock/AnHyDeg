@@ -349,7 +349,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Müller JA, Galushko AS, Kappler A & Schink B (2001) Initiation of anaerobic degradation of _p_-cresol by formation of 4-hydroxybenzylsuccinate in _Desulfobacterium cetonicum_. J Bacteriol 183: 752-757.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC94933/pdf/jb000752.pdf)
 
-[Musat F, Galushko A, Jacob J, Widdel F, Kube M, Reinhardt R, Wilkes H, Schink B & Rabus R (2009) Anaerobic degradation of naphthalene and 2-methylnaphthalene by strains of marine sulfate-reducing bacteria. Environ Microbiol 11: 209-219.](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2008.01756.x/asset/j.1462-2920.2008.01756.x.pdf?v=1&t=is7s2hi1&s=434467648147518db102e70a4414069f1afffd2d)
+[Musat F, Galushko A, Jacob J, Widdel F, Kube M, Reinhardt R, Wilkes H, Schink B & Rabus R (2009) Anaerobic degradation of naphthalene and 2-methylnaphthalene by strains of marine sulfate-reducing bacteria. Environ Microbiol 11: 209-219.](http://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2008.01756.x/epdf)
 
 [Peters F, Heintz D, Johannes J, van Dorsselaer A & Boll M (2007) Genes, enzymes, and regulation of _p_-cresol metabolism in _Geobacter metallireducens_. J Bacteriol 189: 4729-4738.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913446/pdf/0260-07.pdf)
 
