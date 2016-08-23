@@ -249,25 +249,26 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 - - - 
 ##References
 - - - 
-[Abu Laban N, Selesi D, Rattei T, Tischler P & Meckenstock RU (2010) Identification of enzymes involved in anaerobic benzene degradation by a strictly anaerobic iron-reducing enrichment culture. Environ Microbiol 12: 2783-2796](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2010.02248.x/asset/j.1462-2920.2010.02248.x.pdf?v=1&t=is7s0f0n&s=00181156b7200c214d86ab609aa76bbbaaf3f543)
+[Abu Laban N, Selesi D, Rattei T, Tischler P & Meckenstock RU (2010) Identification of enzymes involved in anaerobic benzene degradation by a strictly anaerobic iron-reducing enrichment culture. Environ Microbiol 12: 2783-2796](http://www.ncbi.nlm.nih.gov/pubmed/20545743)
 
-Annweiler E, Michaelis W & Meckenstock RU (2001) Anaerobic cometabolic conversion of benzothiophene by a sulfate-reducing enrichment culture and in a tar-oil- contaminated aquifer. Appl Environ Microb 67: 5077-5083 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC93274/pdf/am1101005077.pdf.
-Annweiler E, Michaelis W & Meckenstock RU (2002) Identical ring cleavage products during anaerobic degradation of naphthalene, 2-methylnaphthalene, and tetralin indicate a new metabolic pathway. Appl Environ Microb 68: 852-858 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC126706/pdf/1266.pdf.
-Annweiler E, Materna A, Safinowski M, Kappler A, Richnow HH, Michaelis W & Meckenstock RU (2000) Anaerobic degradation of 2-methylnaphthalene by a sulfate-reducing enrichment culture. Appl Environ Microb 66: 5329-5333 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92464/pdf/am005329.pdf.
-Ball HA, Johnson HA, Reinhard M & Spormann AM (1996) Initial reactions in anaerobic ethylbenzene oxidation by a denitrifying bacterium, strain EB1. J Bacteriol 178: 5755-5761 
-http://jb.asm.org/content/178/19/5755.full.pdf.
-Beller HR & Spormann AM (1997) Benzylsuccinate formation as a means of anaerobic toluene activation by sulfate-reducing strain PRTOL1. Appl Environ Microb 63: 3729-3731 
-http://aem.asm.org/content/63/9/3729.full.pdf.
-Beller HR & Spormann AM (1997) Anaerobic activation of toluene and o-xylene by addition to fumarate in denitrifying strain T. J Bacteriol 179: 670-676 http://jb.asm.org/content/179/3/670.full.pdf.
-Beller HR & Spormann AM (1999) Substrate range of benzylsuccinate synthase from Azoarcus sp. strain T. Fems Microbiol Lett 178: 147-153 
-http://femsle.oxfordjournals.org/content/femsle/178/1/147.full.pdf.
-Bergmann F, Selesi D, Weinmaier T, Tischler P, Rattei T & Meckenstock RU (2011) Genomic insights into the metabolic potential of the polycyclic aromatic hydrocarbon degrading sulfate-reducing Deltaproteobacterium N47. Environ Microbiol 13: 1125-1137 
-http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2010.02391.x/asset/j.1462-2920.2010.02391.x.pdf?v=1&t=is7s0r5y&s=7f649c8985f0a5c5bc98d9265426395e4495dcdb.
-Bergmann FD, Selesi D & Meckenstock RU (2011) Identification of new enzymes potentially involved in anaerobic naphthalene degradation by the sulfate-reducing enrichment culture N47. Arch Microbiol 193: 241-250 
-http://download.springer.com/static/pdf/877/art%253A10.1007%252Fs00203-010-0667-4.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00203-010-0667-4&token2=exp=1471976388~acl=%2Fstatic%2Fpdf%2F877%2Fart%25253A10.1007%25252Fs00203-010-0667-4.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00203-010-0667-4*~hmac=9c61b454cfecfb516b8c89400440ac1a451a0a86d03d14986fefee97f7750304.
+[Annweiler E, Michaelis W & Meckenstock RU (2001) Anaerobic cometabolic conversion of benzothiophene by a sulfate-reducing enrichment culture and in a tar-oil- contaminated aquifer. Appl Environ Microb 67: 5077-5083] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC93274/pdf/am1101005077.pdf.)
+
+[Annweiler E, Michaelis W & Meckenstock RU (2002) Identical ring cleavage products during anaerobic degradation of naphthalene, 2-methylnaphthalene, and tetralin indicate a new metabolic pathway. Appl Environ Microb 68: 852-858](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC126706/pdf/1266.pdf)
+
+[Annweiler E, Materna A, Safinowski M, Kappler A, Richnow HH, Michaelis W & Meckenstock RU (2000) Anaerobic degradation of 2-methylnaphthalene by a sulfate-reducing enrichment culture. Appl Environ Microb 66: 5329-5333 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC92464/pdf/am005329.pdf)
+
+[Ball HA, Johnson HA, Reinhard M & Spormann AM (1996) Initial reactions in anaerobic ethylbenzene oxidation by a denitrifying bacterium, strain EB1. J Bacteriol 178: 5755-5761](http://jb.asm.org/content/178/19/5755.full.pd)
+
+[Beller HR & Spormann AM (1997) Benzylsuccinate formation as a means of anaerobic toluene activation by sulfate-reducing strain PRTOL1. Appl Environ Microb 63: 3729-3731](http://aem.asm.org/content/63/9/3729.full.pdf)
+
+[Beller HR & Spormann AM (1997) Anaerobic activation of toluene and o-xylene by addition to fumarate in denitrifying strain T. J Bacteriol 179: 670-676](http://jb.asm.org/content/179/3/670.full.pdf)
+
+[Beller HR & Spormann AM (1999) Substrate range of benzylsuccinate synthase from Azoarcus sp. strain T. Fems Microbiol Lett 178: 147-153](http://femsle.oxfordjournals.org/content/femsle/178/1/147.full.pdf)
+
+[Bergmann F, Selesi D, Weinmaier T, Tischler P, Rattei T & Meckenstock RU (2011) Genomic insights into the metabolic potential of the polycyclic aromatic hydrocarbon degrading sulfate-reducing Deltaproteobacterium N47. Environ Microbiol 13: 1125-1137](http://onlinelibrary.wiley.com/store/10.1111/j.1462-2920.2010.02391.x/asset/j.1462-2920.2010.02391.x.pdf?v=1&t=is7s0r5y&s=7f649c8985f0a5c5bc98d9265426395e4495dcdb)
+
+[Bergmann FD, Selesi D & Meckenstock RU (2011) Identification of new enzymes potentially involved in anaerobic naphthalene degradation by the sulfate-reducing enrichment culture N47. Arch Microbiol 193: 241-250](http://download.springer.com/static/pdf/877/art%253A10.1007%252Fs00203-010-0667-4.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00203-010-0667-4&token2=exp=1471976388~acl=%2Fstatic%2Fpdf%2F877%2Fart%25253A10.1007%25252Fs00203-010-0667-4.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00203-010-0667-4*~hmac=9c61b454cfecfb516b8c89400440ac1a451a0a86d03d14986fefee97f7750304)
+
 Biegert T, Fuchs G & Heider F (1996) Evidence that anaerobic oxidation of toluene in the denitrifying bacterium Thauera aromatica is initiated by formation of benzylsuccinate from toluene and fumarate. Eur J Biochem 238: 661-668 
 http://onlinelibrary.wiley.com/store/10.1111/j.1432-1033.1996.0661w.x/asset/j.1432-1033.1996.0661w.x.pdf?v=1&t=is7s0vsn&s=911132e601e3d9b46d138afffec1af21653d0cb1.
 Callaghan AV (2013) Enzymes involved in the anaerobic oxidation of n-alkanes: from methane to long-chain paraffins. Front Microbiol 4
