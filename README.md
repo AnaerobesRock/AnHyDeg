@@ -335,7 +335,7 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 
 [Lack A, Tommasi I, Aresta M & Fuchs G (1991) Catalytic properties of phenol carboxylase - _In vitro_ study of CO<sub>2</sub>: 4-hydroxybenzoate isotope exchange reaction. Eur J Biochem 197: 473-479.](http://onlinelibrary.wiley.com/doi/10.1111/j.1432-1033.1991.tb15934.x/epdf)
 
-[Leuthner B, Leutwein C, Schulz H, Horth P, Haehnel W, Schiltz E, Schägger H & Heider J (1998) Biochemical and genetic characterization of benzylsuccinate synthase from _Thauera aromatica_: a new glycyl radical enzyme catalysing the first step in anaerobic toluene metabolism. Mol Microbiol 28: 615-628.](http://onlinelibrary.wiley.com/store/10.1046/j.1365-2958.1998.00826.x/asset/j.1365-2958.1998.00826.x.pdf?v=1&t=is7s29on&s=bf501450d1b64bbc59d1482acd603a37cbbae6d2)
+[Leuthner B, Leutwein C, Schulz H, Horth P, Haehnel W, Schiltz E, Schägger H & Heider J (1998) Biochemical and genetic characterization of benzylsuccinate synthase from _Thauera aromatica_: a new glycyl radical enzyme catalysing the first step in anaerobic toluene metabolism. Mol Microbiol 28: 615-628.](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2958.1998.00826.x/epdf)
 
 [Meckenstock RU & Mouttaki H (2011) Anaerobic degradation of non-substituted aromatic hydrocarbons. Curr Opin Biotechnol 22: 406-414.](http://ac.els-cdn.com/S095816691100036X/1-s2.0-S095816691100036X-main.pdf?_tid=8a5fa2ee-695b-11e6-b333-00000aacb360&acdnat=1471975436_a900450afddd6f58981328bd8691df4b)
 
