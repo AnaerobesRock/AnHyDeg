@@ -265,7 +265,7 @@ Anaerobic biodegradation of p-cresol proceeds via: 1) methyl addition to fumarat
 
 [Beller HR & Spormann AM (1999) Substrate range of benzylsuccinate synthase from _Azoarcus_ sp. strain T. FEMS Microbiol Lett 178: 147-153.](http://femsle.oxfordjournals.org/content/femsle/178/1/147.full.pdf)
 
-[Bergmann F, Selesi D, Weinmaier T, Tischler P, Rattei T & Meckenstock RU (2011) Genomic insights into the metabolic potential of the polycyclic aromatic hydrocarbon degrading sulfate-reducing Deltaproteobacterium N47. Environ Microbiol 13: 1125-1137.](http://www.ncbi.nlm.nih.gov/pubmed/21176053)
+[Bergmann F, Selesi D, Weinmaier T, Tischler P, Rattei T & Meckenstock RU (2011) Genomic insights into the metabolic potential of the polycyclic aromatic hydrocarbon degrading sulfate-reducing Deltaproteobacterium N47. Environ Microbiol 13: 1125-1137.](http://onlinelibrary.wiley.com/doi/10.1111/j.1462-2920.2010.02391.x/epdf)
 
 [Bergmann FD, Selesi D & Meckenstock RU (2011) Identification of new enzymes potentially involved in anaerobic naphthalene degradation by the sulfate-reducing enrichment culture N47. Arch Microbiol 193: 241-250](http://download.springer.com/static/pdf/877/art%253A10.1007%252Fs00203-010-0667-4.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00203-010-0667-4&token2=exp=1471976388~acl=%2Fstatic%2Fpdf%2F877%2Fart%25253A10.1007%25252Fs00203-010-0667-4.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs00203-010-0667-4*~hmac=9c61b454cfecfb516b8c89400440ac1a451a0a86d03d14986fefee97f7750304)
 
