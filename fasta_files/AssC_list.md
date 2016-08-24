@@ -7,7 +7,7 @@ Protein | Organism | GenBank Accession |
 | MasC | *‘Aromatoleum’* sp. HxN1 (formerly _'Azoarcus'_) | [CAO03073](http://www.ncbi.nlm.nih.gov/protein/CAO03073) |
 | AssC | *‘Smithella’* sp.  SCADC | [KFO69020](http://www.ncbi.nlm.nih.gov/protein/KFO69020) |
 | AssC | *‘Smithella’* sp.  D17 | [KFZ44316](http://www.ncbi.nlm.nih.gov/protein/KFZ44316) |
-| AssC | *‘Smithella’* sp.  SDB | [xx](http://www.ncbi.nlm.nih.gov/protein/xx) |
+| AssC | *‘Smithella’* sp.  SDB | [N/A](http://www.ncbi.nlm.nih.gov/protein/xx) |
 
 ###FILE DOWNLOAD LINKS
 
