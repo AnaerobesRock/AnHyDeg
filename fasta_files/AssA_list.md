@@ -11,7 +11,7 @@ Protein | Organism | GenBank Accession |
 | AssA2 | *‘Smithella’* sp.  SCADC | [KGL06511](http://www.ncbi.nlm.nih.gov/protein/KGL06511) |
 | AssA | *‘Smithella’* sp.  D17 | [KFZ44314](http://www.ncbi.nlm.nih.gov/protein/KFZ44314) |
 | AssA | *‘Smithella’* sp.  ME-1 (partial) | [WP_040625488 ](http://www.ncbi.nlm.nih.gov/protein/WP_040625488) |
-| AssA | *‘Smithella’* sp.  SDB | [](http://www.ncbi.nlm.nih.gov/protein/) |
+| AssA | *‘Smithella’* sp.  SDB (partial)| [KQC08433](http://www.ncbi.nlm.nih.gov/protein/KQC08433) 
 | AssA (putative) | *‘Peptococcaceae’* bacterium SCADC1_2_3 | [KFI38250](http://www.ncbi.nlm.nih.gov/protein/KFI38250) |
 | AssA (putative) | *Desulfosarcina* sp. BuS5 | [WP_027352796](http://www.ncbi.nlm.nih.gov/protein/WP_027352796) |
 
