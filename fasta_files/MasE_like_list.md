@@ -13,5 +13,5 @@ Protein | Organism | GenBank Accession |
 
  File type | Download Link |
  :--- | :---------- | 
-| Amino Acid | [AssE_AA.faa](amino_acid/AssE_AA.faa) |
-| Nucleotide | [assE_NT.fna](nucleotide/assE_NT.fna) |
+| Amino Acid | [MasE_AA.faa](amino_acid/AssE_AA.faa) |
+| Nucleotide | [MasE_NT.fna](nucleotide/assE_NT.fna) |
