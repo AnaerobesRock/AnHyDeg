@@ -2,8 +2,8 @@ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | AssA1 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03428](http://www.ncbi.nlm.nih.gov/protein/ACL03428) |
 | AssA2 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03892](http://www.ncbi.nlm.nih.gov/protein/ACL03892) |
-| AssA  | *Desulfatibacillum aliphaticivorans* DSM 15576T | [WP_028315530](http://www.ncbi.nlm.nih.gov/protein/WP_028315530) |
-| AssA  | *Desulfatibacillum aliphaticivoran*s DSM 15576T | [WP_051327391](http://www.ncbi.nlm.nih.gov/protein/WP_051327391) |
+| AssA1  | *Desulfatibacillum aliphaticivorans* DSM 15576T | [WP_028315530](http://www.ncbi.nlm.nih.gov/protein/WP_028315530) |
+| AssA2  | *Desulfatibacillum aliphaticivoran*s DSM 15576T | [WP_051327391](http://www.ncbi.nlm.nih.gov/protein/WP_051327391) |
 | AssA | *Desulfoglaeba alkanexedens* ALDC | [ADJ51097](http://www.ncbi.nlm.nih.gov/protein/ADJ51097) |
 | MasD | *‘Aromatoleum’* sp. HxN1 (formerly _'Azoarcus'_) | [CAO03074](http://www.ncbi.nlm.nih.gov/protein/CAO03074) |
 | MasD | *‘Aromatoleum’* sp. OcN1 | [CBK27727](http://www.ncbi.nlm.nih.gov/protein/CBK27727) |
