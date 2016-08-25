@@ -2,8 +2,8 @@ Protein | Organism | GenBank Accession |
  :--- | :--- | :--- |
 | AssC1 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03427](http://www.ncbi.nlm.nih.gov/protein/ACL03427) |
 | AssC2 | *Desulfatibacillum alkenivorans* AK-01 | [ACL03891](http://www.ncbi.nlm.nih.gov/protein/ACL03891) |
-| AssC1 | *Desulfatibacillum aliphaticivorans* DSM 15576T (98% identical to AssC2 in _D. alkenivorans_) | [ACL03427.1](http://www.ncbi.nlm.nih.gov/protein/ACL03427.1) |
-| AssC2 | *Desulfatibacillum aliphaticivorans* DSM 15576T (Identical to AssC1 in _D. alkenivorans_) | [ACL03891.1](http://www.ncbi.nlm.nih.gov/protein/ACL03891.1) |
+| AssC1 | *Desulfatibacillum aliphaticivorans* DSM 15576T (JGI locus tag G491DRAFT_03719, Identical to AssC1 in _D. alkenivorans_AK-01) | [](http://www.ncbi.nlm.nih.gov/protein/) |
+| AssC2 | *Desulfatibacillum aliphaticivorans* DSM 15576T ( _D. alkenivorans_) | [](http://www.ncbi.nlm.nih.gov/protein/) |
 | MasC | *‘Aromatoleum’* sp. HxN1 (formerly _'Azoarcus'_) | [CAO03073](http://www.ncbi.nlm.nih.gov/protein/CAO03073) |
 | AssC | *‘Smithella’* sp.  SCADC | [KFO69020](http://www.ncbi.nlm.nih.gov/protein/KFO69020) |
 | AssC | *‘Smithella’* sp.  D17 | [KFZ44316](http://www.ncbi.nlm.nih.gov/protein/KFZ44316) |
