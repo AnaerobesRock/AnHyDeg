@@ -1,5 +1,5 @@
 - - - 
-## **AnHyDeg**: A Curated Database of **An**aerobic **Hy**drocarbon **Deg**radation Genes 
+## AnHyDeg: A Curated Database of **An**aerobic **Hy**drocarbon **Deg**radation Genes 
 
 ### _Amy V. Callaghan<sup>*</sup> and Boris Wawrik_
 - - - 
