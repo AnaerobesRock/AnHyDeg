@@ -11,7 +11,10 @@ Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman OK 7301
 
 Email: acallaghan@ou.edu
 - - - 
- [![DOI](https://zenodo.org/badge/23710/AnaerobesRock/AnHyDeg.svg)](https://zenodo.org/badge/latestdoi/23710/AnaerobesRock/AnHyDeg)
+**Please cite as follows:**
+
+Callaghan, A.V., and B. Wawrik. 2016. AnHyDeg: A Curated Database of Anaerobic Hydrocarbon Degradation Genes. https://github.com/AnaerobesRock/AnHyDeg. DOI: [![DOI](https://zenodo.org/badge/23710/AnaerobesRock/AnHyDeg.svg)](https://zenodo.org/badge/latestdoi/23710/AnaerobesRock/AnHyDeg)
+
 - - - 
 
 
@@ -392,8 +395,4 @@ Callaghan, A.V., Austin, R.N., Groves, J.T., Kukor, J.J., Rabus, R., Widdel, F. 
 [Zhang XM & Young LY (1997) Carboxylation as an initial reaction in the anaerobic metabolism of naphthalene and phenanthrene by sulfidogenic consortia. Appl Environ Microbiol 63: 4759-4764.](http://aem.asm.org/content/63/12/4759.full.pdf)
 
 - - -
-**Please cite as follows:**
 
-Callaghan, A.V., and B. Wawrik. 2016. AnHyDeg: A Curated Database of Anaerobic Hydrocarbon Degradation Genes. https://github.com/AnaerobesRock/AnHyDeg. DOI: [![DOI](https://zenodo.org/badge/23710/AnaerobesRock/AnHyDeg.svg)](https://zenodo.org/badge/latestdoi/23710/AnaerobesRock/AnHyDeg)
-
-- - - 
