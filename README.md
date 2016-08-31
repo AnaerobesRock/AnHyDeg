@@ -11,7 +11,12 @@ Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman OK 7301
 
 Email: acallaghan@ou.edu
 - - - 
-Please cite by including the following DOI: **10.5281/zenodo.61278** [![DOI](https://zenodo.org/badge/23710/AnaerobesRock/AnHyDeg.svg)](https://zenodo.org/badge/latestdoi/23710/AnaerobesRock/AnHyDeg)
+Cite as:
+
+Callaghan, A.V., and B. Wawrik. 2016. AnHyDeg: A Curated Database of Anaerobic Hydrocarbon Degradation Genes. https://github.com/AnaerobesRock/AnHyDeg. DOI: 10.5281/zenodo.61278
+
+**Please cite by including the following DOI:**  [![DOI](https://zenodo.org/badge/23710/AnaerobesRock/AnHyDeg.svg)](https://zenodo.org/badge/latestdoi/23710/AnaerobesRock/AnHyDeg)
+
 - - - 
 
 
