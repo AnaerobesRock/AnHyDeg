@@ -13,7 +13,7 @@ Email: acallaghan@ou.edu
 - - - 
 **Please cite as follows:**
 
-Callaghan, A.V., and B. Wawrik. 2016. AnHyDeg: A Curated Database of Anaerobic Hydrocarbon Degradation Genes. https://github.com/AnaerobesRock/AnHyDeg. DOI: [![DOI](https://zenodo.org/badge/23710/AnaerobesRock/AnHyDeg.svg)](https://zenodo.org/badge/latestdoi/23710/AnaerobesRock/AnHyDeg)
+Callaghan, A.V., and B. Wawrik. 2016. AnHyDeg: A Curated Database of Anaerobic Hydrocarbon Degradation Genes. (https://github.com/AnaerobesRock/AnHyDeg). DOI: [![DOI](https://zenodo.org/badge/23710/AnaerobesRock/AnHyDeg.svg)](https://zenodo.org/badge/latestdoi/23710/AnaerobesRock/AnHyDeg)
 
 - - - 
 
